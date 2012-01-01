@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="n" pos="n" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="这个专家看着就像个白痴，说出话来证明了他是白痴" />
+        </para>
+        <para id="1">
+            <sent id="0" cont="真怀疑这个专家是不是小学生。" />
+        </para>
+        <para id="2">
+            <sent id="0" cont="手机跟Pc的操作系统怎么会一样的？" />
+        </para>
+        <para id="3">
+            <sent id="0" cont="手机主要是整体硬件+软件，根本不存在盗版的问题除非有人把苹果的系统装在sp的手机上。" />
+        </para>
+        <para id="4">
+            <sent id="0" cont="这个专家真是笑死人了。" />
+        </para>
+        <para id="5">
+            <sent id="0" cont="起诉手机终端用户，这也是中国的专家才会想的出来。" />
+        </para>
+        <para id="6">
+            <sent id="0" cont="我倒是希望苹果倾销阿，5000多块钱都算倾销，那保时捷，法拉利都是在倾销了" />
+        </para>
+        <para id="7">
+            <sent id="0" cont="手机跟操作系统根本没有可比性！" />
+        </para>
+        <para id="8">
+            <sent id="0" cont="目前的windowsOS不具备替代性，没有可替代的产品，手机是消费品，随时可换，对于很现实的中国人来说，APPLE手机就是一新鲜，数码消费品更新换代很快的！" />
+        </para>
+        <para id="9">
+            <sent id="0" cont="你好心好意地想如此这般，可惜别人拿去买了鲍鱼吃。" />
+        </para>
+        <para id="10">
+            <sent id="0" cont="苹果原价卖手机，哪来倾销？" />
+        </para>
+        <para id="11">
+            <sent id="0" cont="这位专家对中移动的垄断有何见教？" />
+        </para>
+        <para id="12">
+            <sent id="0" cont="手机不可能像操作系统或Office这样应用软件过度垄断市场，相反这样的言论倒是体现了，中国电信部门用通过行政手段，意图垄断市场，强奸手机厂商。" />
+        </para>
+        <para id="13">
+            <sent id="0" cont="你总说人家东西不好咱们自己倒是拿出一个像样的东西来啊别整天喊着支持民族产业自己在那里装什么专家" />
+        </para>
+        <para id="14">
+            <sent id="0" cont="你没有任何调查研究，完全是主观意测！" />
+        </para>
+        <para id="15">
+            <sent id="0" cont="这就是专家！" />
+        </para>
+        <para id="16">
+            <sent id="0" cont="一看其样子，就是一个坐办公室的酒囊饭袋！" />
+        </para>
+        <para id="17">
+            <sent id="0" cont="垃圾专家~~猪一头" />
+        </para>
+        <para id="18">
+            <sent id="0" cont="说的太好了，砖家不思进取还乱放屁？" />
+        </para>
+        <para id="19">
+            <sent id="0" cont="聪明的中国人会在同一个地方跌倒两次吗，只要他敢来，山寨马上打他老姆" />
+        </para>
+        <para id="20">
+            <sent id="0" cont="微软什么时候对个人盗版用户下过手？" />
+        </para>
+        <para id="21">
+            <sent id="0" cont="苹果学微软？" />
+        </para>
+        <para id="22">
+            <sent id="0" cont="恐怕不是一回事吧？" />
+        </para>
+        <para id="23">
+            <sent id="0" cont="什么专家啊？" />
+        </para>
+        <para id="24">
+            <sent id="0" cont="这也算苹果倾销吗？" />
+        </para>
+        <para id="25">
+            <sent id="0" cont="破解版手机根本跟苹果和苹果经销商无关。" />
+        </para>
+        <para id="26">
+            <sent id="0" cont="你以为IPHONE的设计仅仅接打电话和发短信用的？" />
+        </para>
+        <para id="27">
+            <sent id="0" cont="现在韩国手机都全面超越日本手机了，你还YY日货呢。" />
+        </para>
+        <para id="28">
+            <sent id="0" cont="中国人太无耻了，老外知道管不住。" />
+        </para>
+        <para id="29">
+            <sent id="0" cont="中国的专家都是吃屎的，自己没本事搞出象样的东西来就到处瞎呵呵。" />
+        </para>
+        <para id="30">
+            <sent id="0" cont="都不觉得脸红。" />
+        </para>
+        <para id="31">
+            <sent id="0" cont="这人有病吧，OFFICE和WINDOWS有多少人是在用Z版，我想问下这个砖家OR叫兽" />
+        </para>
+        <para id="32">
+            <sent id="0" cont="iphone好个鸟？" />
+        </para>
+        <para id="33">
+            <sent id="0" cont="和日本手机比起来，显得很幼稚。" />
+        </para>
+        <para id="34">
+            <sent id="0" cont="难怪苹果很自知：" />
+            <sent id="1" cont="iphone在日本没有市场！" />
+        </para>
+        <para id="35">
+            <sent id="0" cont="最没有道理的是阉割WIFI！" />
+        </para>
+        <para id="36">
+            <sent id="0" cont="资本主义国家都反对的垄断，我们这里却大行其道。" />
+        </para>
+        <para id="37">
+            <sent id="0" cont="电信行业的利益" />
+        </para>
+        <para id="38">
+            <sent id="0" cont="吃屎的“专家”啊" />
+        </para>
+        <para id="39">
+            <sent id="0" cont="买移动定制手机吧.钱给移动赚也不给萍果赚.国家要建航母啊" />
+        </para>
+        <para id="40">
+            <sent id="0" cont="晕，无论苹果还是微软，都是我们中国人自己在盗版或者私进别人的东西，人家还没说什么，这位专家倒有意见了。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+        </para>
+        <para id="41">
+            <sent id="0" cont="晕死。" />
+        </para>
+        <para id="42">
+            <sent id="0" cont="退一步说就算是他们的策略又怎么样呢，保护自己的版权只是一种权利，并不是版权人的义务啊。" />
+        </para>
+        <para id="43">
+            <sent id="0" cont="移动联通的打手？" />
+        </para>
+        <para id="44">
+            <sent id="0" cont="听到联通，移动这种垄断蛀虫就恶心！" />
+        </para>
+        <para id="45">
+            <sent id="0" cont="就算现在引进又有什么用。" />
+        </para>
+        <para id="46">
+            <sent id="0" cont="Iphone上市都快两年了。" />
+        </para>
+        <para id="47">
+            <sent id="0" cont="都不流行了。" />
+        </para>
+        <para id="48">
+            <sent id="0" cont="受伤的总是消费者" />
+        </para>
+        <para id="49">
+            <sent id="0" cont="吃屎的“专家”啊！" />
+        </para>
+        <para id="50">
+            <sent id="0" cont="坚决用户走私商打垄断！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="51">
+            <sent id="0" cont="就是你们禁止才造成这样的局面的，要是可以自由买卖恐怕大家都会抢着买，而且价格也会降下来的。" />
+        </para>
+        <para id="52">
+            <sent id="0" cont="垄断集团的代言人，真是大言不惭啊" />
+        </para>
+        <para id="53">
+            <sent id="0" cont="这SB还号称专家哪？" />
+        </para>
+        <para id="54">
+            <sent id="0" cont="零售版在世界各地都发售，这能叫苹果公司对破解的放任么，人家生产硬件了凭什么不让赚硬件的钱？" />
+        </para>
+        <para id="55">
+            <sent id="0" cont="说白了，苹果不可能像国外一样赚国内用户的流量钱，消费观念就不一样，既然赚不了干脆就吃硬件市场了，反正全世界都知道中国的水货手机销量在世界上都数一数二，既然不亏本又何乐而不为呢." />
+        </para>
+        <para id="56">
+            <sent id="0" cont="坚决支持砖家的鲜明观点！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="57">
+            <sent id="0" cont="强烈抗议苹果的倾销行为！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="58">
+            <sent id="0" cont="广大用户应该踊跃购买移动公司的定制手机！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="59">
+            <sent id="0" cont="请尽快删除此文章，什么狗屁专家。" />
+        </para>
+        <para id="60">
+            <sent id="0" cont="哪里来哪里去" />
+        </para>
+        <para id="61">
+            <sent id="0" cont="这年头的专家就是吃屎的代名词！" />
+        </para>
+        <para id="62">
+            <sent id="0" cont="猪都知道市场经济的道理.专家猪都不如" />
+        </para>
+        <para id="63">
+            <sent id="0" cont="专家吃屎的" />
+        </para>
+        <para id="64">
+            <sent id="0" cont="这块砖头是垄断企业的喉舌.看到自己主子拿不到好处，急了.出来乱咬人了." />
+        </para>
+        <para id="65">
+            <sent id="0" cont="这个专家是白痴么苹果在香港卖的是非捆绑版，美国那个必须在商店解锁的是199的捆绑版，就算以后苹果正式进入中国市场也无权起诉买了非捆绑版的用户，又不是破解的" />
+        </para>
+        <para id="66">
+            <sent id="0" cont="苹果和微软没有类比性。" />
+        </para>
+        <para id="67">
+            <sent id="0" cont="手机可选择的余地太大了，苹果是不可能垄断的。" />
+        </para>
+        <para id="68">
+            <sent id="0" cont="而办公软件才有几家能做？" />
+        </para>
+        <para id="69">
+            <sent id="0" cont="微软当然可以垄断。" />
+        </para>
+        <para id="70">
+            <sent id="0" cont="唉。" />
+        </para>
+        <para id="71">
+            <sent id="0" cont="悔不当初。" />
+        </para>
+        <para id="72">
+            <sent id="0" cont="苹果不可能霸占市场的，还没达到那个水平，它并不能满足大众需要和大众化的价格，平平无奇的功能和居高不下的价格是它的致命伤" />
+        </para>
+        <para id="73">
+            <sent id="0" cont="不好意思，这个专家是我从茅坑检来的" />
+        </para>
+        <para id="74">
+            <sent id="0" cont="对，我支持，象郎咸平说的，我们要做自己的产业链，WPS的悲剧不能重演，否则中国人只能永远卖苦力，没有议价权，被跨国企业掐脖子." />
+        </para>
+        <para id="75">
+            <sent id="0" cont="这人肯定是想弄个iphone测试机，苹果没给他" />
+        </para>
+        <para id="76">
+            <sent id="0" cont="就是啊这人哪儿的专家啊不但不了解IT也不懂经济今天手机上看了这新闻就想说来着。" />
+            <sent id="1" cont="。" />
+        </para>
+        <para id="77">
+            <sent id="0" cont="乱喷！" />
+        </para>
+        <para id="78">
+            <sent id="0" cont="~" />
+        </para>
+        <para id="79">
+            <sent id="0" cont="还以为降价了那，这么贵也叫倾销，开什么玩笑。" />
+        </para>
+        <para id="80">
+            <sent id="0" cont="SONY才是倾销，6000块成本的PS3买2000块，这才叫倾销。" />
+        </para>
+        <para id="81">
+            <sent id="0" cont="我支持水货，但不支持山寨。" />
+        </para>
+        <para id="82">
+            <sent id="0" cont="买山寨机短期来看是省了不少钱，但真有一天全部正规厂家都撑不下去了，山寨去模仿谁？" />
+        </para>
+        <para id="83">
+            <sent id="0" cont="质量怎么保证？" />
+        </para>
+        <para id="84">
+            <sent id="0" cont="两条出路：" />
+            <sent id="1" cont="1倒闭，2转型成为正规厂商，又回到高价时代。" />
+        </para>
+        <para id="85">
+            <sent id="0" cont="所以山寨的繁荣是建立在损害整个行业的基础上的，就像三聚氰胺" />
+        </para>
+        <para id="86">
+            <sent id="0" cont="这个专家不知道是什么领域的专家。" />
+        </para>
+        <para id="87">
+            <sent id="0" cont="但是可以肯定的是，他不了解IT。" />
+        </para>
+        <para id="88">
+            <sent id="0" cont="鉴定完毕。" />
+        </para>
+        <para id="89">
+            <sent id="0" cont="移动的枪手吧？" />
+        </para>
+        <para id="90">
+            <sent id="0" cont="人家苹果都说了可以自由选择运营商，怎么叫盗版？" />
+        </para>
+        <para id="91">
+            <sent id="0" cont="搞笑！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="92">
+            <sent id="0" cont="如此操蛋的文章也能发表！" />
+        </para>
+        <para id="93">
+            <sent id="0" cont="tdwcdmacdma2000都只是2.5G" />
+        </para>
+        <para id="94">
+            <sent id="0" cont="这么贵还倾销啊" />
+        </para>
+        <para id="95">
+            <sent id="0" cont="垄断/保护只能使我们落后于他人，这太可悲了！" />
+        </para>
+        <para id="96">
+            <sent id="0" cont="为何我们中国人不能快享用新的技术，如黑莓手机！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+            <sent id="6" cont="！" />
+            <sent id="7" cont="！" />
+            <sent id="8" cont="！" />
+            <sent id="9" cont="！" />
+            <sent id="10" cont="！" />
+            <sent id="11" cont="！" />
+        </para>
+        <para id="97">
+            <sent id="0" cont="能跟微软一样吗？" />
+        </para>
+        <para id="98">
+            <sent id="0" cont="对于手机用户根本没有更换成本，大不了不用苹果的，不像office等，基本上各单位都使用这个，你用别的无法交流。" />
+        </para>
+        <para id="99">
+            <sent id="0" cont="作者水平太差，鉴定完毕！" />
+        </para>
+        <para id="100">
+            <sent id="0" cont="用户有选择终端设备的权力，自己不发展还要限制别人选择简直是强盗逻辑！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+        </para>
+        <para id="101">
+            <sent id="0" cont="中国人并不富裕可我们的运营商却在拼命搜刮我们的银子。" />
+        </para>
+        <para id="102">
+            <sent id="0" cont="弱弱地问下3G的IPHONE是WCDMA还是CDMA2000，抑或还有可能是TD的？" />
+        </para>
+        <para id="103">
+            <sent id="0" cont="扯吧，欧洲的，南美的，香港的iphone用户怎么办？" />
+        </para>
+        <para id="104">
+            <sent id="0" cont="又乱扯，还wifi垄断。" />
+        </para>
+        <para id="105">
+            <sent id="0" cont="信产部不允许手机带wifi模块，于是所有的智能手机统统在中国都要阉割一下。" />
+        </para>
+        <para id="106">
+            <sent id="0" cont="你用了iphone不用AT＆T的网络就是盗版。" />
+        </para>
+        <para id="107">
+            <sent id="0" cont="我买了苹果的硬件，一手交钱一手交货，何来盗版一说.比方说，你买了一台电视机，厂家能限制你只看一个频道不看别的频道吗？" />
+        </para>
+        <para id="108">
+            <sent id="0" cont="对，苹果想做WIFI垄断。" />
+        </para>
+        <para id="109">
+            <sent id="0" cont="知识产权局应该发表声明，在发现盗版的6个月内如果厂商未起诉盗版，应该视同默认盗版存在。" />
+        </para>
+        <para id="110">
+            <sent id="0" cont="以后自动放弃版权。" />
+        </para>
+        <para id="111">
+            <sent id="0" cont="作者在放P吧，市面上哪个行货不比外国贵" />
+        </para>
+        <para id="112">
+            <sent id="0" cont="刚刚出国旅游回来，带的国内手机在那边发短信2元，电话更不用说了，用当地电话打回国内合人民币不到3角。" />
+        </para>
+        <para id="113">
+            <sent id="0" cont="体会什么叫垄断了吗？" />
+        </para>
+        <para id="114">
+            <sent id="0" cont='&quot;1997年，微软彻底打垮中国的WWPS操作系统后开始的就是一场反盗版行动&quot;，雷得我外焦内黄啊~~~~' />
+        </para>
+        <para id="115">
+            <sent id="0" cont="从现在的电信垄断就可以看出：" />
+            <sent id="1" cont="可以设想如果当初WPS在中国取胜，那一定比现在的windows还要昂贵；" />
+        </para>
+        <para id="116">
+            <sent id="0" cont="这样忽悠老百姓是没有用的。" />
+        </para>
+        <para id="117">
+            <sent id="0" cont="打破垄断，管你倾销不倾销" />
+        </para>
+        <para id="118">
+            <sent id="0" cont="作者笔下的用户，是最终消费者，还是中间销售商。" />
+        </para>
+        <para id="119">
+            <sent id="0" cont="微软盗版策略影响最大目前看起来还不是前者。" />
+        </para>
+        <para id="120">
+            <sent id="0" cont="苹果设计好，硬件设备质量也高，软件就不用说了，我为什么不买啊。" />
+        </para>
+        <para id="121">
+            <sent id="0" cont="中国电信到现在不也还是垄断企业吗，北京这边还是双向收费，收费套餐都出过N个版本了，我现在依然是每个月300多电话费。" />
+        </para>
+        <para id="122">
+            <sent id="0" cont="就没有降过，靠。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+        </para>
+        <para id="123">
+            <sent id="0" cont="只要是中国电信反对的，我们都支持。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+        </para>
+        <para id="124">
+            <sent id="0" cont="苹果的东西一年一代，我小小大学生实在追不起。" />
+        </para>
+        <para id="125">
+            <sent id="0" cont="让有钱人去买吧，我的山寨手机挺好" />
+        </para>
+        <para id="126">
+            <sent id="0" cont="DOS是微软为IBM开发，MS-DOS是微软自己单独零售的，最高版本只到6.22，之后的DOS7就已经是包含在Windows内了，其它的DOS版本还有很多，大多是在6.22版本基础之上开发出来的，延续了微软不做的工作。" />
+        </para>
+        <para id="127">
+            <sent id="0" cont="UCDOS根本不是操作系统，只是一个中文环境，依存于DOS之上的。" />
+        </para>
+        <para id="128">
+            <sent id="0" cont="此文增加了我买部iphone的决心" />
+        </para>
+        <para id="129">
+            <sent id="0" cont="“1997年，微软彻底打垮中国的WWPS操作系统后开始的就是一场反盗版行动，接下来的就是，价格奇高的Windows垄断市场。" />
+        </para>
+        <para id="130">
+            <sent id="0" cont="”这段话强，看来没盗版windows我国就是wwps的天下了，也不看看那系统的操作感，尽往自己脸上贴金。" />
+        </para>
+        <para id="131">
+            <sent id="0" cont="不过是部手机罢了，使用寿命也就2年。" />
+        </para>
+        <para id="132">
+            <sent id="0" cont="怎么跟微软比呢？" />
+        </para>
+        <para id="133">
+            <sent id="0" cont="这教售的水平也太差了。" />
+        </para>
+        <para id="134">
+            <sent id="0" cont="dos改成wwps。" />
+            <sent id="1" cont="。" />
+        </para>
+        <para id="135">
+            <sent id="0" cont="更错了" />
+        </para>
+        <para id="136">
+            <sent id="0" cont="你也乱扯PCDOS和MSDOS是IBM和MS分别独立开发的，但是有协议，互相兼容。" />
+        </para>
+        <para id="137">
+            <sent id="0" cont="后来MS开发了OS/2，是第一个PC上的图形OS，卖给了IBM，然后MS自己开发了windows" />
+        </para>
+        <para id="138">
+            <sent id="0" cont="是默许盗版" />
+        </para>
+        <para id="139">
+            <sent id="0" cont="说的没错啊，默许你破解，到时候再收拾你。" />
+        </para>
+        <para id="140">
+            <sent id="0" cont="完全在复制当年的WIN操作系统。" />
+        </para>
+        <para id="141">
+            <sent id="0" cont="中国就是便宜就有市场" />
+        </para>
+        <para id="142">
+            <sent id="0" cont="广告贴...鉴定完毕" />
+        </para>
+        <para id="143">
+            <sent id="0" cont="工信部电信研究院副总工程师陈金桥认为，iPhone在中国市场的推广绝对不会复制国外的奇迹，在中国的用户的需求并不大；" />
+        </para>
+        <para id="144">
+            <sent id="0" cont="还是副总工呢。" />
+        </para>
+        <para id="145">
+            <sent id="0" cont="不知道是不是他自己对这个手机没兴趣，说用户需求不大。" />
+        </para>
+        <para id="146">
+            <sent id="0" cont="没发现现在这手机的保有量在比较快速的增长吗？" />
+        </para>
+        <para id="147">
+            <sent id="0" cont="让移动赚钱，都比让苹果赚得好！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+            <sent id="6" cont="！" />
+        </para>
+        <para id="148">
+            <sent id="0" cont="就算是倾销，我也不准备买这个高价货" />
+        </para>
+        <para id="149">
+            <sent id="0" cont="别扯了，PCDOS是微软卖给IBM的DOS版本，单卖的叫MSDOS.至于什么UCDOS，根本就是DOS上面加个中文系统。" />
+        </para>
+        <para id="150">
+            <sent id="0" cont="在保障山寨机生产员工福利的基础上，支持山寨产业！" />
+        </para>
+        <para id="151">
+            <sent id="0" cont="好多无知的人，DOS不是微软专有的，只是微软的市场份额比较大而已，是msdos，其他的有pcdos，ucdos等等，在当时都是用户不少的操作系统。" />
+        </para>
+        <para id="152">
+            <sent id="0" cont="现在的IPHONE不是单一的手机，更倾向于internet，很多应用软件，游戏之类的是要收费的，光用来打电话，用不上破解。" />
+        </para>
+        <para id="153">
+            <sent id="0" cont="他这样说也有一定的道理，虽然不一定完全对。" />
+        </para>
+        <para id="154">
+            <sent id="0" cont="你以为苹果不想卖呀，是国家不让，非要人家去掉3G功能，人家不干。" />
+        </para>
+        <para id="155">
+            <sent id="0" cont="那只是一部手机，人家爱怎么卖怎么卖，只要有人买，管那么多干嘛？" />
+        </para>
+        <para id="156">
+            <sent id="0" cont="什么叫倾销？" />
+        </para>
+        <para id="157">
+            <sent id="0" cont="5000块一部的手机还叫倾销，拜托用用脑子！" />
+        </para>
+        <para id="158">
+            <sent id="0" cont="讲得很有道理，强烈支持陈总！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="159">
+            <sent id="0" cont="苹果不在中国出售IPHONE绝对是它的决策失误当然也许苹果本身并不在乎中国的众多消费者手机更新速度非常快至少我已经找到了新的目标诺基亚5800今后对苹果的产品不会去再关注了" />
+        </para>
+        <para id="160">
+            <sent id="0" cont="就IPHONE那5000的售价？" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="161">
+            <sent id="0" cont="叫倾销？" />
+        </para>
+        <para id="162">
+            <sent id="0" cont="那三星的I900的4000块算什么？" />
+        </para>
+        <para id="163">
+            <sent id="0" cont="N95的3000块算什么？" />
+        </para>
+        <para id="164">
+            <sent id="0" cont="IPHONE从来就是不懂手机的人买的。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+            <sent id="4" cont="。" />
+        </para>
+        <para id="165">
+            <sent id="0" cont="山寨版专家？" />
+        </para>
+        <para id="166">
+            <sent id="0" cont="什么烂观点，iphone和windows根本就是两件事情，手机市场不是只有apple一家，而且apple根本不可能垄断这个市场" />
+        </para>
+        <para id="167">
+            <sent id="0" cont="1997年，微软彻底打垮中国的DOS操作系统后开始的就是一场反盗版行动，------作者有点常识好不好啊，DOS最早就是微软开发的，后来也一直是MSDOS，怎么叫打败中国的DOS？" />
+        </para>
+        <para id="168">
+            <sent id="0" cont="再说，dos能和WIN98竞争吗？" />
+        </para>
+        <para id="169">
+            <sent id="0" cont="作者牵强附会地说微软为了扩大市场份额，默许盗版，实际上中国用户不用微软的，难道有别的可以用？" />
+        </para>
+        <para id="170">
+            <sent id="0" cont="中移动搞垄断想吃大头，还不能让人家搞点花招？" />
+        </para>
+        <para id="171">
+            <sent id="0" cont="这专家也太搞笑了吧，拿iphone和DOS比？" />
+        </para>
+        <para id="172">
+            <sent id="0" cont="支持山寨机！" />
+        </para>
+        <para id="173">
+            <sent id="0" cont="5k多一个的手机叫倾销？" />
+            <sent id="1" cont="？" />
+            <sent id="2" cont="？" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+        </para>
+    </doc>
+</xml4nlp>

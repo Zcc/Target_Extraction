@@ -1,0 +1,4516 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="n" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="张老师，我很同意你的观点！">
+                <word id="0" cont="张" />
+                <word id="1" cont="老师" />
+                <word id="2" cont="，" />
+                <word id="3" cont="我" />
+                <word id="4" cont="很" />
+                <word id="5" cont="同意" />
+                <word id="6" cont="你" />
+                <word id="7" cont="的" />
+                <word id="8" cont="观点" />
+                <word id="9" cont="！" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="同时我也认为这国家所有制下不能产生真正的经济学家！">
+                <word id="0" cont="同时" />
+                <word id="1" cont="我" />
+                <word id="2" cont="也" />
+                <word id="3" cont="认为" />
+                <word id="4" cont="这" />
+                <word id="5" cont="国家" />
+                <word id="6" cont="所有制" />
+                <word id="7" cont="下" />
+                <word id="8" cont="不" />
+                <word id="9" cont="能" />
+                <word id="10" cont="产生" />
+                <word id="11" cont="真正" />
+                <word id="12" cont="的" />
+                <word id="13" cont="经济学家" />
+                <word id="14" cont="！" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="不知道你同意我的观点否？">
+                <word id="0" cont="不" />
+                <word id="1" cont="知道" />
+                <word id="2" cont="你" />
+                <word id="3" cont="同意" />
+                <word id="4" cont="我" />
+                <word id="5" cont="的" />
+                <word id="6" cont="观点" />
+                <word id="7" cont="否" />
+                <word id="8" cont="？" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="可能有人又要把大型国有企业变成他们一两个人所有，先造舆论，放信号，别有用心，要出让全民都该有份，像2000年以来少数人用很少钱就买了中小企业，要警惕大的国有资产流失。">
+                <word id="0" cont="可能" />
+                <word id="1" cont="有人" />
+                <word id="2" cont="又" />
+                <word id="3" cont="要" />
+                <word id="4" cont="把" />
+                <word id="5" cont="大型" />
+                <word id="6" cont="国有" />
+                <word id="7" cont="企业" />
+                <word id="8" cont="变成" />
+                <word id="9" cont="他们" />
+                <word id="10" cont="一两" />
+                <word id="11" cont="个" />
+                <word id="12" cont="人所有" />
+                <word id="13" cont="，" />
+                <word id="14" cont="先" />
+                <word id="15" cont="造" />
+                <word id="16" cont="舆论" />
+                <word id="17" cont="，" />
+                <word id="18" cont="放" />
+                <word id="19" cont="信号" />
+                <word id="20" cont="，" />
+                <word id="21" cont="别有用心" />
+                <word id="22" cont="，" />
+                <word id="23" cont="要" />
+                <word id="24" cont="出让" />
+                <word id="25" cont="全民" />
+                <word id="26" cont="都" />
+                <word id="27" cont="该" />
+                <word id="28" cont="有" />
+                <word id="29" cont="份" />
+                <word id="30" cont="，" />
+                <word id="31" cont="像" />
+                <word id="32" cont="2000年" />
+                <word id="33" cont="以来" />
+                <word id="34" cont="少数" />
+                <word id="35" cont="人" />
+                <word id="36" cont="用" />
+                <word id="37" cont="很" />
+                <word id="38" cont="少" />
+                <word id="39" cont="钱" />
+                <word id="40" cont="就" />
+                <word id="41" cont="买" />
+                <word id="42" cont="了" />
+                <word id="43" cont="中小企业" />
+                <word id="44" cont="，" />
+                <word id="45" cont="要" />
+                <word id="46" cont="警惕" />
+                <word id="47" cont="大" />
+                <word id="48" cont="的" />
+                <word id="49" cont="国有" />
+                <word id="50" cont="资产" />
+                <word id="51" cont="流失" />
+                <word id="52" cont="。" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="张维迎是彻头彻尾的卖国经济学家的代表，纯粹的崇洋经济学家，即得利益者的代表">
+                <word id="0" cont="张维迎" />
+                <word id="1" cont="是" />
+                <word id="2" cont="彻头彻尾" />
+                <word id="3" cont="的" />
+                <word id="4" cont="卖国" />
+                <word id="5" cont="经济学家" />
+                <word id="6" cont="的" />
+                <word id="7" cont="代表" />
+                <word id="8" cont="，" />
+                <word id="9" cont="纯粹" />
+                <word id="10" cont="的" />
+                <word id="11" cont="崇洋" />
+                <word id="12" cont="经济学家" />
+                <word id="13" cont="，" />
+                <word id="14" cont="即" />
+                <word id="15" cont="得" />
+                <word id="16" cont="利益者" />
+                <word id="17" cont="的" />
+                <word id="18" cont="代表" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="他的“企业家”，是敢剥削工人的资本家。">
+                <word id="0" cont="他" />
+                <word id="1" cont="的" />
+                <word id="2" cont="“" />
+                <word id="3" cont="企业家" />
+                <word id="4" cont="”" />
+                <word id="5" cont="，" />
+                <word id="6" cont="是" />
+                <word id="7" cont="敢" />
+                <word id="8" cont="剥削" />
+                <word id="9" cont="工人" />
+                <word id="10" cont="的" />
+                <word id="11" cont="资本家" />
+                <word id="12" cont="。" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="国企的贪官是当不了企业家，但那些一心办好企业，为国为民的才是真正的企业家。">
+                <word id="0" cont="国企" />
+                <word id="1" cont="的" />
+                <word id="2" cont="贪官" />
+                <word id="3" cont="是" />
+                <word id="4" cont="当" />
+                <word id="5" cont="不" />
+                <word id="6" cont="了" />
+                <word id="7" cont="企业家" />
+                <word id="8" cont="，" />
+                <word id="9" cont="但" />
+                <word id="10" cont="那些" />
+                <word id="11" cont="一心" />
+                <word id="12" cont="办" />
+                <word id="13" cont="好" />
+                <word id="14" cont="企业" />
+                <word id="15" cont="，" />
+                <word id="16" cont="为" />
+                <word id="17" cont="国" />
+                <word id="18" cont="为" />
+                <word id="19" cont="民" />
+                <word id="20" cont="的" />
+                <word id="21" cont="才" />
+                <word id="22" cont="是" />
+                <word id="23" cont="真正" />
+                <word id="24" cont="的" />
+                <word id="25" cont="企业家" />
+                <word id="26" cont="。" />
+            </sent>
+        </para>
+        <para id="7">
+            <sent id="0" cont="在我国所为的经济学家一般都不具有实战能力。">
+                <word id="0" cont="在" />
+                <word id="1" cont="我国" />
+                <word id="2" cont="所" />
+                <word id="3" cont="为" />
+                <word id="4" cont="的" />
+                <word id="5" cont="经济学家" />
+                <word id="6" cont="一般" />
+                <word id="7" cont="都" />
+                <word id="8" cont="不" />
+                <word id="9" cont="具有" />
+                <word id="10" cont="实战" />
+                <word id="11" cont="能力" />
+                <word id="12" cont="。" />
+            </sent>
+        </para>
+        <para id="8">
+            <sent id="0" cont="由于我国特定的社会体制，就一定会在所为的全球经济">
+                <word id="0" cont="由于" />
+                <word id="1" cont="我国" />
+                <word id="2" cont="特定" />
+                <word id="3" cont="的" />
+                <word id="4" cont="社会" />
+                <word id="5" cont="体制" />
+                <word id="6" cont="，" />
+                <word id="7" cont="就" />
+                <word id="8" cont="一定" />
+                <word id="9" cont="会" />
+                <word id="10" cont="在" />
+                <word id="11" cont="所" />
+                <word id="12" cont="为" />
+                <word id="13" cont="的" />
+                <word id="14" cont="全球" />
+                <word id="15" cont="经济" />
+            </sent>
+        </para>
+        <para id="9">
+            <sent id="0" cont="背景下遭受欧美国家的大力围攻。">
+                <word id="0" cont="背景" />
+                <word id="1" cont="下" />
+                <word id="2" cont="遭受" />
+                <word id="3" cont="欧" />
+                <word id="4" cont="美" />
+                <word id="5" cont="国家" />
+                <word id="6" cont="的" />
+                <word id="7" cont="大力" />
+                <word id="8" cont="围攻" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="10">
+            <sent id="0" cont="何为政治经济学，经济不可能离开政治。">
+                <word id="0" cont="何" />
+                <word id="1" cont="为" />
+                <word id="2" cont="政治经济学" />
+                <word id="3" cont="，" />
+                <word id="4" cont="经济" />
+                <word id="5" cont="不" />
+                <word id="6" cont="可能" />
+                <word id="7" cont="离开" />
+                <word id="8" cont="政治" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="11">
+            <sent id="0" cont="之所以倡导社会主义特色的">
+                <word id="0" cont="之所以" />
+                <word id="1" cont="倡导" />
+                <word id="2" cont="社会主义" />
+                <word id="3" cont="特色" />
+                <word id="4" cont="的" />
+            </sent>
+        </para>
+        <para id="12">
+            <sent id="0" cont="市场经济。">
+                <word id="0" cont="市场经济" />
+                <word id="1" cont="。" />
+            </sent>
+        </para>
+        <para id="13">
+            <sent id="0" cont="我们必须要有一整套系统的理论，指导我国经济的可持续发展。">
+                <word id="0" cont="我们" />
+                <word id="1" cont="必须" />
+                <word id="2" cont="要" />
+                <word id="3" cont="有" />
+                <word id="4" cont="一整套" />
+                <word id="5" cont="系统" />
+                <word id="6" cont="的" />
+                <word id="7" cont="理论" />
+                <word id="8" cont="，" />
+                <word id="9" cont="指导" />
+                <word id="10" cont="我国" />
+                <word id="11" cont="经济" />
+                <word id="12" cont="的" />
+                <word id="13" cont="可" />
+                <word id="14" cont="持续" />
+                <word id="15" cont="发展" />
+                <word id="16" cont="。" />
+            </sent>
+        </para>
+        <para id="14">
+            <sent id="0" cont="按照欧美的经验和理论，在我国效仿，我国的发展就会走向死胡同。">
+                <word id="0" cont="按照" />
+                <word id="1" cont="欧" />
+                <word id="2" cont="美" />
+                <word id="3" cont="的" />
+                <word id="4" cont="经验" />
+                <word id="5" cont="和" />
+                <word id="6" cont="理论" />
+                <word id="7" cont="，" />
+                <word id="8" cont="在" />
+                <word id="9" cont="我国" />
+                <word id="10" cont="效仿" />
+                <word id="11" cont="，" />
+                <word id="12" cont="我国" />
+                <word id="13" cont="的" />
+                <word id="14" cont="发展" />
+                <word id="15" cont="就" />
+                <word id="16" cont="会" />
+                <word id="17" cont="走向" />
+                <word id="18" cont="死胡同" />
+                <word id="19" cont="。" />
+            </sent>
+        </para>
+        <para id="15">
+            <sent id="0" cont="我是一个在对外贸易战线上战斗几十年的老兵，有着常期对敌经济斗争的经验。">
+                <word id="0" cont="我" />
+                <word id="1" cont="是" />
+                <word id="2" cont="一个" />
+                <word id="3" cont="在" />
+                <word id="4" cont="对外贸易" />
+                <word id="5" cont="战线" />
+                <word id="6" cont="上" />
+                <word id="7" cont="战斗" />
+                <word id="8" cont="几十" />
+                <word id="9" cont="年" />
+                <word id="10" cont="的" />
+                <word id="11" cont="老兵" />
+                <word id="12" cont="，" />
+                <word id="13" cont="有着" />
+                <word id="14" cont="常期" />
+                <word id="15" cont="对" />
+                <word id="16" cont="敌" />
+                <word id="17" cont="经济" />
+                <word id="18" cont="斗争" />
+                <word id="19" cont="的" />
+                <word id="20" cont="经验" />
+                <word id="21" cont="。" />
+            </sent>
+        </para>
+        <para id="16">
+            <sent id="0" cont="要完成我们伟大的中华民族复兴必须走我们的路。">
+                <word id="0" cont="要" />
+                <word id="1" cont="完成" />
+                <word id="2" cont="我们" />
+                <word id="3" cont="伟大" />
+                <word id="4" cont="的" />
+                <word id="5" cont="中华民族" />
+                <word id="6" cont="复兴" />
+                <word id="7" cont="必须" />
+                <word id="8" cont="走" />
+                <word id="9" cont="我们" />
+                <word id="10" cont="的" />
+                <word id="11" cont="路" />
+                <word id="12" cont="。" />
+            </sent>
+        </para>
+        <para id="17">
+            <sent id="0" cont="路就在脚下。">
+                <word id="0" cont="路" />
+                <word id="1" cont="就" />
+                <word id="2" cont="在" />
+                <word id="3" cont="脚下" />
+                <word id="4" cont="。" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="3" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="4" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="5" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+        </para>
+        <para id="18">
+            <sent id="0" cont="扯淡，只要对经营阶层制定淘汰、考核和监督机制，国家所有还是个人所有都一样。">
+                <word id="0" cont="扯淡" />
+                <word id="1" cont="，" />
+                <word id="2" cont="只要" />
+                <word id="3" cont="对" />
+                <word id="4" cont="经营" />
+                <word id="5" cont="阶层" />
+                <word id="6" cont="制定" />
+                <word id="7" cont="淘汰" />
+                <word id="8" cont="、" />
+                <word id="9" cont="考核" />
+                <word id="10" cont="和" />
+                <word id="11" cont="监督" />
+                <word id="12" cont="机制" />
+                <word id="13" cont="，" />
+                <word id="14" cont="国家所有" />
+                <word id="15" cont="还是" />
+                <word id="16" cont="个人" />
+                <word id="17" cont="所有" />
+                <word id="18" cont="都" />
+                <word id="19" cont="一样" />
+                <word id="20" cont="。" />
+            </sent>
+        </para>
+        <para id="19">
+            <sent id="0" cont="要不然美国出现的公众持股公司按照张的观点，其ceo就不是企业家了，因为其类似与我们国家的集体所有制，或者说国家所有。">
+                <word id="0" cont="要不然" />
+                <word id="1" cont="美国" />
+                <word id="2" cont="出现" />
+                <word id="3" cont="的" />
+                <word id="4" cont="公众" />
+                <word id="5" cont="持" />
+                <word id="6" cont="股" />
+                <word id="7" cont="公司" />
+                <word id="8" cont="按照" />
+                <word id="9" cont="张" />
+                <word id="10" cont="的" />
+                <word id="11" cont="观点" />
+                <word id="12" cont="，" />
+                <word id="13" cont="其ceo" />
+                <word id="14" cont="就" />
+                <word id="15" cont="不" />
+                <word id="16" cont="是" />
+                <word id="17" cont="企业家" />
+                <word id="18" cont="了" />
+                <word id="19" cont="，" />
+                <word id="20" cont="因为" />
+                <word id="21" cont="其" />
+                <word id="22" cont="类似" />
+                <word id="23" cont="与" />
+                <word id="24" cont="我们" />
+                <word id="25" cont="国家" />
+                <word id="26" cont="的" />
+                <word id="27" cont="集体所有制" />
+                <word id="28" cont="，" />
+                <word id="29" cont="或者" />
+                <word id="30" cont="说" />
+                <word id="31" cont="国家所有" />
+                <word id="32" cont="。" />
+            </sent>
+        </para>
+        <para id="20">
+            <sent id="0" cont="老是把产权和经营能力挂钩，其罪可诛。">
+                <word id="0" cont="老是" />
+                <word id="1" cont="把" />
+                <word id="2" cont="产权" />
+                <word id="3" cont="和" />
+                <word id="4" cont="经营" />
+                <word id="5" cont="能力" />
+                <word id="6" cont="挂钩" />
+                <word id="7" cont="，" />
+                <word id="8" cont="其" />
+                <word id="9" cont="罪" />
+                <word id="10" cont="可诛" />
+                <word id="11" cont="。" />
+            </sent>
+        </para>
+        <para id="21">
+            <sent id="0" cont="读了几本西方经济学，就不认祖了，就目前对资本和经济的认识来讲，西方的经济学家们还没有一个能出马克思、恩格斯之著作之右的，一个是哲学指导，一个是实用归纳，谁先进谁落后一目了然。">
+                <word id="0" cont="读" />
+                <word id="1" cont="了" />
+                <word id="2" cont="几" />
+                <word id="3" cont="本" />
+                <word id="4" cont="西方" />
+                <word id="5" cont="经济学" />
+                <word id="6" cont="，" />
+                <word id="7" cont="就" />
+                <word id="8" cont="不" />
+                <word id="9" cont="认祖" />
+                <word id="10" cont="了" />
+                <word id="11" cont="，" />
+                <word id="12" cont="就" />
+                <word id="13" cont="目前" />
+                <word id="14" cont="对" />
+                <word id="15" cont="资本" />
+                <word id="16" cont="和" />
+                <word id="17" cont="经济" />
+                <word id="18" cont="的" />
+                <word id="19" cont="认识" />
+                <word id="20" cont="来讲" />
+                <word id="21" cont="，" />
+                <word id="22" cont="西方" />
+                <word id="23" cont="的" />
+                <word id="24" cont="经济学家" />
+                <word id="25" cont="们" />
+                <word id="26" cont="还" />
+                <word id="27" cont="没有" />
+                <word id="28" cont="一个" />
+                <word id="29" cont="能" />
+                <word id="30" cont="出" />
+                <word id="31" cont="马克思" />
+                <word id="32" cont="、" />
+                <word id="33" cont="恩格斯" />
+                <word id="34" cont="之" />
+                <word id="35" cont="著作" />
+                <word id="36" cont="之" />
+                <word id="37" cont="右" />
+                <word id="38" cont="的" />
+                <word id="39" cont="，" />
+                <word id="40" cont="一个" />
+                <word id="41" cont="是" />
+                <word id="42" cont="哲学" />
+                <word id="43" cont="指导" />
+                <word id="44" cont="，" />
+                <word id="45" cont="一个" />
+                <word id="46" cont="是" />
+                <word id="47" cont="实用" />
+                <word id="48" cont="归纳" />
+                <word id="49" cont="，" />
+                <word id="50" cont="谁" />
+                <word id="51" cont="先进" />
+                <word id="52" cont="谁" />
+                <word id="53" cont="落后" />
+                <word id="54" cont="一目了然" />
+                <word id="55" cont="。" />
+            </sent>
+        </para>
+        <para id="22">
+            <sent id="0" cont="我们单位是只有600多人的国有中小企业，每年的产值有2亿多元，人均产值达30多万，可我的年薪才1.5万，我所创造的剩余价值叫谁掠夺了？">
+                <word id="0" cont="我们" />
+                <word id="1" cont="单位" />
+                <word id="2" cont="是" />
+                <word id="3" cont="只" />
+                <word id="4" cont="有" />
+                <word id="5" cont="600" />
+                <word id="6" cont="多" />
+                <word id="7" cont="人" />
+                <word id="8" cont="的" />
+                <word id="9" cont="国有" />
+                <word id="10" cont="中小企业" />
+                <word id="11" cont="，" />
+                <word id="12" cont="每年" />
+                <word id="13" cont="的" />
+                <word id="14" cont="产值" />
+                <word id="15" cont="有" />
+                <word id="16" cont="2亿" />
+                <word id="17" cont="多" />
+                <word id="18" cont="元" />
+                <word id="19" cont="，" />
+                <word id="20" cont="人均" />
+                <word id="21" cont="产值" />
+                <word id="22" cont="达" />
+                <word id="23" cont="30" />
+                <word id="24" cont="多" />
+                <word id="25" cont="万" />
+                <word id="26" cont="，" />
+                <word id="27" cont="可" />
+                <word id="28" cont="我" />
+                <word id="29" cont="的" />
+                <word id="30" cont="年薪" />
+                <word id="31" cont="才" />
+                <word id="32" cont="1.5万" />
+                <word id="33" cont="，" />
+                <word id="34" cont="我" />
+                <word id="35" cont="所" />
+                <word id="36" cont="创造" />
+                <word id="37" cont="的" />
+                <word id="38" cont="剩余价值" />
+                <word id="39" cont="叫" />
+                <word id="40" cont="谁" />
+                <word id="41" cont="掠夺" />
+                <word id="42" cont="了" />
+                <word id="43" cont="？" />
+            </sent>
+        </para>
+        <para id="23">
+            <sent id="0" cont="张教授说了半句话，完整的说法是“国家所有制下不能产生真正企业家，也不能产生真正的经济学家”。">
+                <word id="0" cont="张" />
+                <word id="1" cont="教授" />
+                <word id="2" cont="说" />
+                <word id="3" cont="了" />
+                <word id="4" cont="半" />
+                <word id="5" cont="句" />
+                <word id="6" cont="话" />
+                <word id="7" cont="，" />
+                <word id="8" cont="完整" />
+                <word id="9" cont="的" />
+                <word id="10" cont="说法" />
+                <word id="11" cont="是" />
+                <word id="12" cont="“" />
+                <word id="13" cont="国家" />
+                <word id="14" cont="所有制" />
+                <word id="15" cont="下" />
+                <word id="16" cont="不" />
+                <word id="17" cont="能" />
+                <word id="18" cont="产生" />
+                <word id="19" cont="真正" />
+                <word id="20" cont="企业家" />
+                <word id="21" cont="，" />
+                <word id="22" cont="也" />
+                <word id="23" cont="不" />
+                <word id="24" cont="能" />
+                <word id="25" cont="产生" />
+                <word id="26" cont="真正" />
+                <word id="27" cont="的" />
+                <word id="28" cont="经济学家" />
+                <word id="29" cont="”" />
+                <word id="30" cont="。" />
+            </sent>
+        </para>
+        <para id="24">
+            <sent id="0" cont="我很钦佩张维迎教授，在奥运开幕前，我在北大“冠军”论坛上（尽管我不是北大的）听了他的演讲，观点新奇、言简意赅，很受启发，虽然短短几分钟，但觉得经济学家就该是这样的：">
+                <word id="0" cont="我" />
+                <word id="1" cont="很" />
+                <word id="2" cont="钦佩" />
+                <word id="3" cont="张维迎" />
+                <word id="4" cont="教授" />
+                <word id="5" cont="，" />
+                <word id="6" cont="在" />
+                <word id="7" cont="奥运" />
+                <word id="8" cont="开幕" />
+                <word id="9" cont="前" />
+                <word id="10" cont="，" />
+                <word id="11" cont="我" />
+                <word id="12" cont="在" />
+                <word id="13" cont="北大" />
+                <word id="14" cont="“" />
+                <word id="15" cont="冠军" />
+                <word id="16" cont="”" />
+                <word id="17" cont="论坛" />
+                <word id="18" cont="上" />
+                <word id="19" cont="（" />
+                <word id="20" cont="尽管" />
+                <word id="21" cont="我" />
+                <word id="22" cont="不" />
+                <word id="23" cont="是" />
+                <word id="24" cont="北大" />
+                <word id="25" cont="的" />
+                <word id="26" cont="）" />
+                <word id="27" cont="听" />
+                <word id="28" cont="了" />
+                <word id="29" cont="他" />
+                <word id="30" cont="的" />
+                <word id="31" cont="演讲" />
+                <word id="32" cont="，" />
+                <word id="33" cont="观点" />
+                <word id="34" cont="新奇" />
+                <word id="35" cont="、" />
+                <word id="36" cont="言简意赅" />
+                <word id="37" cont="，" />
+                <word id="38" cont="很" />
+                <word id="39" cont="受" />
+                <word id="40" cont="启发" />
+                <word id="41" cont="，" />
+                <word id="42" cont="虽然" />
+                <word id="43" cont="短短" />
+                <word id="44" cont="几" />
+                <word id="45" cont="分钟" />
+                <word id="46" cont="，" />
+                <word id="47" cont="但" />
+                <word id="48" cont="觉得" />
+                <word id="49" cont="经济学家" />
+                <word id="50" cont="就" />
+                <word id="51" cont="该" />
+                <word id="52" cont="是" />
+                <word id="53" cont="这样" />
+                <word id="54" cont="的" />
+                <word id="55" cont="：" />
+            </sent>
+            <sent id="1" cont="敢于表达自己的观点，勇于创新。">
+                <word id="0" cont="敢于" />
+                <word id="1" cont="表达" />
+                <word id="2" cont="自己" />
+                <word id="3" cont="的" />
+                <word id="4" cont="观点" />
+                <word id="5" cont="，" />
+                <word id="6" cont="勇于" />
+                <word id="7" cont="创新" />
+                <word id="8" cont="。" />
+            </sent>
+        </para>
+        <para id="25">
+            <sent id="0" cont="这人原来听说是某些利益集团的代言人，他的理论再美妙，我担心立场是错的，怎么能让这种人在出来，莫非已洗心革面呼？">
+                <word id="0" cont="这" />
+                <word id="1" cont="人" />
+                <word id="2" cont="原来" />
+                <word id="3" cont="听说" />
+                <word id="4" cont="是" />
+                <word id="5" cont="某些" />
+                <word id="6" cont="利益" />
+                <word id="7" cont="集团" />
+                <word id="8" cont="的" />
+                <word id="9" cont="代言人" />
+                <word id="10" cont="，" />
+                <word id="11" cont="他" />
+                <word id="12" cont="的" />
+                <word id="13" cont="理论" />
+                <word id="14" cont="再" />
+                <word id="15" cont="美妙" />
+                <word id="16" cont="，" />
+                <word id="17" cont="我" />
+                <word id="18" cont="担心" />
+                <word id="19" cont="立场" />
+                <word id="20" cont="是" />
+                <word id="21" cont="错" />
+                <word id="22" cont="的" />
+                <word id="23" cont="，" />
+                <word id="24" cont="怎么" />
+                <word id="25" cont="能" />
+                <word id="26" cont="让" />
+                <word id="27" cont="这种" />
+                <word id="28" cont="人" />
+                <word id="29" cont="在" />
+                <word id="30" cont="出来" />
+                <word id="31" cont="，" />
+                <word id="32" cont="莫非" />
+                <word id="33" cont="已" />
+                <word id="34" cont="洗心" />
+                <word id="35" cont="革面" />
+                <word id="36" cont="呼" />
+                <word id="37" cont="？" />
+            </sent>
+        </para>
+        <para id="26">
+            <sent id="0" cont="人所共知，市场经济是法制经济，真正的企业家是在市场经济中诞生的.公有制经济成份太多就不是完整健康的市场经济，特别是在法制不健全、生产力水平不高、生产方式处于初级阶段、人们的思想道德水平处于不自觉（或是低水平）等的经济环境中，真正的企业家是不可能产生的。">
+                <word id="0" cont="人所共知" />
+                <word id="1" cont="，" />
+                <word id="2" cont="市场经济" />
+                <word id="3" cont="是" />
+                <word id="4" cont="法制" />
+                <word id="5" cont="经济" />
+                <word id="6" cont="，" />
+                <word id="7" cont="真正" />
+                <word id="8" cont="的" />
+                <word id="9" cont="企业家" />
+                <word id="10" cont="是" />
+                <word id="11" cont="在" />
+                <word id="12" cont="市场经济" />
+                <word id="13" cont="中" />
+                <word id="14" cont="诞生" />
+                <word id="15" cont="的." />
+                <word id="16" cont="公有制" />
+                <word id="17" cont="经济" />
+                <word id="18" cont="成份" />
+                <word id="19" cont="太" />
+                <word id="20" cont="多" />
+                <word id="21" cont="就" />
+                <word id="22" cont="不" />
+                <word id="23" cont="是" />
+                <word id="24" cont="完整" />
+                <word id="25" cont="健康" />
+                <word id="26" cont="的" />
+                <word id="27" cont="市场经济" />
+                <word id="28" cont="，" />
+                <word id="29" cont="特别" />
+                <word id="30" cont="是" />
+                <word id="31" cont="在" />
+                <word id="32" cont="法制" />
+                <word id="33" cont="不" />
+                <word id="34" cont="健全" />
+                <word id="35" cont="、" />
+                <word id="36" cont="生产力" />
+                <word id="37" cont="水平" />
+                <word id="38" cont="不" />
+                <word id="39" cont="高" />
+                <word id="40" cont="、" />
+                <word id="41" cont="生产方式" />
+                <word id="42" cont="处于" />
+                <word id="43" cont="初级" />
+                <word id="44" cont="阶段" />
+                <word id="45" cont="、" />
+                <word id="46" cont="人们" />
+                <word id="47" cont="的" />
+                <word id="48" cont="思想" />
+                <word id="49" cont="道德" />
+                <word id="50" cont="水平" />
+                <word id="51" cont="处于" />
+                <word id="52" cont="不" />
+                <word id="53" cont="自觉" />
+                <word id="54" cont="（" />
+                <word id="55" cont="或是" />
+                <word id="56" cont="低" />
+                <word id="57" cont="水平" />
+                <word id="58" cont="）" />
+                <word id="59" cont="等" />
+                <word id="60" cont="的" />
+                <word id="61" cont="经济" />
+                <word id="62" cont="环境" />
+                <word id="63" cont="中" />
+                <word id="64" cont="，" />
+                <word id="65" cont="真正" />
+                <word id="66" cont="的" />
+                <word id="67" cont="企业家" />
+                <word id="68" cont="是" />
+                <word id="69" cont="不" />
+                <word id="70" cont="可能" />
+                <word id="71" cont="产生" />
+                <word id="72" cont="的" />
+                <word id="73" cont="。" />
+            </sent>
+        </para>
+        <para id="27">
+            <sent id="0" cont="现阶段人类真正需要的是具有一定法制水平的经济和政法环境，并在其中实现自身的价值！">
+                <word id="0" cont="现阶段" />
+                <word id="1" cont="人类" />
+                <word id="2" cont="真正" />
+                <word id="3" cont="需要" />
+                <word id="4" cont="的" />
+                <word id="5" cont="是" />
+                <word id="6" cont="具有" />
+                <word id="7" cont="一定" />
+                <word id="8" cont="法制" />
+                <word id="9" cont="水平" />
+                <word id="10" cont="的" />
+                <word id="11" cont="经济" />
+                <word id="12" cont="和" />
+                <word id="13" cont="政法" />
+                <word id="14" cont="环境" />
+                <word id="15" cont="，" />
+                <word id="16" cont="并" />
+                <word id="17" cont="在" />
+                <word id="18" cont="其中" />
+                <word id="19" cont="实现" />
+                <word id="20" cont="自身" />
+                <word id="21" cont="的" />
+                <word id="22" cont="价值" />
+                <word id="23" cont="！" />
+            </sent>
+        </para>
+        <para id="28">
+            <sent id="0" cont="这才是文明社会的要求！">
+                <word id="0" cont="这" />
+                <word id="1" cont="才" />
+                <word id="2" cont="是" />
+                <word id="3" cont="文明" />
+                <word id="4" cont="社会" />
+                <word id="5" cont="的" />
+                <word id="6" cont="要求" />
+                <word id="7" cont="！" />
+            </sent>
+        </para>
+        <para id="29">
+            <sent id="0" cont="这是一个伪命题。">
+                <word id="0" cont="这" />
+                <word id="1" cont="是" />
+                <word id="2" cont="一个" />
+                <word id="3" cont="伪" />
+                <word id="4" cont="命题" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="30">
+            <sent id="0" cont="企业家不是以是不是国家所有制还是什么所有制来划分，而是以他的品德、材能及其知识和对社会的责任与对国家经济发展的贡献来划分的。">
+                <word id="0" cont="企业家" />
+                <word id="1" cont="不" />
+                <word id="2" cont="是" />
+                <word id="3" cont="以" />
+                <word id="4" cont="是" />
+                <word id="5" cont="不" />
+                <word id="6" cont="是" />
+                <word id="7" cont="国家" />
+                <word id="8" cont="所有制" />
+                <word id="9" cont="还是" />
+                <word id="10" cont="什么" />
+                <word id="11" cont="所有制" />
+                <word id="12" cont="来" />
+                <word id="13" cont="划分" />
+                <word id="14" cont="，" />
+                <word id="15" cont="而是" />
+                <word id="16" cont="以" />
+                <word id="17" cont="他" />
+                <word id="18" cont="的" />
+                <word id="19" cont="品德" />
+                <word id="20" cont="、" />
+                <word id="21" cont="材能" />
+                <word id="22" cont="及其" />
+                <word id="23" cont="知识" />
+                <word id="24" cont="和" />
+                <word id="25" cont="对" />
+                <word id="26" cont="社会" />
+                <word id="27" cont="的" />
+                <word id="28" cont="责任" />
+                <word id="29" cont="与" />
+                <word id="30" cont="对" />
+                <word id="31" cont="国家" />
+                <word id="32" cont="经济" />
+                <word id="33" cont="发展" />
+                <word id="34" cont="的" />
+                <word id="35" cont="贡献" />
+                <word id="36" cont="来" />
+                <word id="37" cont="划分" />
+                <word id="38" cont="的" />
+                <word id="39" cont="。" />
+            </sent>
+        </para>
+        <para id="31">
+            <sent id="0" cont="国家所有制也不需要企业家，张所说的企业家其实就是资本家！">
+                <word id="0" cont="国家" />
+                <word id="1" cont="所有制" />
+                <word id="2" cont="也" />
+                <word id="3" cont="不" />
+                <word id="4" cont="需要" />
+                <word id="5" cont="企业家" />
+                <word id="6" cont="，" />
+                <word id="7" cont="张" />
+                <word id="8" cont="所" />
+                <word id="9" cont="说" />
+                <word id="10" cont="的" />
+                <word id="11" cont="企业家" />
+                <word id="12" cont="其实" />
+                <word id="13" cont="就是" />
+                <word id="14" cont="资本家" />
+                <word id="15" cont="！" />
+            </sent>
+        </para>
+        <para id="32">
+            <sent id="0" cont="错误！">
+                <word id="0" cont="错误" />
+                <word id="1" cont="！" />
+            </sent>
+        </para>
+        <para id="33">
+            <sent id="0" cont="没有道德和法律的制约的情况下，市场经济对大众来说是海市蜃楼">
+                <word id="0" cont="没有" />
+                <word id="1" cont="道德" />
+                <word id="2" cont="和" />
+                <word id="3" cont="法律" />
+                <word id="4" cont="的" />
+                <word id="5" cont="制约" />
+                <word id="6" cont="的" />
+                <word id="7" cont="情况" />
+                <word id="8" cont="下" />
+                <word id="9" cont="，" />
+                <word id="10" cont="市场经济" />
+                <word id="11" cont="对" />
+                <word id="12" cont="大众" />
+                <word id="13" cont="来说" />
+                <word id="14" cont="是" />
+                <word id="15" cont="海市蜃楼" />
+            </sent>
+        </para>
+        <para id="34">
+            <sent id="0" cont="终于原形毕露了，图穷匕见，以厉以宁、张维迎为首的专家们为中国设计的改革开放目标终于说出来了…………">
+                <word id="0" cont="终于" />
+                <word id="1" cont="原形" />
+                <word id="2" cont="毕露" />
+                <word id="3" cont="了" />
+                <word id="4" cont="，" />
+                <word id="5" cont="图" />
+                <word id="6" cont="穷" />
+                <word id="7" cont="匕见" />
+                <word id="8" cont="，" />
+                <word id="9" cont="以" />
+                <word id="10" cont="厉以宁" />
+                <word id="11" cont="、" />
+                <word id="12" cont="张维迎" />
+                <word id="13" cont="为首" />
+                <word id="14" cont="的" />
+                <word id="15" cont="专家" />
+                <word id="16" cont="们" />
+                <word id="17" cont="为" />
+                <word id="18" cont="中国" />
+                <word id="19" cont="设计" />
+                <word id="20" cont="的" />
+                <word id="21" cont="改革" />
+                <word id="22" cont="开放" />
+                <word id="23" cont="目标" />
+                <word id="24" cont="终于" />
+                <word id="25" cont="说" />
+                <word id="26" cont="出来" />
+                <word id="27" cont="了" />
+                <word id="28" cont="……" />
+                <word id="29" cont="……" />
+            </sent>
+        </para>
+        <para id="35">
+            <sent id="0" cont="岂止是企业家？">
+                <word id="0" cont="岂止" />
+                <word id="1" cont="是" />
+                <word id="2" cont="企业家" />
+                <word id="3" cont="？" />
+            </sent>
+        </para>
+        <para id="36">
+            <sent id="0" cont="包括各行各业的什么家以及你这样的经济学家等.相信您不会感到本人无礼.">
+                <word id="0" cont="包括" />
+                <word id="1" cont="各行各业" />
+                <word id="2" cont="的" />
+                <word id="3" cont="什么" />
+                <word id="4" cont="家" />
+                <word id="5" cont="以及" />
+                <word id="6" cont="你" />
+                <word id="7" cont="这样" />
+                <word id="8" cont="的" />
+                <word id="9" cont="经济学家" />
+                <word id="10" cont="等." />
+                <word id="11" cont="相信" />
+                <word id="12" cont="您" />
+                <word id="13" cont="不" />
+                <word id="14" cont="会" />
+                <word id="15" cont="感到" />
+                <word id="16" cont="本人" />
+                <word id="17" cont="无" />
+                <word id="18" cont="礼." />
+            </sent>
+        </para>
+        <para id="37">
+            <sent id="0" cont="张维迎现在已成为了某些利益集团的代言人了，早已失去了经济学家的良心，他鼓吹的只是保护某些既得利益者的利益，完全忽视了老百姓的利益。">
+                <word id="0" cont="张维迎" />
+                <word id="1" cont="现在" />
+                <word id="2" cont="已" />
+                <word id="3" cont="成为" />
+                <word id="4" cont="了" />
+                <word id="5" cont="某些" />
+                <word id="6" cont="利益" />
+                <word id="7" cont="集团" />
+                <word id="8" cont="的" />
+                <word id="9" cont="代言人" />
+                <word id="10" cont="了" />
+                <word id="11" cont="，" />
+                <word id="12" cont="早已" />
+                <word id="13" cont="失去" />
+                <word id="14" cont="了" />
+                <word id="15" cont="经济学家" />
+                <word id="16" cont="的" />
+                <word id="17" cont="良心" />
+                <word id="18" cont="，" />
+                <word id="19" cont="他" />
+                <word id="20" cont="鼓吹" />
+                <word id="21" cont="的" />
+                <word id="22" cont="只" />
+                <word id="23" cont="是" />
+                <word id="24" cont="保护" />
+                <word id="25" cont="某些" />
+                <word id="26" cont="既得利益者" />
+                <word id="27" cont="的" />
+                <word id="28" cont="利益" />
+                <word id="29" cont="，" />
+                <word id="30" cont="完全" />
+                <word id="31" cont="忽视" />
+                <word id="32" cont="了" />
+                <word id="33" cont="老百姓" />
+                <word id="34" cont="的" />
+                <word id="35" cont="利益" />
+                <word id="36" cont="。" />
+            </sent>
+        </para>
+        <para id="38">
+            <sent id="0" cont="美国前几天好象刚把几个私人企业变成国有的吧？">
+                <word id="0" cont="美国" />
+                <word id="1" cont="前" />
+                <word id="2" cont="几" />
+                <word id="3" cont="天" />
+                <word id="4" cont="好象" />
+                <word id="5" cont="刚" />
+                <word id="6" cont="把" />
+                <word id="7" cont="几" />
+                <word id="8" cont="个" />
+                <word id="9" cont="私人" />
+                <word id="10" cont="企业" />
+                <word id="11" cont="变成" />
+                <word id="12" cont="国有的" />
+                <word id="13" cont="吧" />
+                <word id="14" cont="？" />
+            </sent>
+        </para>
+        <para id="39">
+            <sent id="0" cont="按照这这文章的结论：">
+                <word id="0" cont="按照" />
+                <word id="1" cont="这" />
+                <word id="2" cont="这" />
+                <word id="3" cont="文章" />
+                <word id="4" cont="的" />
+                <word id="5" cont="结论" />
+                <word id="6" cont="：" />
+            </sent>
+            <sent id="1" cont="美国没有真正的企业家？">
+                <word id="0" cont="美国" />
+                <word id="1" cont="没有" />
+                <word id="2" cont="真正" />
+                <word id="3" cont="的" />
+                <word id="4" cont="企业家" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="40">
+            <sent id="0" cont="张老师，我很同意你的观点！">
+                <word id="0" cont="张" />
+                <word id="1" cont="老师" />
+                <word id="2" cont="，" />
+                <word id="3" cont="我" />
+                <word id="4" cont="很" />
+                <word id="5" cont="同意" />
+                <word id="6" cont="你" />
+                <word id="7" cont="的" />
+                <word id="8" cont="观点" />
+                <word id="9" cont="！" />
+            </sent>
+        </para>
+        <para id="41">
+            <sent id="0" cont="同时我也认为这国家所有制下不能产生真正的经济学家！">
+                <word id="0" cont="同时" />
+                <word id="1" cont="我" />
+                <word id="2" cont="也" />
+                <word id="3" cont="认为" />
+                <word id="4" cont="这" />
+                <word id="5" cont="国家" />
+                <word id="6" cont="所有制" />
+                <word id="7" cont="下" />
+                <word id="8" cont="不" />
+                <word id="9" cont="能" />
+                <word id="10" cont="产生" />
+                <word id="11" cont="真正" />
+                <word id="12" cont="的" />
+                <word id="13" cont="经济学家" />
+                <word id="14" cont="！" />
+            </sent>
+        </para>
+        <para id="42">
+            <sent id="0" cont="不知道你同意我的观点否？">
+                <word id="0" cont="不" />
+                <word id="1" cont="知道" />
+                <word id="2" cont="你" />
+                <word id="3" cont="同意" />
+                <word id="4" cont="我" />
+                <word id="5" cont="的" />
+                <word id="6" cont="观点" />
+                <word id="7" cont="否" />
+                <word id="8" cont="？" />
+            </sent>
+        </para>
+        <para id="43">
+            <sent id="0" cont="看来这番话是中国进一步私有化的新借口了，有这样一批所谓的经济学家中国大多数穷苦的老百姓会有好日子过吗？">
+                <word id="0" cont="看来" />
+                <word id="1" cont="这" />
+                <word id="2" cont="番" />
+                <word id="3" cont="话" />
+                <word id="4" cont="是" />
+                <word id="5" cont="中国" />
+                <word id="6" cont="进一步" />
+                <word id="7" cont="私有化" />
+                <word id="8" cont="的" />
+                <word id="9" cont="新" />
+                <word id="10" cont="借口" />
+                <word id="11" cont="了" />
+                <word id="12" cont="，" />
+                <word id="13" cont="有" />
+                <word id="14" cont="这样" />
+                <word id="15" cont="一" />
+                <word id="16" cont="批" />
+                <word id="17" cont="所谓" />
+                <word id="18" cont="的" />
+                <word id="19" cont="经济学家" />
+                <word id="20" cont="中国" />
+                <word id="21" cont="大多数" />
+                <word id="22" cont="穷苦" />
+                <word id="23" cont="的" />
+                <word id="24" cont="老百姓" />
+                <word id="25" cont="会" />
+                <word id="26" cont="有" />
+                <word id="27" cont="好日子" />
+                <word id="28" cont="过" />
+                <word id="29" cont="吗" />
+                <word id="30" cont="？" />
+            </sent>
+        </para>
+        <para id="44">
+            <sent id="0" cont="按照张维迎的逻辑，中国还没有－个真正企业家？">
+                <word id="0" cont="按照" />
+                <word id="1" cont="张维迎" />
+                <word id="2" cont="的" />
+                <word id="3" cont="逻辑" />
+                <word id="4" cont="，" />
+                <word id="5" cont="中国" />
+                <word id="6" cont="还" />
+                <word id="7" cont="没有" />
+                <word id="8" cont="－" />
+                <word id="9" cont="个" />
+                <word id="10" cont="真正" />
+                <word id="11" cont="企业家" />
+                <word id="12" cont="？" />
+            </sent>
+        </para>
+        <para id="45">
+            <sent id="0" cont="读了几本西方经济学家的书，就自以为是专家了。">
+                <word id="0" cont="读" />
+                <word id="1" cont="了" />
+                <word id="2" cont="几" />
+                <word id="3" cont="本" />
+                <word id="4" cont="西方" />
+                <word id="5" cont="经济学家" />
+                <word id="6" cont="的" />
+                <word id="7" cont="书" />
+                <word id="8" cont="，" />
+                <word id="9" cont="就" />
+                <word id="10" cont="自以为" />
+                <word id="11" cont="是" />
+                <word id="12" cont="专家" />
+                <word id="13" cont="了" />
+                <word id="14" cont="。" />
+            </sent>
+        </para>
+        <para id="46">
+            <sent id="0" cont="这些人读死书，没有真正的研究调查，马克思写《资本论》用了多少时间？">
+                <word id="0" cont="这些" />
+                <word id="1" cont="人" />
+                <word id="2" cont="读" />
+                <word id="3" cont="死书" />
+                <word id="4" cont="，" />
+                <word id="5" cont="没有" />
+                <word id="6" cont="真正" />
+                <word id="7" cont="的" />
+                <word id="8" cont="研究" />
+                <word id="9" cont="调查" />
+                <word id="10" cont="，" />
+                <word id="11" cont="马克思" />
+                <word id="12" cont="写" />
+                <word id="13" cont="《" />
+                <word id="14" cont="资本论" />
+                <word id="15" cont="》" />
+                <word id="16" cont="用" />
+                <word id="17" cont="了" />
+                <word id="18" cont="多少" />
+                <word id="19" cont="时间" />
+                <word id="20" cont="？" />
+            </sent>
+        </para>
+        <para id="47">
+            <sent id="0" cont="他们似懂非懂看了几本书，就敢当专家，开方子拿药，整死人算你命苦！">
+                <word id="0" cont="他们" />
+                <word id="1" cont="似" />
+                <word id="2" cont="懂" />
+                <word id="3" cont="非" />
+                <word id="4" cont="懂" />
+                <word id="5" cont="看" />
+                <word id="6" cont="了" />
+                <word id="7" cont="几" />
+                <word id="8" cont="本" />
+                <word id="9" cont="书" />
+                <word id="10" cont="，" />
+                <word id="11" cont="就" />
+                <word id="12" cont="敢" />
+                <word id="13" cont="当" />
+                <word id="14" cont="专家" />
+                <word id="15" cont="，" />
+                <word id="16" cont="开方子" />
+                <word id="17" cont="拿" />
+                <word id="18" cont="药" />
+                <word id="19" cont="，" />
+                <word id="20" cont="整" />
+                <word id="21" cont="死人" />
+                <word id="22" cont="算" />
+                <word id="23" cont="你" />
+                <word id="24" cont="命苦" />
+                <word id="25" cont="！" />
+            </sent>
+        </para>
+        <para id="48">
+            <sent id="0" cont="不学无术，哗众取宠！">
+                <word id="0" cont="不" />
+                <word id="1" cont="学" />
+                <word id="2" cont="无术" />
+                <word id="3" cont="，" />
+                <word id="4" cont="哗众取宠" />
+                <word id="5" cont="！" />
+            </sent>
+        </para>
+        <para id="49">
+            <sent id="0" cont="没有真正的企业家，和要真正提高上市公司质量一样，体制上问题.">
+                <word id="0" cont="没有" />
+                <word id="1" cont="真正" />
+                <word id="2" cont="的" />
+                <word id="3" cont="企业家" />
+                <word id="4" cont="，" />
+                <word id="5" cont="和" />
+                <word id="6" cont="要" />
+                <word id="7" cont="真正" />
+                <word id="8" cont="提高" />
+                <word id="9" cont="上市" />
+                <word id="10" cont="公司" />
+                <word id="11" cont="质量" />
+                <word id="12" cont="一样" />
+                <word id="13" cont="，" />
+                <word id="14" cont="体制" />
+                <word id="15" cont="上" />
+                <word id="16" cont="问题." />
+            </sent>
+        </para>
+        <para id="50">
+            <sent id="0" cont="半截子改革最不好，所以应该抓住时机完成未尽的改革，首要的就是资源价格的调整以及行政市场垄断的破除.">
+                <word id="0" cont="半截子" />
+                <word id="1" cont="改革" />
+                <word id="2" cont="最" />
+                <word id="3" cont="不好" />
+                <word id="4" cont="，" />
+                <word id="5" cont="所以" />
+                <word id="6" cont="应该" />
+                <word id="7" cont="抓住" />
+                <word id="8" cont="时机" />
+                <word id="9" cont="完成" />
+                <word id="10" cont="未" />
+                <word id="11" cont="尽" />
+                <word id="12" cont="的" />
+                <word id="13" cont="改革" />
+                <word id="14" cont="，" />
+                <word id="15" cont="首要" />
+                <word id="16" cont="的" />
+                <word id="17" cont="就是" />
+                <word id="18" cont="资源" />
+                <word id="19" cont="价格" />
+                <word id="20" cont="的" />
+                <word id="21" cont="调整" />
+                <word id="22" cont="以及" />
+                <word id="23" cont="行政" />
+                <word id="24" cont="市场" />
+                <word id="25" cont="垄断" />
+                <word id="26" cont="的" />
+                <word id="27" cont="破除." />
+            </sent>
+        </para>
+        <para id="51">
+            <sent id="0" cont="国家所有制下不能产生真正资本家">
+                <word id="0" cont="国家" />
+                <word id="1" cont="所有制" />
+                <word id="2" cont="下" />
+                <word id="3" cont="不" />
+                <word id="4" cont="能" />
+                <word id="5" cont="产生" />
+                <word id="6" cont="真正" />
+                <word id="7" cont="资本家" />
+            </sent>
+        </para>
+        <para id="52">
+            <sent id="0" cont="自己就够傻的">
+                <word id="0" cont="自己" />
+                <word id="1" cont="就" />
+                <word id="2" cont="够" />
+                <word id="3" cont="傻" />
+                <word id="4" cont="的" />
+            </sent>
+        </para>
+        <para id="53">
+            <sent id="0" cont="美国金融危机和救市计划大出西方经济学家预料，也和他们的理论相悖，看来私有制下出不了真正经济学家，也避免不了危机再发生。">
+                <word id="0" cont="美国" />
+                <word id="1" cont="金融" />
+                <word id="2" cont="危机" />
+                <word id="3" cont="和" />
+                <word id="4" cont="救市" />
+                <word id="5" cont="计划" />
+                <word id="6" cont="大" />
+                <word id="7" cont="出" />
+                <word id="8" cont="西方" />
+                <word id="9" cont="经济学家" />
+                <word id="10" cont="预料" />
+                <word id="11" cont="，" />
+                <word id="12" cont="也" />
+                <word id="13" cont="和" />
+                <word id="14" cont="他们" />
+                <word id="15" cont="的" />
+                <word id="16" cont="理论" />
+                <word id="17" cont="相悖" />
+                <word id="18" cont="，" />
+                <word id="19" cont="看来" />
+                <word id="20" cont="私有制" />
+                <word id="21" cont="下" />
+                <word id="22" cont="出" />
+                <word id="23" cont="不" />
+                <word id="24" cont="了" />
+                <word id="25" cont="真正" />
+                <word id="26" cont="经济学家" />
+                <word id="27" cont="，" />
+                <word id="28" cont="也" />
+                <word id="29" cont="避免不了" />
+                <word id="30" cont="危机" />
+                <word id="31" cont="再" />
+                <word id="32" cont="发生" />
+                <word id="33" cont="。" />
+            </sent>
+        </para>
+        <para id="54">
+            <sent id="0" cont="市场经济下，与法律的力量相比，思想道德对人的行为约束力是可以忽略不计的。">
+                <word id="0" cont="市场经济" />
+                <word id="1" cont="下" />
+                <word id="2" cont="，" />
+                <word id="3" cont="与" />
+                <word id="4" cont="法律" />
+                <word id="5" cont="的" />
+                <word id="6" cont="力量" />
+                <word id="7" cont="相比" />
+                <word id="8" cont="，" />
+                <word id="9" cont="思想" />
+                <word id="10" cont="道德" />
+                <word id="11" cont="对" />
+                <word id="12" cont="人" />
+                <word id="13" cont="的" />
+                <word id="14" cont="行为" />
+                <word id="15" cont="约束力" />
+                <word id="16" cont="是" />
+                <word id="17" cont="可以" />
+                <word id="18" cont="忽略" />
+                <word id="19" cont="不" />
+                <word id="20" cont="计" />
+                <word id="21" cont="的" />
+                <word id="22" cont="。" />
+            </sent>
+        </para>
+        <para id="55">
+            <sent id="0" cont="盲人摸象，自认为掌握了真理。">
+                <word id="0" cont="盲人" />
+                <word id="1" cont="摸象" />
+                <word id="2" cont="，" />
+                <word id="3" cont="自" />
+                <word id="4" cont="认为" />
+                <word id="5" cont="掌握" />
+                <word id="6" cont="了" />
+                <word id="7" cont="真理" />
+                <word id="8" cont="。" />
+            </sent>
+        </para>
+        <para id="56">
+            <sent id="0" cont="大象没有踩死这个人是因为他连盲人都不如——他甚至都没有去模一下。">
+                <word id="0" cont="大象" />
+                <word id="1" cont="没有" />
+                <word id="2" cont="踩" />
+                <word id="3" cont="死" />
+                <word id="4" cont="这个" />
+                <word id="5" cont="人" />
+                <word id="6" cont="是" />
+                <word id="7" cont="因为" />
+                <word id="8" cont="他" />
+                <word id="9" cont="连" />
+                <word id="10" cont="盲人" />
+                <word id="11" cont="都" />
+                <word id="12" cont="不如" />
+                <word id="13" cont="——" />
+                <word id="14" cont="他" />
+                <word id="15" cont="甚至" />
+                <word id="16" cont="都" />
+                <word id="17" cont="没有" />
+                <word id="18" cont="去" />
+                <word id="19" cont="模" />
+                <word id="20" cont="一下" />
+                <word id="21" cont="。" />
+            </sent>
+        </para>
+        <para id="57">
+            <sent id="0" cont="张的很多理论是对的，只不过不全面.">
+                <word id="0" cont="张" />
+                <word id="1" cont="的" />
+                <word id="2" cont="很多" />
+                <word id="3" cont="理论" />
+                <word id="4" cont="是" />
+                <word id="5" cont="对" />
+                <word id="6" cont="的" />
+                <word id="7" cont="，" />
+                <word id="8" cont="只不过" />
+                <word id="9" cont="不" />
+                <word id="10" cont="全面." />
+            </sent>
+        </para>
+        <para id="58">
+            <sent id="0" cont="大部分国有企业是应该私有化的，这样才能促进经济的发展.但私有化的前提，要有一套市场经济下完整的收入公平调节机制和社会保障机制.">
+                <word id="0" cont="大部分" />
+                <word id="1" cont="国有" />
+                <word id="2" cont="企业" />
+                <word id="3" cont="是" />
+                <word id="4" cont="应该" />
+                <word id="5" cont="私有化" />
+                <word id="6" cont="的" />
+                <word id="7" cont="，" />
+                <word id="8" cont="这样" />
+                <word id="9" cont="才" />
+                <word id="10" cont="能" />
+                <word id="11" cont="促进" />
+                <word id="12" cont="经济" />
+                <word id="13" cont="的" />
+                <word id="14" cont="发展." />
+                <word id="15" cont="但" />
+                <word id="16" cont="私有化" />
+                <word id="17" cont="的" />
+                <word id="18" cont="前提" />
+                <word id="19" cont="，" />
+                <word id="20" cont="要" />
+                <word id="21" cont="有" />
+                <word id="22" cont="一" />
+                <word id="23" cont="套" />
+                <word id="24" cont="市场经济" />
+                <word id="25" cont="下" />
+                <word id="26" cont="完整" />
+                <word id="27" cont="的" />
+                <word id="28" cont="收入" />
+                <word id="29" cont="公平" />
+                <word id="30" cont="调节" />
+                <word id="31" cont="机制" />
+                <word id="32" cont="和" />
+                <word id="33" cont="社会" />
+                <word id="34" cont="保障" />
+                <word id="35" cont="机制." />
+            </sent>
+        </para>
+        <para id="59">
+            <sent id="0" cont="如严格的收入累进税、巨额的遗产税，完善的最低工资制度、失业保障、养老保障和医疗保障制度，还有真正的义务教育制度等等都健全了，国有企业私有化才是对的。">
+                <word id="0" cont="如" />
+                <word id="1" cont="严格" />
+                <word id="2" cont="的" />
+                <word id="3" cont="收入" />
+                <word id="4" cont="累进" />
+                <word id="5" cont="税" />
+                <word id="6" cont="、" />
+                <word id="7" cont="巨额" />
+                <word id="8" cont="的" />
+                <word id="9" cont="遗产税" />
+                <word id="10" cont="，" />
+                <word id="11" cont="完善" />
+                <word id="12" cont="的" />
+                <word id="13" cont="最低" />
+                <word id="14" cont="工资" />
+                <word id="15" cont="制度" />
+                <word id="16" cont="、" />
+                <word id="17" cont="失业" />
+                <word id="18" cont="保障" />
+                <word id="19" cont="、" />
+                <word id="20" cont="养老" />
+                <word id="21" cont="保障" />
+                <word id="22" cont="和" />
+                <word id="23" cont="医疗" />
+                <word id="24" cont="保障" />
+                <word id="25" cont="制度" />
+                <word id="26" cont="，" />
+                <word id="27" cont="还有" />
+                <word id="28" cont="真正" />
+                <word id="29" cont="的" />
+                <word id="30" cont="义务教育" />
+                <word id="31" cont="制度" />
+                <word id="32" cont="等等" />
+                <word id="33" cont="都" />
+                <word id="34" cont="健全" />
+                <word id="35" cont="了" />
+                <word id="36" cont="，" />
+                <word id="37" cont="国有" />
+                <word id="38" cont="企业" />
+                <word id="39" cont="私有化" />
+                <word id="40" cont="才" />
+                <word id="41" cont="是" />
+                <word id="42" cont="对" />
+                <word id="43" cont="的" />
+                <word id="44" cont="。" />
+            </sent>
+        </para>
+        <para id="60">
+            <sent id="0" cont="所有发达的市场经济国家，核心是保障财产的私有化，但同时要绝对保障收入的公平性，和计划经济国家强调结果的公平性不同的是，市场经济国家强调政治权利的公平和经济机会的公平性，而不太强调结果的公平性，因为那会造成大量的懒人和经济的低效率。">
+                <word id="0" cont="所有" />
+                <word id="1" cont="发达" />
+                <word id="2" cont="的" />
+                <word id="3" cont="市场经济" />
+                <word id="4" cont="国家" />
+                <word id="5" cont="，" />
+                <word id="6" cont="核心" />
+                <word id="7" cont="是" />
+                <word id="8" cont="保障" />
+                <word id="9" cont="财产" />
+                <word id="10" cont="的" />
+                <word id="11" cont="私有化" />
+                <word id="12" cont="，" />
+                <word id="13" cont="但" />
+                <word id="14" cont="同时" />
+                <word id="15" cont="要" />
+                <word id="16" cont="绝对" />
+                <word id="17" cont="保障" />
+                <word id="18" cont="收入" />
+                <word id="19" cont="的" />
+                <word id="20" cont="公平性" />
+                <word id="21" cont="，" />
+                <word id="22" cont="和" />
+                <word id="23" cont="计划经济" />
+                <word id="24" cont="国家" />
+                <word id="25" cont="强调" />
+                <word id="26" cont="结果" />
+                <word id="27" cont="的" />
+                <word id="28" cont="公平性" />
+                <word id="29" cont="不同" />
+                <word id="30" cont="的" />
+                <word id="31" cont="是" />
+                <word id="32" cont="，" />
+                <word id="33" cont="市场经济" />
+                <word id="34" cont="国家" />
+                <word id="35" cont="强调" />
+                <word id="36" cont="政治权利" />
+                <word id="37" cont="的" />
+                <word id="38" cont="公平" />
+                <word id="39" cont="和" />
+                <word id="40" cont="经济" />
+                <word id="41" cont="机会" />
+                <word id="42" cont="的" />
+                <word id="43" cont="公平性" />
+                <word id="44" cont="，" />
+                <word id="45" cont="而" />
+                <word id="46" cont="不" />
+                <word id="47" cont="太" />
+                <word id="48" cont="强调" />
+                <word id="49" cont="结果" />
+                <word id="50" cont="的" />
+                <word id="51" cont="公平性" />
+                <word id="52" cont="，" />
+                <word id="53" cont="因为" />
+                <word id="54" cont="那" />
+                <word id="55" cont="会" />
+                <word id="56" cont="造成" />
+                <word id="57" cont="大量" />
+                <word id="58" cont="的" />
+                <word id="59" cont="懒人" />
+                <word id="60" cont="和" />
+                <word id="61" cont="经济" />
+                <word id="62" cont="的" />
+                <word id="63" cont="低" />
+                <word id="64" cont="效率" />
+                <word id="65" cont="。" />
+            </sent>
+        </para>
+        <para id="61">
+            <sent id="0" cont="你们肯定是垄断企业不要夜郎自大了">
+                <word id="0" cont="你们" />
+                <word id="1" cont="肯定" />
+                <word id="2" cont="是" />
+                <word id="3" cont="垄断" />
+                <word id="4" cont="企业" />
+                <word id="5" cont="不要" />
+                <word id="6" cont="夜郎" />
+                <word id="7" cont="自大" />
+                <word id="8" cont="了" />
+            </sent>
+        </para>
+        <para id="62">
+            <sent id="0" cont="看中问题了，赞同张教授的论点。">
+                <word id="0" cont="看中" />
+                <word id="1" cont="问题" />
+                <word id="2" cont="了" />
+                <word id="3" cont="，" />
+                <word id="4" cont="赞同" />
+                <word id="5" cont="张" />
+                <word id="6" cont="教授" />
+                <word id="7" cont="的" />
+                <word id="8" cont="论点" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="63">
+            <sent id="0" cont="一个西方经济学理论的宣扬者，">
+                <word id="0" cont="一个" />
+                <word id="1" cont="西方" />
+                <word id="2" cont="经济学" />
+                <word id="3" cont="理论" />
+                <word id="4" cont="的" />
+                <word id="5" cont="宣扬者" />
+                <word id="6" cont="，" />
+            </sent>
+        </para>
+        <para id="64">
+            <sent id="0" cont="中·国很多自以为是的学者，">
+                <word id="0" cont="中" />
+                <word id="1" cont="·国" />
+                <word id="2" cont="很多" />
+                <word id="3" cont="自以为是" />
+                <word id="4" cont="的" />
+                <word id="5" cont="学者" />
+                <word id="6" cont="，" />
+            </sent>
+        </para>
+        <para id="65">
+            <sent id="0" cont="中·国国情与西方是根本不同的，">
+                <word id="0" cont="中" />
+                <word id="1" cont="·国" />
+                <word id="2" cont="国情" />
+                <word id="3" cont="与" />
+                <word id="4" cont="西方" />
+                <word id="5" cont="是" />
+                <word id="6" cont="根本" />
+                <word id="7" cont="不同" />
+                <word id="8" cont="的" />
+                <word id="9" cont="，" />
+            </sent>
+        </para>
+        <para id="66">
+            <sent id="0" cont="可以这么说，">
+                <word id="0" cont="可以" />
+                <word id="1" cont="这么" />
+                <word id="2" cont="说" />
+                <word id="3" cont="，" />
+            </sent>
+        </para>
+        <para id="67">
+            <sent id="0" cont="如果全盘西化，">
+                <word id="0" cont="如果" />
+                <word id="1" cont="全盘" />
+                <word id="2" cont="西化" />
+                <word id="3" cont="，" />
+            </sent>
+        </para>
+        <para id="68">
+            <sent id="0" cont="前苏联就是未来的中·国，">
+                <word id="0" cont="前" />
+                <word id="1" cont="苏联" />
+                <word id="2" cont="就" />
+                <word id="3" cont="是" />
+                <word id="4" cont="未来" />
+                <word id="5" cont="的" />
+                <word id="6" cont="中" />
+                <word id="7" cont="·国" />
+                <word id="8" cont="，" />
+            </sent>
+        </para>
+        <para id="69">
+            <sent id="0" cont="所以，">
+                <word id="0" cont="所以" />
+                <word id="1" cont="，" />
+            </sent>
+        </para>
+        <para id="70">
+            <sent id="0" cont="此人仅仅也仅仅只能是个学者！">
+                <word id="0" cont="此人" />
+                <word id="1" cont="仅仅" />
+                <word id="2" cont="也" />
+                <word id="3" cont="仅仅" />
+                <word id="4" cont="只能" />
+                <word id="5" cont="是" />
+                <word id="6" cont="个" />
+                <word id="7" cont="学者" />
+                <word id="8" cont="！" />
+            </sent>
+        </para>
+        <para id="71">
+            <sent id="0" cont="提出一些设想而已，">
+                <word id="0" cont="提出" />
+                <word id="1" cont="一些" />
+                <word id="2" cont="设想" />
+                <word id="3" cont="而已" />
+                <word id="4" cont="，" />
+            </sent>
+        </para>
+        <para id="72">
+            <sent id="0" cont="无必哗众！">
+                <word id="0" cont="无必" />
+                <word id="1" cont="哗众" />
+                <word id="2" cont="！" />
+            </sent>
+        </para>
+        <para id="73">
+            <sent id="0" cont="张教授理论功底深，做人直率，难得，难得的国家栋梁">
+                <word id="0" cont="张" />
+                <word id="1" cont="教授" />
+                <word id="2" cont="理论" />
+                <word id="3" cont="功底" />
+                <word id="4" cont="深" />
+                <word id="5" cont="，" />
+                <word id="6" cont="做人" />
+                <word id="7" cont="直率" />
+                <word id="8" cont="，" />
+                <word id="9" cont="难得" />
+                <word id="10" cont="，" />
+                <word id="11" cont="难得" />
+                <word id="12" cont="的" />
+                <word id="13" cont="国家" />
+                <word id="14" cont="栋梁" />
+            </sent>
+        </para>
+        <para id="74">
+            <sent id="0" cont="你真丢人">
+                <word id="0" cont="你" />
+                <word id="1" cont="真" />
+                <word id="2" cont="丢人" />
+            </sent>
+        </para>
+        <para id="75">
+            <sent id="0" cont="国家不能再放任自流了">
+                <word id="0" cont="国家" />
+                <word id="1" cont="不能" />
+                <word id="2" cont="再" />
+                <word id="3" cont="放任自流" />
+                <word id="4" cont="了" />
+            </sent>
+        </para>
+        <para id="76">
+            <sent id="0" cont="国家所有制下人人都是企业家">
+                <word id="0" cont="国家" />
+                <word id="1" cont="所有制" />
+                <word id="2" cont="下" />
+                <word id="3" cont="人人" />
+                <word id="4" cont="都" />
+                <word id="5" cont="是" />
+                <word id="6" cont="企业家" />
+            </sent>
+        </para>
+        <para id="77">
+            <sent id="0" cont="我也是看了一半就不看了，层次太深了。">
+                <word id="0" cont="我" />
+                <word id="1" cont="也" />
+                <word id="2" cont="是" />
+                <word id="3" cont="看" />
+                <word id="4" cont="了" />
+                <word id="5" cont="一半" />
+                <word id="6" cont="就" />
+                <word id="7" cont="不" />
+                <word id="8" cont="看" />
+                <word id="9" cont="了" />
+                <word id="10" cont="，" />
+                <word id="11" cont="层次" />
+                <word id="12" cont="太" />
+                <word id="13" cont="深" />
+                <word id="14" cont="了" />
+                <word id="15" cont="。" />
+            </sent>
+        </para>
+        <para id="78">
+            <sent id="0" cont="我还是喜欢关注未来。">
+                <word id="0" cont="我" />
+                <word id="1" cont="还是" />
+                <word id="2" cont="喜欢" />
+                <word id="3" cont="关注" />
+                <word id="4" cont="未来" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="79">
+            <sent id="0" cont="太偏激了，看了一半就不想看。">
+                <word id="0" cont="太" />
+                <word id="1" cont="偏激" />
+                <word id="2" cont="了" />
+                <word id="3" cont="，" />
+                <word id="4" cont="看" />
+                <word id="5" cont="了" />
+                <word id="6" cont="一半" />
+                <word id="7" cont="就" />
+                <word id="8" cont="不" />
+                <word id="9" cont="想" />
+                <word id="10" cont="看" />
+                <word id="11" cont="。" />
+            </sent>
+        </para>
+        <para id="80">
+            <sent id="0" cont="又是那套所谓的自由主义。">
+                <word id="0" cont="又" />
+                <word id="1" cont="是" />
+                <word id="2" cont="那" />
+                <word id="3" cont="套" />
+                <word id="4" cont="所谓" />
+                <word id="5" cont="的" />
+                <word id="6" cont="自由主义" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="81">
+            <sent id="0" cont="同意.">
+                <word id="0" cont="同意." />
+            </sent>
+        </para>
+        <para id="82">
+            <sent id="0" cont="很多事情吴敬琏、张维迎他们早就说的很明白了，只是事实并不像他们想的那样发展，而作为最接近决策层的经济学家，他们对很多事情也很无奈，或者他们选择了妥协，比如价格双轨制，而这也是他们备受指责的原因所在。">
+                <word id="0" cont="很多" />
+                <word id="1" cont="事情" />
+                <word id="2" cont="吴敬琏" />
+                <word id="3" cont="、" />
+                <word id="4" cont="张维迎" />
+                <word id="5" cont="他们" />
+                <word id="6" cont="早就" />
+                <word id="7" cont="说" />
+                <word id="8" cont="的" />
+                <word id="9" cont="很" />
+                <word id="10" cont="明白" />
+                <word id="11" cont="了" />
+                <word id="12" cont="，" />
+                <word id="13" cont="只是" />
+                <word id="14" cont="事实" />
+                <word id="15" cont="并" />
+                <word id="16" cont="不" />
+                <word id="17" cont="像" />
+                <word id="18" cont="他们" />
+                <word id="19" cont="想" />
+                <word id="20" cont="的" />
+                <word id="21" cont="那样" />
+                <word id="22" cont="发展" />
+                <word id="23" cont="，" />
+                <word id="24" cont="而" />
+                <word id="25" cont="作为" />
+                <word id="26" cont="最" />
+                <word id="27" cont="接近" />
+                <word id="28" cont="决策层" />
+                <word id="29" cont="的" />
+                <word id="30" cont="经济学家" />
+                <word id="31" cont="，" />
+                <word id="32" cont="他们" />
+                <word id="33" cont="对" />
+                <word id="34" cont="很多" />
+                <word id="35" cont="事情" />
+                <word id="36" cont="也" />
+                <word id="37" cont="很" />
+                <word id="38" cont="无奈" />
+                <word id="39" cont="，" />
+                <word id="40" cont="或者" />
+                <word id="41" cont="他们" />
+                <word id="42" cont="选择" />
+                <word id="43" cont="了" />
+                <word id="44" cont="妥协" />
+                <word id="45" cont="，" />
+                <word id="46" cont="比如" />
+                <word id="47" cont="价格" />
+                <word id="48" cont="双轨制" />
+                <word id="49" cont="，" />
+                <word id="50" cont="而" />
+                <word id="51" cont="这" />
+                <word id="52" cont="也" />
+                <word id="53" cont="是" />
+                <word id="54" cont="他们" />
+                <word id="55" cont="备受" />
+                <word id="56" cont="指责" />
+                <word id="57" cont="的" />
+                <word id="58" cont="原因" />
+                <word id="59" cont="所在" />
+                <word id="60" cont="。" />
+            </sent>
+        </para>
+        <para id="83">
+            <sent id="0" cont="一句话，理想总是美好的，现实却是残酷的。">
+                <word id="0" cont="一" />
+                <word id="1" cont="句话" />
+                <word id="2" cont="，" />
+                <word id="3" cont="理想" />
+                <word id="4" cont="总是" />
+                <word id="5" cont="美好" />
+                <word id="6" cont="的" />
+                <word id="7" cont="，" />
+                <word id="8" cont="现实" />
+                <word id="9" cont="却" />
+                <word id="10" cont="是" />
+                <word id="11" cont="残酷" />
+                <word id="12" cont="的" />
+                <word id="13" cont="。" />
+            </sent>
+        </para>
+        <para id="84">
+            <sent id="0" cont="错误！">
+                <word id="0" cont="错误" />
+                <word id="1" cont="！" />
+            </sent>
+        </para>
+        <para id="85">
+            <sent id="0" cont="没有道德和法律制约的情况下，市场经济对大众来说是灾难">
+                <word id="0" cont="没有" />
+                <word id="1" cont="道德" />
+                <word id="2" cont="和" />
+                <word id="3" cont="法律" />
+                <word id="4" cont="制约" />
+                <word id="5" cont="的" />
+                <word id="6" cont="情况" />
+                <word id="7" cont="下" />
+                <word id="8" cont="，" />
+                <word id="9" cont="市场经济" />
+                <word id="10" cont="对" />
+                <word id="11" cont="大众" />
+                <word id="12" cont="来说" />
+                <word id="13" cont="是" />
+                <word id="14" cont="灾难" />
+            </sent>
+        </para>
+        <para id="86">
+            <sent id="0" cont="有道理">
+                <word id="0" cont="有" />
+                <word id="1" cont="道理" />
+            </sent>
+        </para>
+        <para id="87">
+            <sent id="0" cont="说得对">
+                <word id="0" cont="说" />
+                <word id="1" cont="得" />
+                <word id="2" cont="对" />
+            </sent>
+        </para>
+        <para id="88">
+            <sent id="0" cont="一些所谓的经济学家，不踏踏实实做真正的研究，成天喜欢忽悠、招摇，使得国内经济学界的浮躁之风盛行，长此以往，中国经济学的研究必将没落。">
+                <word id="0" cont="一些" />
+                <word id="1" cont="所谓" />
+                <word id="2" cont="的" />
+                <word id="3" cont="经济学家" />
+                <word id="4" cont="，" />
+                <word id="5" cont="不" />
+                <word id="6" cont="踏踏实实" />
+                <word id="7" cont="做" />
+                <word id="8" cont="真正" />
+                <word id="9" cont="的" />
+                <word id="10" cont="研究" />
+                <word id="11" cont="，" />
+                <word id="12" cont="成天" />
+                <word id="13" cont="喜欢" />
+                <word id="14" cont="忽悠" />
+                <word id="15" cont="、" />
+                <word id="16" cont="招摇" />
+                <word id="17" cont="，" />
+                <word id="18" cont="使得" />
+                <word id="19" cont="国内" />
+                <word id="20" cont="经济学界" />
+                <word id="21" cont="的" />
+                <word id="22" cont="浮躁" />
+                <word id="23" cont="之" />
+                <word id="24" cont="风" />
+                <word id="25" cont="盛行" />
+                <word id="26" cont="，" />
+                <word id="27" cont="长此以往" />
+                <word id="28" cont="，" />
+                <word id="29" cont="中国" />
+                <word id="30" cont="经济学" />
+                <word id="31" cont="的" />
+                <word id="32" cont="研究" />
+                <word id="33" cont="必将" />
+                <word id="34" cont="没落" />
+                <word id="35" cont="。" />
+            </sent>
+        </para>
+        <para id="89">
+            <sent id="0" cont="一些所谓的经济学家，不踏踏实实做真正的研究，成天喜欢忽悠、招摇，使得国内经济学界的浮躁之风盛行，长此以往，中国经济学的研究必将没落。">
+                <word id="0" cont="一些" />
+                <word id="1" cont="所谓" />
+                <word id="2" cont="的" />
+                <word id="3" cont="经济学家" />
+                <word id="4" cont="，" />
+                <word id="5" cont="不" />
+                <word id="6" cont="踏踏实实" />
+                <word id="7" cont="做" />
+                <word id="8" cont="真正" />
+                <word id="9" cont="的" />
+                <word id="10" cont="研究" />
+                <word id="11" cont="，" />
+                <word id="12" cont="成天" />
+                <word id="13" cont="喜欢" />
+                <word id="14" cont="忽悠" />
+                <word id="15" cont="、" />
+                <word id="16" cont="招摇" />
+                <word id="17" cont="，" />
+                <word id="18" cont="使得" />
+                <word id="19" cont="国内" />
+                <word id="20" cont="经济学界" />
+                <word id="21" cont="的" />
+                <word id="22" cont="浮躁" />
+                <word id="23" cont="之" />
+                <word id="24" cont="风" />
+                <word id="25" cont="盛行" />
+                <word id="26" cont="，" />
+                <word id="27" cont="长此以往" />
+                <word id="28" cont="，" />
+                <word id="29" cont="中国" />
+                <word id="30" cont="经济学" />
+                <word id="31" cont="的" />
+                <word id="32" cont="研究" />
+                <word id="33" cont="必将" />
+                <word id="34" cont="没落" />
+                <word id="35" cont="。" />
+            </sent>
+        </para>
+        <para id="90">
+            <sent id="0" cont="为什么一定要产生真正的企业家，只要产生真正好的企业就可以！">
+                <word id="0" cont="为什么" />
+                <word id="1" cont="一定" />
+                <word id="2" cont="要" />
+                <word id="3" cont="产生" />
+                <word id="4" cont="真正" />
+                <word id="5" cont="的" />
+                <word id="6" cont="企业家" />
+                <word id="7" cont="，" />
+                <word id="8" cont="只要" />
+                <word id="9" cont="产生" />
+                <word id="10" cont="真正好" />
+                <word id="11" cont="的" />
+                <word id="12" cont="企业" />
+                <word id="13" cont="就" />
+                <word id="14" cont="可以" />
+                <word id="15" cont="！" />
+            </sent>
+        </para>
+        <para id="91">
+            <sent id="0" cont="对不懂经济的人就像对牛弹琴">
+                <word id="0" cont="对" />
+                <word id="1" cont="不" />
+                <word id="2" cont="懂" />
+                <word id="3" cont="经济" />
+                <word id="4" cont="的" />
+                <word id="5" cont="人" />
+                <word id="6" cont="就" />
+                <word id="7" cont="像" />
+                <word id="8" cont="对" />
+                <word id="9" cont="牛弹琴" />
+            </sent>
+        </para>
+        <para id="92">
+            <sent id="0" cont="张维迎切中要害，">
+                <word id="0" cont="张维迎" />
+                <word id="1" cont="切中" />
+                <word id="2" cont="要害" />
+                <word id="3" cont="，" />
+            </sent>
+        </para>
+        <para id="93">
+            <sent id="0" cont="我看了张教授的话，第一个反应就是俩字“放屁”！">
+                <word id="0" cont="我" />
+                <word id="1" cont="看" />
+                <word id="2" cont="了" />
+                <word id="3" cont="张" />
+                <word id="4" cont="教授" />
+                <word id="5" cont="的话" />
+                <word id="6" cont="，" />
+                <word id="7" cont="第一" />
+                <word id="8" cont="个" />
+                <word id="9" cont="反应" />
+                <word id="10" cont="就" />
+                <word id="11" cont="是" />
+                <word id="12" cont="俩" />
+                <word id="13" cont="字" />
+                <word id="14" cont="“" />
+                <word id="15" cont="放屁" />
+                <word id="16" cont="”" />
+                <word id="17" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="94">
+            <sent id="0" cont="可能本人的修养与一些人的期望不一样。">
+                <word id="0" cont="可能" />
+                <word id="1" cont="本人" />
+                <word id="2" cont="的" />
+                <word id="3" cont="修养" />
+                <word id="4" cont="与" />
+                <word id="5" cont="一些" />
+                <word id="6" cont="人" />
+                <word id="7" cont="的" />
+                <word id="8" cont="期望" />
+                <word id="9" cont="不" />
+                <word id="10" cont="一样" />
+                <word id="11" cont="。" />
+            </sent>
+        </para>
+        <para id="95">
+            <sent id="0" cont="但我就是这样想的！">
+                <word id="0" cont="但" />
+                <word id="1" cont="我" />
+                <word id="2" cont="就是" />
+                <word id="3" cont="这样" />
+                <word id="4" cont="想" />
+                <word id="5" cont="的" />
+                <word id="6" cont="！" />
+            </sent>
+        </para>
+        <para id="96">
+            <sent id="0" cont="什么是真正的企业家？">
+                <word id="0" cont="什么" />
+                <word id="1" cont="是" />
+                <word id="2" cont="真正" />
+                <word id="3" cont="的" />
+                <word id="4" cont="企业家" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="97">
+            <sent id="0" cont="张教授恐怕也给不出这个答案吧/牵强的概念谁都能杜撰一点，但我想更难的一点是什么样的企业？">
+                <word id="0" cont="张" />
+                <word id="1" cont="教授" />
+                <word id="2" cont="恐怕" />
+                <word id="3" cont="也" />
+                <word id="4" cont="给" />
+                <word id="5" cont="不" />
+                <word id="6" cont="出" />
+                <word id="7" cont="这个" />
+                <word id="8" cont="答案吧/牵强" />
+                <word id="9" cont="的" />
+                <word id="10" cont="概念" />
+                <word id="11" cont="谁" />
+                <word id="12" cont="都" />
+                <word id="13" cont="能" />
+                <word id="14" cont="杜撰" />
+                <word id="15" cont="一" />
+                <word id="16" cont="点" />
+                <word id="17" cont="，" />
+                <word id="18" cont="但" />
+                <word id="19" cont="我" />
+                <word id="20" cont="想" />
+                <word id="21" cont="更" />
+                <word id="22" cont="难" />
+                <word id="23" cont="的" />
+                <word id="24" cont="一" />
+                <word id="25" cont="点" />
+                <word id="26" cont="是" />
+                <word id="27" cont="什么样" />
+                <word id="28" cont="的" />
+                <word id="29" cont="企业" />
+                <word id="30" cont="？" />
+            </sent>
+        </para>
+        <para id="98">
+            <sent id="0" cont="国家所有制下的企业是不是企业？">
+                <word id="0" cont="国家" />
+                <word id="1" cont="所有制" />
+                <word id="2" cont="下" />
+                <word id="3" cont="的" />
+                <word id="4" cont="企业" />
+                <word id="5" cont="是" />
+                <word id="6" cont="不" />
+                <word id="7" cont="是" />
+                <word id="8" cont="企业" />
+                <word id="9" cont="？" />
+            </sent>
+        </para>
+        <para id="99">
+            <sent id="0" cont="张教授能定义吗？">
+                <word id="0" cont="张" />
+                <word id="1" cont="教授" />
+                <word id="2" cont="能" />
+                <word id="3" cont="定义" />
+                <word id="4" cont="吗" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="100">
+            <sent id="0" cont="你的定义能准确吗？">
+                <word id="0" cont="你" />
+                <word id="1" cont="的" />
+                <word id="2" cont="定义" />
+                <word id="3" cont="能" />
+                <word id="4" cont="准确" />
+                <word id="5" cont="吗" />
+                <word id="6" cont="？" />
+            </sent>
+        </para>
+        <para id="101">
+            <sent id="0" cont="不能？">
+                <word id="0" cont="不" />
+                <word id="1" cont="能" />
+                <word id="2" cont="？" />
+            </sent>
+        </para>
+        <para id="102">
+            <sent id="0" cont="--那就是我说的这俩字">
+                <word id="0" cont="--" />
+                <word id="1" cont="那" />
+                <word id="2" cont="就" />
+                <word id="3" cont="是" />
+                <word id="4" cont="我" />
+                <word id="5" cont="说" />
+                <word id="6" cont="的" />
+                <word id="7" cont="这" />
+                <word id="8" cont="俩" />
+                <word id="9" cont="字" />
+            </sent>
+        </para>
+        <para id="103">
+            <sent id="0" cont="论点有失偏颇，关键是干部的选拔和任用上，不错，很多的国有企业是败在了那些败家子手上，你想某个大人物的司机或警卫成为一个企业的法人，可想而知这家企业的下场，这样的事也不在少数，但这也还是一个干部的选拔和任用的问题，世界上的巨富有几个是高学历者？">
+                <word id="0" cont="论点" />
+                <word id="1" cont="有" />
+                <word id="2" cont="失偏颇" />
+                <word id="3" cont="，" />
+                <word id="4" cont="关键" />
+                <word id="5" cont="是" />
+                <word id="6" cont="干部" />
+                <word id="7" cont="的" />
+                <word id="8" cont="选拔" />
+                <word id="9" cont="和" />
+                <word id="10" cont="任用" />
+                <word id="11" cont="上" />
+                <word id="12" cont="，" />
+                <word id="13" cont="不错" />
+                <word id="14" cont="，" />
+                <word id="15" cont="很多" />
+                <word id="16" cont="的" />
+                <word id="17" cont="国有" />
+                <word id="18" cont="企业" />
+                <word id="19" cont="是" />
+                <word id="20" cont="败" />
+                <word id="21" cont="在" />
+                <word id="22" cont="了" />
+                <word id="23" cont="那些" />
+                <word id="24" cont="败家子" />
+                <word id="25" cont="手上" />
+                <word id="26" cont="，" />
+                <word id="27" cont="你" />
+                <word id="28" cont="想" />
+                <word id="29" cont="某个" />
+                <word id="30" cont="大人物" />
+                <word id="31" cont="的" />
+                <word id="32" cont="司机" />
+                <word id="33" cont="或" />
+                <word id="34" cont="警卫" />
+                <word id="35" cont="成为" />
+                <word id="36" cont="一个" />
+                <word id="37" cont="企业" />
+                <word id="38" cont="的" />
+                <word id="39" cont="法人" />
+                <word id="40" cont="，" />
+                <word id="41" cont="可想而知" />
+                <word id="42" cont="这家" />
+                <word id="43" cont="企业" />
+                <word id="44" cont="的" />
+                <word id="45" cont="下场" />
+                <word id="46" cont="，" />
+                <word id="47" cont="这样" />
+                <word id="48" cont="的" />
+                <word id="49" cont="事" />
+                <word id="50" cont="也" />
+                <word id="51" cont="不在少数" />
+                <word id="52" cont="，" />
+                <word id="53" cont="但" />
+                <word id="54" cont="这" />
+                <word id="55" cont="也" />
+                <word id="56" cont="还是" />
+                <word id="57" cont="一个" />
+                <word id="58" cont="干部" />
+                <word id="59" cont="的" />
+                <word id="60" cont="选拔" />
+                <word id="61" cont="和" />
+                <word id="62" cont="任用" />
+                <word id="63" cont="的" />
+                <word id="64" cont="问题" />
+                <word id="65" cont="，" />
+                <word id="66" cont="世界" />
+                <word id="67" cont="上" />
+                <word id="68" cont="的" />
+                <word id="69" cont="巨" />
+                <word id="70" cont="富有" />
+                <word id="71" cont="几" />
+                <word id="72" cont="个" />
+                <word id="73" cont="是" />
+                <word id="74" cont="高" />
+                <word id="75" cont="学历者" />
+                <word id="76" cont="？" />
+            </sent>
+        </para>
+        <para id="104">
+            <sent id="0" cont="才干和人品才是选人的不可或缺的条件，我们真正缺失的就是这种机制.">
+                <word id="0" cont="才干" />
+                <word id="1" cont="和" />
+                <word id="2" cont="人品" />
+                <word id="3" cont="才" />
+                <word id="4" cont="是" />
+                <word id="5" cont="选人" />
+                <word id="6" cont="的" />
+                <word id="7" cont="不可或缺" />
+                <word id="8" cont="的" />
+                <word id="9" cont="条件" />
+                <word id="10" cont="，" />
+                <word id="11" cont="我们" />
+                <word id="12" cont="真正" />
+                <word id="13" cont="缺失" />
+                <word id="14" cont="的" />
+                <word id="15" cont="就" />
+                <word id="16" cont="是" />
+                <word id="17" cont="这种" />
+                <word id="18" cont="机制." />
+            </sent>
+        </para>
+        <para id="105">
+            <sent id="0" cont="这种人也称经济学家，悲哀.">
+                <word id="0" cont="这种" />
+                <word id="1" cont="人" />
+                <word id="2" cont="也" />
+                <word id="3" cont="称" />
+                <word id="4" cont="经济学家" />
+                <word id="5" cont="，" />
+                <word id="6" cont="悲哀." />
+            </sent>
+        </para>
+        <para id="106">
+            <sent id="0" cont="萨科齐说，那种认为“市场万能、不需要任何规则和政治干预”的观点是“疯狂”的，">
+                <word id="0" cont="萨科齐" />
+                <word id="1" cont="说" />
+                <word id="2" cont="，" />
+                <word id="3" cont="那种" />
+                <word id="4" cont="认为" />
+                <word id="5" cont="“" />
+                <word id="6" cont="市场" />
+                <word id="7" cont="万能" />
+                <word id="8" cont="、" />
+                <word id="9" cont="不" />
+                <word id="10" cont="需要" />
+                <word id="11" cont="任何" />
+                <word id="12" cont="规则" />
+                <word id="13" cont="和" />
+                <word id="14" cont="政治" />
+                <word id="15" cont="干预" />
+                <word id="16" cont="”" />
+                <word id="17" cont="的" />
+                <word id="18" cont="观点" />
+                <word id="19" cont="是" />
+                <word id="20" cont="“" />
+                <word id="21" cont="疯狂" />
+                <word id="22" cont="”" />
+                <word id="23" cont="的" />
+                <word id="24" cont="，" />
+            </sent>
+        </para>
+        <para id="107">
+            <sent id="0" cont="先生说的是铁律。">
+                <word id="0" cont="先生" />
+                <word id="1" cont="说" />
+                <word id="2" cont="的" />
+                <word id="3" cont="是" />
+                <word id="4" cont="铁律" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="108">
+            <sent id="0" cont="1、什么叫企业家？">
+                <word id="0" cont="1" />
+                <word id="1" cont="、" />
+                <word id="2" cont="什么" />
+                <word id="3" cont="叫" />
+                <word id="4" cont="企业家" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="109">
+            <sent id="0" cont="标准是什么？">
+                <word id="0" cont="标准" />
+                <word id="1" cont="是" />
+                <word id="2" cont="什么" />
+                <word id="3" cont="？" />
+            </sent>
+        </para>
+        <para id="110">
+            <sent id="0" cont="是几个所谓的经济学家口中的企业家？">
+                <word id="0" cont="是" />
+                <word id="1" cont="几" />
+                <word id="2" cont="个" />
+                <word id="3" cont="所谓" />
+                <word id="4" cont="的" />
+                <word id="5" cont="经济学家" />
+                <word id="6" cont="口中" />
+                <word id="7" cont="的" />
+                <word id="8" cont="企业家" />
+                <word id="9" cont="？" />
+            </sent>
+        </para>
+        <para id="111">
+            <sent id="0" cont="还是广大民众认可的？">
+                <word id="0" cont="还是" />
+                <word id="1" cont="广大" />
+                <word id="2" cont="民众" />
+                <word id="3" cont="认可" />
+                <word id="4" cont="的" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="112">
+            <sent id="0" cont="2、什么叫国家所有制？">
+                <word id="0" cont="2" />
+                <word id="1" cont="、" />
+                <word id="2" cont="什么" />
+                <word id="3" cont="叫" />
+                <word id="4" cont="国家" />
+                <word id="5" cont="所有制" />
+                <word id="6" cont="？" />
+            </sent>
+        </para>
+        <para id="113">
+            <sent id="0" cont="标准是什么？">
+                <word id="0" cont="标准" />
+                <word id="1" cont="是" />
+                <word id="2" cont="什么" />
+                <word id="3" cont="？" />
+            </sent>
+        </para>
+        <para id="114">
+            <sent id="0" cont="企业家不是以是不是国家所有制还是什么所有制来划分，而是以他的品德、材能及其知识和对社会的责任与对国家经济发展的贡献来划分的。">
+                <word id="0" cont="企业家" />
+                <word id="1" cont="不" />
+                <word id="2" cont="是" />
+                <word id="3" cont="以" />
+                <word id="4" cont="是" />
+                <word id="5" cont="不" />
+                <word id="6" cont="是" />
+                <word id="7" cont="国家" />
+                <word id="8" cont="所有制" />
+                <word id="9" cont="还是" />
+                <word id="10" cont="什么" />
+                <word id="11" cont="所有制" />
+                <word id="12" cont="来" />
+                <word id="13" cont="划分" />
+                <word id="14" cont="，" />
+                <word id="15" cont="而是" />
+                <word id="16" cont="以" />
+                <word id="17" cont="他" />
+                <word id="18" cont="的" />
+                <word id="19" cont="品德" />
+                <word id="20" cont="、" />
+                <word id="21" cont="材能" />
+                <word id="22" cont="及其" />
+                <word id="23" cont="知识" />
+                <word id="24" cont="和" />
+                <word id="25" cont="对" />
+                <word id="26" cont="社会" />
+                <word id="27" cont="的" />
+                <word id="28" cont="责任" />
+                <word id="29" cont="与" />
+                <word id="30" cont="对" />
+                <word id="31" cont="国家" />
+                <word id="32" cont="经济" />
+                <word id="33" cont="发展" />
+                <word id="34" cont="的" />
+                <word id="35" cont="贡献" />
+                <word id="36" cont="来" />
+                <word id="37" cont="划分" />
+                <word id="38" cont="的" />
+                <word id="39" cont="。" />
+            </sent>
+        </para>
+        <para id="115">
+            <sent id="0" cont="这是一个伪命题。">
+                <word id="0" cont="这" />
+                <word id="1" cont="是" />
+                <word id="2" cont="一个" />
+                <word id="3" cont="伪" />
+                <word id="4" cont="命题" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="116">
+            <sent id="0" cont="这是一个伪命题。">
+                <word id="0" cont="这" />
+                <word id="1" cont="是" />
+                <word id="2" cont="一个" />
+                <word id="3" cont="伪" />
+                <word id="4" cont="命题" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="117">
+            <sent id="0" cont="企业家不是以是不是国家所有制还是什么所有制来划分，而是以他的品德、材能及其知识和对社会的责任与对国家经济发展的贡献来划分的。">
+                <word id="0" cont="企业家" />
+                <word id="1" cont="不" />
+                <word id="2" cont="是" />
+                <word id="3" cont="以" />
+                <word id="4" cont="是" />
+                <word id="5" cont="不" />
+                <word id="6" cont="是" />
+                <word id="7" cont="国家" />
+                <word id="8" cont="所有制" />
+                <word id="9" cont="还是" />
+                <word id="10" cont="什么" />
+                <word id="11" cont="所有制" />
+                <word id="12" cont="来" />
+                <word id="13" cont="划分" />
+                <word id="14" cont="，" />
+                <word id="15" cont="而是" />
+                <word id="16" cont="以" />
+                <word id="17" cont="他" />
+                <word id="18" cont="的" />
+                <word id="19" cont="品德" />
+                <word id="20" cont="、" />
+                <word id="21" cont="材能" />
+                <word id="22" cont="及其" />
+                <word id="23" cont="知识" />
+                <word id="24" cont="和" />
+                <word id="25" cont="对" />
+                <word id="26" cont="社会" />
+                <word id="27" cont="的" />
+                <word id="28" cont="责任" />
+                <word id="29" cont="与" />
+                <word id="30" cont="对" />
+                <word id="31" cont="国家" />
+                <word id="32" cont="经济" />
+                <word id="33" cont="发展" />
+                <word id="34" cont="的" />
+                <word id="35" cont="贡献" />
+                <word id="36" cont="来" />
+                <word id="37" cont="划分" />
+                <word id="38" cont="的" />
+                <word id="39" cont="。" />
+            </sent>
+        </para>
+        <para id="118">
+            <sent id="0" cont="片面的东西太多，不像真正的学者">
+                <word id="0" cont="片面" />
+                <word id="1" cont="的" />
+                <word id="2" cont="东西" />
+                <word id="3" cont="太" />
+                <word id="4" cont="多" />
+                <word id="5" cont="，" />
+                <word id="6" cont="不" />
+                <word id="7" cont="像" />
+                <word id="8" cont="真正" />
+                <word id="9" cont="的" />
+                <word id="10" cont="学者" />
+            </sent>
+        </para>
+        <para id="119">
+            <sent id="0" cont="那只代表他个人意见！">
+                <word id="0" cont="那" />
+                <word id="1" cont="只" />
+                <word id="2" cont="代表" />
+                <word id="3" cont="他" />
+                <word id="4" cont="个人" />
+                <word id="5" cont="意见" />
+                <word id="6" cont="！" />
+            </sent>
+        </para>
+        <para id="120">
+            <sent id="0" cont="我们不需要只想捞钱的资本家，而需要企业价值最大化的经营者！">
+                <word id="0" cont="我们" />
+                <word id="1" cont="不" />
+                <word id="2" cont="需要" />
+                <word id="3" cont="只" />
+                <word id="4" cont="想" />
+                <word id="5" cont="捞钱" />
+                <word id="6" cont="的" />
+                <word id="7" cont="资本家" />
+                <word id="8" cont="，" />
+                <word id="9" cont="而" />
+                <word id="10" cont="需要" />
+                <word id="11" cont="企业" />
+                <word id="12" cont="价值" />
+                <word id="13" cont="最大化" />
+                <word id="14" cont="的" />
+                <word id="15" cont="经营者" />
+                <word id="16" cont="！" />
+            </sent>
+        </para>
+        <para id="121">
+            <sent id="0" cont="说话怎么都这么绝对，绝对不是真正的经济学家！">
+                <word id="0" cont="说话" />
+                <word id="1" cont="怎么" />
+                <word id="2" cont="都" />
+                <word id="3" cont="这么" />
+                <word id="4" cont="绝对" />
+                <word id="5" cont="，" />
+                <word id="6" cont="绝对" />
+                <word id="7" cont="不" />
+                <word id="8" cont="是" />
+                <word id="9" cont="真正" />
+                <word id="10" cont="的" />
+                <word id="11" cont="经济学家" />
+                <word id="12" cont="！" />
+            </sent>
+        </para>
+        <para id="122">
+            <sent id="0" cont="人渣">
+                <word id="0" cont="人渣" />
+            </sent>
+        </para>
+        <para id="123">
+            <sent id="0" cont="以前也没听说过这个人。">
+                <word id="0" cont="以前" />
+                <word id="1" cont="也" />
+                <word id="2" cont="没" />
+                <word id="3" cont="听说" />
+                <word id="4" cont="过" />
+                <word id="5" cont="这个" />
+                <word id="6" cont="人" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="124">
+            <sent id="0" cont="不过需要提醒一句，不要单纯以经济学的角度去看待经济。">
+                <word id="0" cont="不过" />
+                <word id="1" cont="需要" />
+                <word id="2" cont="提醒" />
+                <word id="3" cont="一" />
+                <word id="4" cont="句" />
+                <word id="5" cont="，" />
+                <word id="6" cont="不要" />
+                <word id="7" cont="单纯" />
+                <word id="8" cont="以" />
+                <word id="9" cont="经济学" />
+                <word id="10" cont="的" />
+                <word id="11" cont="角度" />
+                <word id="12" cont="去" />
+                <word id="13" cont="看待" />
+                <word id="14" cont="经济" />
+                <word id="15" cont="。" />
+            </sent>
+        </para>
+        <para id="125">
+            <sent id="0" cont="看了这篇文章，我只能说你是一个不合格的“经济学家”。">
+                <word id="0" cont="看" />
+                <word id="1" cont="了" />
+                <word id="2" cont="这" />
+                <word id="3" cont="篇" />
+                <word id="4" cont="文章" />
+                <word id="5" cont="，" />
+                <word id="6" cont="我" />
+                <word id="7" cont="只能" />
+                <word id="8" cont="说" />
+                <word id="9" cont="你" />
+                <word id="10" cont="是" />
+                <word id="11" cont="一个" />
+                <word id="12" cont="不" />
+                <word id="13" cont="合格" />
+                <word id="14" cont="的" />
+                <word id="15" cont="“" />
+                <word id="16" cont="经济学家" />
+                <word id="17" cont="”" />
+                <word id="18" cont="。" />
+            </sent>
+        </para>
+        <para id="126">
+            <sent id="0" cont="企业家的产生与制度有何关系？">
+                <word id="0" cont="企业家" />
+                <word id="1" cont="的" />
+                <word id="2" cont="产生" />
+                <word id="3" cont="与" />
+                <word id="4" cont="制度" />
+                <word id="5" cont="有" />
+                <word id="6" cont="何" />
+                <word id="7" cont="关系" />
+                <word id="8" cont="？" />
+            </sent>
+        </para>
+        <para id="127">
+            <sent id="0" cont="连这都不懂？">
+                <word id="0" cont="连" />
+                <word id="1" cont="这" />
+                <word id="2" cont="都" />
+                <word id="3" cont="不" />
+                <word id="4" cont="懂" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="128">
+            <sent id="0" cont="“但那些一心办好企业，为国为民的才是真正的企业家。">
+                <word id="0" cont="“" />
+                <word id="1" cont="但" />
+                <word id="2" cont="那些" />
+                <word id="3" cont="一心" />
+                <word id="4" cont="办" />
+                <word id="5" cont="好" />
+                <word id="6" cont="企业" />
+                <word id="7" cont="，" />
+                <word id="8" cont="为" />
+                <word id="9" cont="国" />
+                <word id="10" cont="为" />
+                <word id="11" cont="民" />
+                <word id="12" cont="的" />
+                <word id="13" cont="才" />
+                <word id="14" cont="是" />
+                <word id="15" cont="真正" />
+                <word id="16" cont="的" />
+                <word id="17" cont="企业家" />
+                <word id="18" cont="。" />
+            </sent>
+        </para>
+        <para id="129">
+            <sent id="0" cont="”">
+                <word id="0" cont="”" />
+            </sent>
+        </para>
+        <para id="130">
+            <sent id="0" cont="谁呀？">
+                <word id="0" cont="谁" />
+                <word id="1" cont="呀" />
+                <word id="2" cont="？" />
+            </sent>
+        </para>
+        <para id="131">
+            <sent id="0" cont="你举个例子出来？">
+                <word id="0" cont="你" />
+                <word id="1" cont="举" />
+                <word id="2" cont="个" />
+                <word id="3" cont="例子" />
+                <word id="4" cont="出来" />
+                <word id="5" cont="？" />
+            </sent>
+        </para>
+        <para id="132">
+            <sent id="0" cont="完全同意张教授的观点。">
+                <word id="0" cont="完全" />
+                <word id="1" cont="同意" />
+                <word id="2" cont="张" />
+                <word id="3" cont="教授" />
+                <word id="4" cont="的" />
+                <word id="5" cont="观点" />
+                <word id="6" cont="。" />
+            </sent>
+        </para>
+        <para id="133">
+            <sent id="0" cont="我们应该清楚的看到如果没有前几年的改革就没有今天的繁荣，我们不能忘记历史。">
+                <word id="0" cont="我们" />
+                <word id="1" cont="应该" />
+                <word id="2" cont="清楚" />
+                <word id="3" cont="的" />
+                <word id="4" cont="看到" />
+                <word id="5" cont="如果" />
+                <word id="6" cont="没有" />
+                <word id="7" cont="前" />
+                <word id="8" cont="几" />
+                <word id="9" cont="年" />
+                <word id="10" cont="的" />
+                <word id="11" cont="改革" />
+                <word id="12" cont="就" />
+                <word id="13" cont="没有" />
+                <word id="14" cont="今天" />
+                <word id="15" cont="的" />
+                <word id="16" cont="繁荣" />
+                <word id="17" cont="，" />
+                <word id="18" cont="我们" />
+                <word id="19" cont="不" />
+                <word id="20" cont="能" />
+                <word id="21" cont="忘记" />
+                <word id="22" cont="历史" />
+                <word id="23" cont="。" />
+            </sent>
+        </para>
+        <para id="134">
+            <sent id="0" cont="这种垃圾经济学家，我呸！">
+                <word id="0" cont="这种" />
+                <word id="1" cont="垃圾" />
+                <word id="2" cont="经济学家" />
+                <word id="3" cont="，" />
+                <word id="4" cont="我" />
+                <word id="5" cont="呸" />
+                <word id="6" cont="！" />
+            </sent>
+        </para>
+        <para id="135">
+            <sent id="0" cont="真正的企业家要象那个国家的，有先例吗？">
+                <word id="0" cont="真正" />
+                <word id="1" cont="的" />
+                <word id="2" cont="企业家" />
+                <word id="3" cont="要" />
+                <word id="4" cont="象" />
+                <word id="5" cont="那个" />
+                <word id="6" cont="国家" />
+                <word id="7" cont="的" />
+                <word id="8" cont="，" />
+                <word id="9" cont="有" />
+                <word id="10" cont="先例" />
+                <word id="11" cont="吗" />
+                <word id="12" cont="？" />
+            </sent>
+        </para>
+        <para id="136">
+            <sent id="0" cont="中国的企业家都把企业随意的交到外国企业的手中了，这种没道德的企业家不要也罢">
+                <word id="0" cont="中国" />
+                <word id="1" cont="的" />
+                <word id="2" cont="企业家" />
+                <word id="3" cont="都" />
+                <word id="4" cont="把" />
+                <word id="5" cont="企业" />
+                <word id="6" cont="随意" />
+                <word id="7" cont="的" />
+                <word id="8" cont="交" />
+                <word id="9" cont="到" />
+                <word id="10" cont="外国" />
+                <word id="11" cont="企业" />
+                <word id="12" cont="的" />
+                <word id="13" cont="手中" />
+                <word id="14" cont="了" />
+                <word id="15" cont="，" />
+                <word id="16" cont="这种" />
+                <word id="17" cont="没" />
+                <word id="18" cont="道德" />
+                <word id="19" cont="的" />
+                <word id="20" cont="企业家" />
+                <word id="21" cont="不要" />
+                <word id="22" cont="也罢" />
+            </sent>
+        </para>
+        <para id="137">
+            <sent id="0" cont="早就发现了，所以研究炒股票.而根本没研究怎么做企业家.">
+                <word id="0" cont="早就" />
+                <word id="1" cont="发现" />
+                <word id="2" cont="了" />
+                <word id="3" cont="，" />
+                <word id="4" cont="所以" />
+                <word id="5" cont="研究" />
+                <word id="6" cont="炒" />
+                <word id="7" cont="股票." />
+                <word id="8" cont="而" />
+                <word id="9" cont="根本" />
+                <word id="10" cont="没" />
+                <word id="11" cont="研究" />
+                <word id="12" cont="怎么" />
+                <word id="13" cont="做" />
+                <word id="14" cont="企业家." />
+            </sent>
+        </para>
+        <para id="138">
+            <sent id="0" cont="企业属于自己家的">
+                <word id="0" cont="企业" />
+                <word id="1" cont="属于" />
+                <word id="2" cont="自己" />
+                <word id="3" cont="家" />
+                <word id="4" cont="的" />
+            </sent>
+        </para>
+        <para id="139">
+            <sent id="0" cont="社会主义是高于资本主义的新生事物，在人类发展的前端，没有资本主义那样成熟的既定事实！">
+                <word id="0" cont="社会主义" />
+                <word id="1" cont="是" />
+                <word id="2" cont="高于" />
+                <word id="3" cont="资本主义" />
+                <word id="4" cont="的" />
+                <word id="5" cont="新生事物" />
+                <word id="6" cont="，" />
+                <word id="7" cont="在" />
+                <word id="8" cont="人类" />
+                <word id="9" cont="发展" />
+                <word id="10" cont="的" />
+                <word id="11" cont="前端" />
+                <word id="12" cont="，" />
+                <word id="13" cont="没有" />
+                <word id="14" cont="资本主义" />
+                <word id="15" cont="那样" />
+                <word id="16" cont="成熟" />
+                <word id="17" cont="的" />
+                <word id="18" cont="既定" />
+                <word id="19" cont="事实" />
+                <word id="20" cont="！" />
+            </sent>
+        </para>
+        <para id="140">
+            <sent id="0" cont="需要创新和探索，所以中国才有今天的成就！">
+                <word id="0" cont="需要" />
+                <word id="1" cont="创新" />
+                <word id="2" cont="和" />
+                <word id="3" cont="探索" />
+                <word id="4" cont="，" />
+                <word id="5" cont="所以" />
+                <word id="6" cont="中国" />
+                <word id="7" cont="才" />
+                <word id="8" cont="有" />
+                <word id="9" cont="今天" />
+                <word id="10" cont="的" />
+                <word id="11" cont="成就" />
+                <word id="12" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="141">
+            <sent id="0" cont="如果靠张维迎这样的拿来学者只会复制前人的思想的书呆子那里还有今天！">
+                <word id="0" cont="如果" />
+                <word id="1" cont="靠" />
+                <word id="2" cont="张维迎" />
+                <word id="3" cont="这样" />
+                <word id="4" cont="的" />
+                <word id="5" cont="拿" />
+                <word id="6" cont="来" />
+                <word id="7" cont="学者" />
+                <word id="8" cont="只" />
+                <word id="9" cont="会" />
+                <word id="10" cont="复制" />
+                <word id="11" cont="前人" />
+                <word id="12" cont="的" />
+                <word id="13" cont="思想" />
+                <word id="14" cont="的" />
+                <word id="15" cont="书" />
+                <word id="16" cont="呆子" />
+                <word id="17" cont="那里" />
+                <word id="18" cont="还有" />
+                <word id="19" cont="今天" />
+                <word id="20" cont="！" />
+            </sent>
+        </para>
+        <para id="142">
+            <sent id="0" cont="世界也就不会有层出不穷的新理论了！">
+                <word id="0" cont="世界" />
+                <word id="1" cont="也" />
+                <word id="2" cont="就" />
+                <word id="3" cont="不" />
+                <word id="4" cont="会" />
+                <word id="5" cont="有" />
+                <word id="6" cont="层出不穷" />
+                <word id="7" cont="的" />
+                <word id="8" cont="新" />
+                <word id="9" cont="理论" />
+                <word id="10" cont="了" />
+                <word id="11" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="143">
+            <sent id="0" cont="那个国家没有国企，即便是资本主义英国等等都有！">
+                <word id="0" cont="那个" />
+                <word id="1" cont="国家" />
+                <word id="2" cont="没有" />
+                <word id="3" cont="国企" />
+                <word id="4" cont="，" />
+                <word id="5" cont="即便" />
+                <word id="6" cont="是" />
+                <word id="7" cont="资本主义" />
+                <word id="8" cont="英国" />
+                <word id="9" cont="等等" />
+                <word id="10" cont="都" />
+                <word id="11" cont="有" />
+                <word id="12" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="144">
+            <sent id="0" cont="即便没有企业家他们这些的企业也很好啊！">
+                <word id="0" cont="即便" />
+                <word id="1" cont="没有" />
+                <word id="2" cont="企业家" />
+                <word id="3" cont="他们" />
+                <word id="4" cont="这些" />
+                <word id="5" cont="的" />
+                <word id="6" cont="企业" />
+                <word id="7" cont="也" />
+                <word id="8" cont="很" />
+                <word id="9" cont="好" />
+                <word id="10" cont="啊" />
+                <word id="11" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="145">
+            <sent id="0" cont="认清现实是好事，但不要缺少探索">
+                <word id="0" cont="认清" />
+                <word id="1" cont="现实" />
+                <word id="2" cont="是" />
+                <word id="3" cont="好事" />
+                <word id="4" cont="，" />
+                <word id="5" cont="但" />
+                <word id="6" cont="不要" />
+                <word id="7" cont="缺少" />
+                <word id="8" cont="探索" />
+            </sent>
+        </para>
+        <para id="146">
+            <sent id="0" cont='现在当&quot;家&quot;容易，是个厂长不管干的如何都叫企业家，医院有个副高级职称就叫专家.'>
+                <word id="0" cont="现在" />
+                <word id="1" cont="当" />
+                <word id="2" cont='&quot;家' />
+                <word id="3" cont='&quot;' />
+                <word id="4" cont="容易" />
+                <word id="5" cont="，" />
+                <word id="6" cont="是" />
+                <word id="7" cont="个" />
+                <word id="8" cont="厂长" />
+                <word id="9" cont="不管" />
+                <word id="10" cont="干" />
+                <word id="11" cont="的" />
+                <word id="12" cont="如何" />
+                <word id="13" cont="都" />
+                <word id="14" cont="叫" />
+                <word id="15" cont="企业家" />
+                <word id="16" cont="，" />
+                <word id="17" cont="医院" />
+                <word id="18" cont="有" />
+                <word id="19" cont="个" />
+                <word id="20" cont="副" />
+                <word id="21" cont="高级" />
+                <word id="22" cont="职称" />
+                <word id="23" cont="就" />
+                <word id="24" cont="叫" />
+                <word id="25" cont="专家." />
+            </sent>
+        </para>
+        <para id="147">
+            <sent id="0" cont="shit">
+                <word id="0" cont="shit" />
+            </sent>
+        </para>
+        <para id="148">
+            <sent id="0" cont="张维迎鼓吹的是失败论。">
+                <word id="0" cont="张维迎" />
+                <word id="1" cont="鼓吹" />
+                <word id="2" cont="的" />
+                <word id="3" cont="是" />
+                <word id="4" cont="失败论" />
+                <word id="5" cont="。" />
+            </sent>
+        </para>
+        <para id="149">
+            <sent id="0" cont="即我们的所有制度这能是失败。">
+                <word id="0" cont="即" />
+                <word id="1" cont="我们" />
+                <word id="2" cont="的" />
+                <word id="3" cont="所有" />
+                <word id="4" cont="制度" />
+                <word id="5" cont="这" />
+                <word id="6" cont="能" />
+                <word id="7" cont="是" />
+                <word id="8" cont="失败" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="150">
+            <sent id="0" cont="这就不是经济的事了。">
+                <word id="0" cont="这" />
+                <word id="1" cont="就" />
+                <word id="2" cont="不" />
+                <word id="3" cont="是" />
+                <word id="4" cont="经济" />
+                <word id="5" cont="的" />
+                <word id="6" cont="事" />
+                <word id="7" cont="了" />
+                <word id="8" cont="。" />
+            </sent>
+        </para>
+        <para id="151">
+            <sent id="0" cont="如果他不能接受中国的社会现实，想否定中国人民牺牲生命换来的社会和国家体制，我想被人民抛弃也是必然的。">
+                <word id="0" cont="如果" />
+                <word id="1" cont="他" />
+                <word id="2" cont="不" />
+                <word id="3" cont="能" />
+                <word id="4" cont="接受" />
+                <word id="5" cont="中国" />
+                <word id="6" cont="的" />
+                <word id="7" cont="社会" />
+                <word id="8" cont="现实" />
+                <word id="9" cont="，" />
+                <word id="10" cont="想" />
+                <word id="11" cont="否定" />
+                <word id="12" cont="中国" />
+                <word id="13" cont="人民" />
+                <word id="14" cont="牺牲" />
+                <word id="15" cont="生命" />
+                <word id="16" cont="换" />
+                <word id="17" cont="来" />
+                <word id="18" cont="的" />
+                <word id="19" cont="社会" />
+                <word id="20" cont="和" />
+                <word id="21" cont="国家" />
+                <word id="22" cont="体制" />
+                <word id="23" cont="，" />
+                <word id="24" cont="我" />
+                <word id="25" cont="想" />
+                <word id="26" cont="被" />
+                <word id="27" cont="人民" />
+                <word id="28" cont="抛弃" />
+                <word id="29" cont="也" />
+                <word id="30" cont="是" />
+                <word id="31" cont="必然" />
+                <word id="32" cont="的" />
+                <word id="33" cont="。" />
+            </sent>
+        </para>
+        <para id="152">
+            <sent id="0" cont='现在当&quot;家&quot;容易，是个厂长不管干的如何都叫企业家，医院有个副高级职称就叫专家.'>
+                <word id="0" cont="现在" />
+                <word id="1" cont="当" />
+                <word id="2" cont='&quot;家' />
+                <word id="3" cont='&quot;' />
+                <word id="4" cont="容易" />
+                <word id="5" cont="，" />
+                <word id="6" cont="是" />
+                <word id="7" cont="个" />
+                <word id="8" cont="厂长" />
+                <word id="9" cont="不管" />
+                <word id="10" cont="干" />
+                <word id="11" cont="的" />
+                <word id="12" cont="如何" />
+                <word id="13" cont="都" />
+                <word id="14" cont="叫" />
+                <word id="15" cont="企业家" />
+                <word id="16" cont="，" />
+                <word id="17" cont="医院" />
+                <word id="18" cont="有" />
+                <word id="19" cont="个" />
+                <word id="20" cont="副" />
+                <word id="21" cont="高级" />
+                <word id="22" cont="职称" />
+                <word id="23" cont="就" />
+                <word id="24" cont="叫" />
+                <word id="25" cont="专家." />
+            </sent>
+        </para>
+        <para id="153">
+            <sent id="0" cont="个人认为:国企不是计划经济搞死的，而是体制限制死的.如果同样的政策(对合资企业，对外资等优惠)放到国企去，照样是灿烂辉煌.再有国企几十年的心血全部交国家，现在企业有了困难，见死不救，国家拿不出钱来，一个砸烂计划经济旧体制就赖帐了，能说是合理吗？">
+                <word id="0" cont="个人" />
+                <word id="1" cont="认为" />
+                <word id="2" cont=":" />
+                <word id="3" cont="国企" />
+                <word id="4" cont="不" />
+                <word id="5" cont="是" />
+                <word id="6" cont="计划经济" />
+                <word id="7" cont="搞" />
+                <word id="8" cont="死" />
+                <word id="9" cont="的" />
+                <word id="10" cont="，" />
+                <word id="11" cont="而是" />
+                <word id="12" cont="体制" />
+                <word id="13" cont="限制" />
+                <word id="14" cont="死" />
+                <word id="15" cont="的." />
+                <word id="16" cont="如果" />
+                <word id="17" cont="同样" />
+                <word id="18" cont="的" />
+                <word id="19" cont="政策" />
+                <word id="20" cont="(" />
+                <word id="21" cont="对" />
+                <word id="22" cont="合资企业" />
+                <word id="23" cont="，" />
+                <word id="24" cont="对" />
+                <word id="25" cont="外资" />
+                <word id="26" cont="等" />
+                <word id="27" cont="优惠)" />
+                <word id="28" cont="放到" />
+                <word id="29" cont="国企" />
+                <word id="30" cont="去" />
+                <word id="31" cont="，" />
+                <word id="32" cont="照样" />
+                <word id="33" cont="是" />
+                <word id="34" cont="灿烂" />
+                <word id="35" cont="辉煌." />
+                <word id="36" cont="再" />
+                <word id="37" cont="有" />
+                <word id="38" cont="国企" />
+                <word id="39" cont="几十" />
+                <word id="40" cont="年" />
+                <word id="41" cont="的" />
+                <word id="42" cont="心血" />
+                <word id="43" cont="全部" />
+                <word id="44" cont="交" />
+                <word id="45" cont="国家" />
+                <word id="46" cont="，" />
+                <word id="47" cont="现在" />
+                <word id="48" cont="企业" />
+                <word id="49" cont="有" />
+                <word id="50" cont="了" />
+                <word id="51" cont="困难" />
+                <word id="52" cont="，" />
+                <word id="53" cont="见死不救" />
+                <word id="54" cont="，" />
+                <word id="55" cont="国家" />
+                <word id="56" cont="拿" />
+                <word id="57" cont="不" />
+                <word id="58" cont="出" />
+                <word id="59" cont="钱" />
+                <word id="60" cont="来" />
+                <word id="61" cont="，" />
+                <word id="62" cont="一个" />
+                <word id="63" cont="砸烂" />
+                <word id="64" cont="计划经济" />
+                <word id="65" cont="旧" />
+                <word id="66" cont="体制" />
+                <word id="67" cont="就" />
+                <word id="68" cont="赖帐" />
+                <word id="69" cont="了" />
+                <word id="70" cont="，" />
+                <word id="71" cont="能" />
+                <word id="72" cont="说" />
+                <word id="73" cont="是" />
+                <word id="74" cont="合理" />
+                <word id="75" cont="吗" />
+                <word id="76" cont="？" />
+            </sent>
+        </para>
+        <para id="154">
+            <sent id="0" cont="不再相信您了">
+                <word id="0" cont="不再" />
+                <word id="1" cont="相信" />
+                <word id="2" cont="您" />
+                <word id="3" cont="了" />
+            </sent>
+        </para>
+        <para id="155">
+            <sent id="0" cont="此话太绝对，举一反例即可破之。">
+                <word id="0" cont="此话" />
+                <word id="1" cont="太" />
+                <word id="2" cont="绝对" />
+                <word id="3" cont="，" />
+                <word id="4" cont="举一" />
+                <word id="5" cont="反例" />
+                <word id="6" cont="即可" />
+                <word id="7" cont="破" />
+                <word id="8" cont="之" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="156">
+            <sent id="0" cont="不再相信您了">
+                <word id="0" cont="不再" />
+                <word id="1" cont="相信" />
+                <word id="2" cont="您" />
+                <word id="3" cont="了" />
+            </sent>
+        </para>
+        <para id="157">
+            <sent id="0" cont="张说得意思是国家所有制下不能产生真正的资本家，要让企业家都变成真正的资本家。">
+                <word id="0" cont="张" />
+                <word id="1" cont="说" />
+                <word id="2" cont="得意思" />
+                <word id="3" cont="是" />
+                <word id="4" cont="国家" />
+                <word id="5" cont="所有制" />
+                <word id="6" cont="下" />
+                <word id="7" cont="不" />
+                <word id="8" cont="能" />
+                <word id="9" cont="产生" />
+                <word id="10" cont="真正" />
+                <word id="11" cont="的" />
+                <word id="12" cont="资本家" />
+                <word id="13" cont="，" />
+                <word id="14" cont="要" />
+                <word id="15" cont="让" />
+                <word id="16" cont="企业家" />
+                <word id="17" cont="都" />
+                <word id="18" cont="变成" />
+                <word id="19" cont="真正" />
+                <word id="20" cont="的" />
+                <word id="21" cont="资本家" />
+                <word id="22" cont="。" />
+            </sent>
+        </para>
+        <para id="158">
+            <sent id="0" cont="真正企业家的标准是什么？">
+                <word id="0" cont="真正" />
+                <word id="1" cont="企业家" />
+                <word id="2" cont="的" />
+                <word id="3" cont="标准" />
+                <word id="4" cont="是" />
+                <word id="5" cont="什么" />
+                <word id="6" cont="？" />
+            </sent>
+        </para>
+        <para id="159">
+            <sent id="0" cont="张大神棍又出来忽悠大家，实质在为某些利益阶层瓜分庞大的国家资产在摇旗呐喊制造舆论。">
+                <word id="0" cont="张大" />
+                <word id="1" cont="神棍" />
+                <word id="2" cont="又" />
+                <word id="3" cont="出来" />
+                <word id="4" cont="忽悠" />
+                <word id="5" cont="大家" />
+                <word id="6" cont="，" />
+                <word id="7" cont="实质" />
+                <word id="8" cont="在" />
+                <word id="9" cont="为" />
+                <word id="10" cont="某些" />
+                <word id="11" cont="利益" />
+                <word id="12" cont="阶层" />
+                <word id="13" cont="瓜分" />
+                <word id="14" cont="庞大" />
+                <word id="15" cont="的" />
+                <word id="16" cont="国家" />
+                <word id="17" cont="资产" />
+                <word id="18" cont="在" />
+                <word id="19" cont="摇旗呐喊" />
+                <word id="20" cont="制造" />
+                <word id="21" cont="舆论" />
+                <word id="22" cont="。" />
+            </sent>
+        </para>
+        <para id="160">
+            <sent id="0" cont="中国根本就没有真正的企业家..................国家所有制下不能产生真正企业家此命题才是真正的违命题................">
+                <word id="0" cont="中国" />
+                <word id="1" cont="根本" />
+                <word id="2" cont="就" />
+                <word id="3" cont="没有" />
+                <word id="4" cont="真正" />
+                <word id="5" cont="的" />
+                <word id="6" cont="企业家.................." />
+                <word id="7" cont="国家" />
+                <word id="8" cont="所有制" />
+                <word id="9" cont="下" />
+                <word id="10" cont="不" />
+                <word id="11" cont="能" />
+                <word id="12" cont="产生" />
+                <word id="13" cont="真正" />
+                <word id="14" cont="企业家" />
+                <word id="15" cont="此" />
+                <word id="16" cont="命题" />
+                <word id="17" cont="才" />
+                <word id="18" cont="是" />
+                <word id="19" cont="真正" />
+                <word id="20" cont="的" />
+                <word id="21" cont="违命" />
+                <word id="22" cont="题................" />
+            </sent>
+        </para>
+        <para id="161">
+            <sent id="0" cont="一派胡言.">
+                <word id="0" cont="一派" />
+                <word id="1" cont="胡言." />
+            </sent>
+        </para>
+        <para id="162">
+            <sent id="0" cont="无知。">
+                <word id="0" cont="无知" />
+                <word id="1" cont="。" />
+            </sent>
+        </para>
+        <para id="163">
+            <sent id="0" cont="那要看张维迎之流心目中的企业家究竟是是么样的企业家！">
+                <word id="0" cont="那" />
+                <word id="1" cont="要" />
+                <word id="2" cont="看" />
+                <word id="3" cont="张维迎" />
+                <word id="4" cont="之" />
+                <word id="5" cont="流" />
+                <word id="6" cont="心目" />
+                <word id="7" cont="中" />
+                <word id="8" cont="的" />
+                <word id="9" cont="企业家" />
+                <word id="10" cont="究竟" />
+                <word id="11" cont="是" />
+                <word id="12" cont="是" />
+                <word id="13" cont="么样" />
+                <word id="14" cont="的" />
+                <word id="15" cont="企业家" />
+                <word id="16" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="164">
+            <sent id="0" cont="缺乏创新精神的拿来主义学者！">
+                <word id="0" cont="缺乏" />
+                <word id="1" cont="创新" />
+                <word id="2" cont="精神" />
+                <word id="3" cont="的" />
+                <word id="4" cont="拿来主义" />
+                <word id="5" cont="学者" />
+                <word id="6" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="165">
+            <sent id="0" cont="社会主义是新生的事物，需要探索和创新！">
+                <word id="0" cont="社会主义" />
+                <word id="1" cont="是" />
+                <word id="2" cont="新生" />
+                <word id="3" cont="的" />
+                <word id="4" cont="事物" />
+                <word id="5" cont="，" />
+                <word id="6" cont="需要" />
+                <word id="7" cont="探索" />
+                <word id="8" cont="和" />
+                <word id="9" cont="创新" />
+                <word id="10" cont="！" />
+            </sent>
+        </para>
+        <para id="166">
+            <sent id="0" cont="没有资本主义的既定成熟理论不同！">
+                <word id="0" cont="没有" />
+                <word id="1" cont="资本主义" />
+                <word id="2" cont="的" />
+                <word id="3" cont="既定" />
+                <word id="4" cont="成熟" />
+                <word id="5" cont="理论" />
+                <word id="6" cont="不同" />
+                <word id="7" cont="！" />
+            </sent>
+        </para>
+        <para id="167">
+            <sent id="0" cont="需要完善和补充，不能简单逃避和否定！">
+                <word id="0" cont="需要" />
+                <word id="1" cont="完善" />
+                <word id="2" cont="和" />
+                <word id="3" cont="补充" />
+                <word id="4" cont="，" />
+                <word id="5" cont="不" />
+                <word id="6" cont="能" />
+                <word id="7" cont="简单" />
+                <word id="8" cont="逃避" />
+                <word id="9" cont="和" />
+                <word id="10" cont="否定" />
+                <word id="11" cont="！" />
+            </sent>
+        </para>
+        <para id="168">
+            <sent id="0" cont="中国走到今天就已经证明有所成功的探索！">
+                <word id="0" cont="中国" />
+                <word id="1" cont="走" />
+                <word id="2" cont="到" />
+                <word id="3" cont="今天" />
+                <word id="4" cont="就" />
+                <word id="5" cont="已经" />
+                <word id="6" cont="证明" />
+                <word id="7" cont="有所" />
+                <word id="8" cont="成功" />
+                <word id="9" cont="的" />
+                <word id="10" cont="探索" />
+                <word id="11" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="169">
+            <sent id="0" cont="认识到事实情况是好的，但是如果一味的接受没有探索发展那就是书呆子！">
+                <word id="0" cont="认识" />
+                <word id="1" cont="到" />
+                <word id="2" cont="事实" />
+                <word id="3" cont="情况" />
+                <word id="4" cont="是" />
+                <word id="5" cont="好" />
+                <word id="6" cont="的" />
+                <word id="7" cont="，" />
+                <word id="8" cont="但是" />
+                <word id="9" cont="如果" />
+                <word id="10" cont="一味" />
+                <word id="11" cont="的" />
+                <word id="12" cont="接受" />
+                <word id="13" cont="没有" />
+                <word id="14" cont="探索" />
+                <word id="15" cont="发展" />
+                <word id="16" cont="那" />
+                <word id="17" cont="就" />
+                <word id="18" cont="是" />
+                <word id="19" cont="书" />
+                <word id="20" cont="呆子" />
+                <word id="21" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="170">
+            <sent id="0" cont="美国发生的金融危机和中国上市公司，银行，保险，电信，能源等行业的情况说明，在虚拟经济的泡沫影响下，公司管理层平均应得报酬已大大虚拟化，被无限扩大，淘空了中小股东和国家资本以及社会资源.这样的企业家是社会蛀虫.">
+                <word id="0" cont="美国" />
+                <word id="1" cont="发生" />
+                <word id="2" cont="的" />
+                <word id="3" cont="金融" />
+                <word id="4" cont="危机" />
+                <word id="5" cont="和" />
+                <word id="6" cont="中国" />
+                <word id="7" cont="上市" />
+                <word id="8" cont="公司" />
+                <word id="9" cont="，" />
+                <word id="10" cont="银行" />
+                <word id="11" cont="，" />
+                <word id="12" cont="保险" />
+                <word id="13" cont="，" />
+                <word id="14" cont="电信" />
+                <word id="15" cont="，" />
+                <word id="16" cont="能源" />
+                <word id="17" cont="等" />
+                <word id="18" cont="行业" />
+                <word id="19" cont="的" />
+                <word id="20" cont="情况" />
+                <word id="21" cont="说明" />
+                <word id="22" cont="，" />
+                <word id="23" cont="在" />
+                <word id="24" cont="虚拟" />
+                <word id="25" cont="经济" />
+                <word id="26" cont="的" />
+                <word id="27" cont="泡沫" />
+                <word id="28" cont="影响" />
+                <word id="29" cont="下" />
+                <word id="30" cont="，" />
+                <word id="31" cont="公司" />
+                <word id="32" cont="管理层" />
+                <word id="33" cont="平均" />
+                <word id="34" cont="应" />
+                <word id="35" cont="得" />
+                <word id="36" cont="报酬" />
+                <word id="37" cont="已" />
+                <word id="38" cont="大大" />
+                <word id="39" cont="虚拟化" />
+                <word id="40" cont="，" />
+                <word id="41" cont="被" />
+                <word id="42" cont="无限" />
+                <word id="43" cont="扩大" />
+                <word id="44" cont="，" />
+                <word id="45" cont="淘" />
+                <word id="46" cont="空" />
+                <word id="47" cont="了" />
+                <word id="48" cont="中小" />
+                <word id="49" cont="股东" />
+                <word id="50" cont="和" />
+                <word id="51" cont="国家" />
+                <word id="52" cont="资本" />
+                <word id="53" cont="以及" />
+                <word id="54" cont="社会" />
+                <word id="55" cont="资源." />
+                <word id="56" cont="这样" />
+                <word id="57" cont="的" />
+                <word id="58" cont="企业家" />
+                <word id="59" cont="是" />
+                <word id="60" cont="社会" />
+                <word id="61" cont="蛀虫." />
+            </sent>
+        </para>
+        <para id="171">
+            <sent id="0" cont="大型国企的总裁\懂事长是官员，根本就不是什么企业家，看看赢在中国节目的人都知道，有几个大型国企老总敢出来亮相，只会讲官话\套话；">
+                <word id="0" cont="大型" />
+                <word id="1" cont="国企" />
+                <word id="2" cont="的" />
+                <word id="3" cont="总裁" />
+                <word id="4" cont="\" />
+                <word id="5" cont="懂事长" />
+                <word id="6" cont="是" />
+                <word id="7" cont="官员" />
+                <word id="8" cont="，" />
+                <word id="9" cont="根本" />
+                <word id="10" cont="就" />
+                <word id="11" cont="不" />
+                <word id="12" cont="是" />
+                <word id="13" cont="什么" />
+                <word id="14" cont="企业家" />
+                <word id="15" cont="，" />
+                <word id="16" cont="看看" />
+                <word id="17" cont="赢" />
+                <word id="18" cont="在" />
+                <word id="19" cont="中国" />
+                <word id="20" cont="节目" />
+                <word id="21" cont="的" />
+                <word id="22" cont="人" />
+                <word id="23" cont="都" />
+                <word id="24" cont="知道" />
+                <word id="25" cont="，" />
+                <word id="26" cont="有" />
+                <word id="27" cont="几" />
+                <word id="28" cont="个" />
+                <word id="29" cont="大型" />
+                <word id="30" cont="国企" />
+                <word id="31" cont="老总" />
+                <word id="32" cont="敢" />
+                <word id="33" cont="出来" />
+                <word id="34" cont="亮相" />
+                <word id="35" cont="，" />
+                <word id="36" cont="只" />
+                <word id="37" cont="会" />
+                <word id="38" cont="讲" />
+                <word id="39" cont="官话" />
+                <word id="40" cont="\" />
+                <word id="41" cont="套话" />
+                <word id="42" cont="；" />
+            </sent>
+        </para>
+        <para id="172">
+            <sent id="0" cont="小型国企老总是老板，玩国家资产大套得很，与企业家门的玩法都不一样.同意将国有资产均分国民，后实施股份经营.">
+                <word id="0" cont="小型" />
+                <word id="1" cont="国企" />
+                <word id="2" cont="老" />
+                <word id="3" cont="总是" />
+                <word id="4" cont="老板" />
+                <word id="5" cont="，" />
+                <word id="6" cont="玩" />
+                <word id="7" cont="国家" />
+                <word id="8" cont="资产" />
+                <word id="9" cont="大" />
+                <word id="10" cont="套" />
+                <word id="11" cont="得" />
+                <word id="12" cont="很" />
+                <word id="13" cont="，" />
+                <word id="14" cont="与" />
+                <word id="15" cont="企业" />
+                <word id="16" cont="家门" />
+                <word id="17" cont="的" />
+                <word id="18" cont="玩法" />
+                <word id="19" cont="都" />
+                <word id="20" cont="不" />
+                <word id="21" cont="一样." />
+                <word id="22" cont="同意" />
+                <word id="23" cont="将" />
+                <word id="24" cont="国有" />
+                <word id="25" cont="资产" />
+                <word id="26" cont="均" />
+                <word id="27" cont="分" />
+                <word id="28" cont="国民" />
+                <word id="29" cont="，" />
+                <word id="30" cont="后" />
+                <word id="31" cont="实施" />
+                <word id="32" cont="股份" />
+                <word id="33" cont="经营." />
+            </sent>
+        </para>
+        <para id="173">
+            <sent id="0" cont="什么叫企业家？">
+                <word id="0" cont="什么" />
+                <word id="1" cont="叫" />
+                <word id="2" cont="企业家" />
+                <word id="3" cont="？" />
+            </sent>
+        </para>
+        <para id="174">
+            <sent id="0" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="2" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+        </para>
+        <para id="175">
+            <sent id="0" cont='要经济发展，人民幸福，国泰民安.不要自命不凡的&quot;真正企业家&quot;.'>
+                <word id="0" cont="要" />
+                <word id="1" cont="经济" />
+                <word id="2" cont="发展" />
+                <word id="3" cont="，" />
+                <word id="4" cont="人民" />
+                <word id="5" cont="幸福" />
+                <word id="6" cont="，" />
+                <word id="7" cont="国泰民安." />
+                <word id="8" cont="不要" />
+                <word id="9" cont="自命" />
+                <word id="10" cont="不凡" />
+                <word id="11" cont="的" />
+                <word id="12" cont='&quot;' />
+                <word id="13" cont="真正" />
+                <word id="14" cont="企业家" />
+                <word id="15" cont='&quot;.' />
+            </sent>
+        </para>
+        <para id="176">
+            <sent id="0" cont="对，国有企业领导价值观是什么？">
+                <word id="0" cont="对" />
+                <word id="1" cont="，" />
+                <word id="2" cont="国有" />
+                <word id="3" cont="企业" />
+                <word id="4" cont="领导" />
+                <word id="5" cont="价值观" />
+                <word id="6" cont="是" />
+                <word id="7" cont="什么" />
+                <word id="8" cont="？" />
+            </sent>
+        </para>
+        <para id="177">
+            <sent id="0" cont="他们在维护谁？">
+                <word id="0" cont="他们" />
+                <word id="1" cont="在" />
+                <word id="2" cont="维护" />
+                <word id="3" cont="谁" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="178">
+            <sent id="0" cont="谁又认可他们？">
+                <word id="0" cont="谁" />
+                <word id="1" cont="又" />
+                <word id="2" cont="认可" />
+                <word id="3" cont="他们" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="179">
+            <sent id="0" cont="终极目标在哪里？">
+                <word id="0" cont="终极" />
+                <word id="1" cont="目标" />
+                <word id="2" cont="在" />
+                <word id="3" cont="哪里" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="180">
+            <sent id="0" cont='要经济发展，人民幸福，国泰民安.不要自命不凡的&quot;真正企业家&quot;.'>
+                <word id="0" cont="要" />
+                <word id="1" cont="经济" />
+                <word id="2" cont="发展" />
+                <word id="3" cont="，" />
+                <word id="4" cont="人民" />
+                <word id="5" cont="幸福" />
+                <word id="6" cont="，" />
+                <word id="7" cont="国泰民安." />
+                <word id="8" cont="不要" />
+                <word id="9" cont="自命" />
+                <word id="10" cont="不凡" />
+                <word id="11" cont="的" />
+                <word id="12" cont='&quot;' />
+                <word id="13" cont="真正" />
+                <word id="14" cont="企业家" />
+                <word id="15" cont='&quot;.' />
+            </sent>
+        </para>
+        <para id="181">
+            <sent id="0" cont="那就全盘私有化呗，简单的很！">
+                <word id="0" cont="那" />
+                <word id="1" cont="就" />
+                <word id="2" cont="全盘" />
+                <word id="3" cont="私有化" />
+                <word id="4" cont="呗" />
+                <word id="5" cont="，" />
+                <word id="6" cont="简单" />
+                <word id="7" cont="的" />
+                <word id="8" cont="很" />
+                <word id="9" cont="！" />
+            </sent>
+        </para>
+        <para id="182">
+            <sent id="0" cont="看张的意思是我们的目的是要企业家，本末倒置。">
+                <word id="0" cont="看" />
+                <word id="1" cont="张" />
+                <word id="2" cont="的" />
+                <word id="3" cont="意思" />
+                <word id="4" cont="是" />
+                <word id="5" cont="我们" />
+                <word id="6" cont="的" />
+                <word id="7" cont="目的" />
+                <word id="8" cont="是" />
+                <word id="9" cont="要" />
+                <word id="10" cont="企业家" />
+                <word id="11" cont="，" />
+                <word id="12" cont="本末倒置" />
+                <word id="13" cont="。" />
+            </sent>
+        </para>
+        <para id="183">
+            <sent id="0" cont="美国通过发债破产和美元贬值两条途径发大财！">
+                <word id="0" cont="美国" />
+                <word id="1" cont="通过" />
+                <word id="2" cont="发" />
+                <word id="3" cont="债" />
+                <word id="4" cont="破产" />
+                <word id="5" cont="和" />
+                <word id="6" cont="美元" />
+                <word id="7" cont="贬值" />
+                <word id="8" cont="两" />
+                <word id="9" cont="条" />
+                <word id="10" cont="途径" />
+                <word id="11" cont="发大" />
+                <word id="12" cont="财" />
+                <word id="13" cont="！" />
+            </sent>
+        </para>
+        <para id="184">
+            <sent id="0" cont="美国人已成功地实施了财富掠夺，只是大家还没来得及反应过来而已。">
+                <word id="0" cont="美国" />
+                <word id="1" cont="人" />
+                <word id="2" cont="已" />
+                <word id="3" cont="成功" />
+                <word id="4" cont="地" />
+                <word id="5" cont="实施" />
+                <word id="6" cont="了" />
+                <word id="7" cont="财富" />
+                <word id="8" cont="掠夺" />
+                <word id="9" cont="，" />
+                <word id="10" cont="只" />
+                <word id="11" cont="是" />
+                <word id="12" cont="大家" />
+                <word id="13" cont="还" />
+                <word id="14" cont="没" />
+                <word id="15" cont="来得及" />
+                <word id="16" cont="反应" />
+                <word id="17" cont="过来" />
+                <word id="18" cont="而已" />
+                <word id="19" cont="。" />
+            </sent>
+        </para>
+        <para id="185">
+            <sent id="0" cont="美国的金融机构破产倒闭，与美元的贬值一样，是美国为了掠夺全球财富而精心设计、蓄谋已久的阴谋。">
+                <word id="0" cont="美国" />
+                <word id="1" cont="的" />
+                <word id="2" cont="金融" />
+                <word id="3" cont="机构" />
+                <word id="4" cont="破产" />
+                <word id="5" cont="倒闭" />
+                <word id="6" cont="，" />
+                <word id="7" cont="与" />
+                <word id="8" cont="美元" />
+                <word id="9" cont="的" />
+                <word id="10" cont="贬值" />
+                <word id="11" cont="一样" />
+                <word id="12" cont="，" />
+                <word id="13" cont="是" />
+                <word id="14" cont="美国" />
+                <word id="15" cont="为了" />
+                <word id="16" cont="掠夺" />
+                <word id="17" cont="全球" />
+                <word id="18" cont="财富" />
+                <word id="19" cont="而" />
+                <word id="20" cont="精心" />
+                <word id="21" cont="设计" />
+                <word id="22" cont="、" />
+                <word id="23" cont="蓄谋" />
+                <word id="24" cont="已" />
+                <word id="25" cont="久" />
+                <word id="26" cont="的" />
+                <word id="27" cont="阴谋" />
+                <word id="28" cont="。" />
+            </sent>
+        </para>
+        <para id="186">
+            <sent id="0" cont="通过美元大幅贬值，使持有大量美元的国家损失惨重；">
+                <word id="0" cont="通过" />
+                <word id="1" cont="美元" />
+                <word id="2" cont="大幅" />
+                <word id="3" cont="贬值" />
+                <word id="4" cont="，" />
+                <word id="5" cont="使" />
+                <word id="6" cont="持有" />
+                <word id="7" cont="大量" />
+                <word id="8" cont="美元" />
+                <word id="9" cont="的" />
+                <word id="10" cont="国家" />
+                <word id="11" cont="损失" />
+                <word id="12" cont="惨重" />
+                <word id="13" cont="；" />
+            </sent>
+        </para>
+        <para id="187">
+            <sent id="0" cont="简单地说，譬如你持有两万亿美元的外汇，美元贬值50％，你就损失了一万亿美元，">
+                <word id="0" cont="简单" />
+                <word id="1" cont="地" />
+                <word id="2" cont="说" />
+                <word id="3" cont="，" />
+                <word id="4" cont="譬如" />
+                <word id="5" cont="你" />
+                <word id="6" cont="持有" />
+                <word id="7" cont="两万亿" />
+                <word id="8" cont="美元" />
+                <word id="9" cont="的" />
+                <word id="10" cont="外汇" />
+                <word id="11" cont="，" />
+                <word id="12" cont="美元" />
+                <word id="13" cont="贬值" />
+                <word id="14" cont="50％" />
+                <word id="15" cont="，" />
+                <word id="16" cont="你" />
+                <word id="17" cont="就" />
+                <word id="18" cont="损失" />
+                <word id="19" cont="了" />
+                <word id="20" cont="一万亿" />
+                <word id="21" cont="美元" />
+                <word id="22" cont="，" />
+            </sent>
+        </para>
+        <para id="188">
+            <sent id="0" cont="而这一万亿美元的损失到哪里去了呢？">
+                <word id="0" cont="而" />
+                <word id="1" cont="这" />
+                <word id="2" cont="一万亿" />
+                <word id="3" cont="美元" />
+                <word id="4" cont="的" />
+                <word id="5" cont="损失" />
+                <word id="6" cont="到" />
+                <word id="7" cont="哪里" />
+                <word id="8" cont="去" />
+                <word id="9" cont="了" />
+                <word id="10" cont="呢" />
+                <word id="11" cont="？" />
+            </sent>
+        </para>
+        <para id="189">
+            <sent id="0" cont="它进了美国人的腰包，变成了美国人的财富——美国人的财富增加了一万亿美元。">
+                <word id="0" cont="它" />
+                <word id="1" cont="进" />
+                <word id="2" cont="了" />
+                <word id="3" cont="美国" />
+                <word id="4" cont="人" />
+                <word id="5" cont="的" />
+                <word id="6" cont="腰包" />
+                <word id="7" cont="，" />
+                <word id="8" cont="变成" />
+                <word id="9" cont="了" />
+                <word id="10" cont="美国" />
+                <word id="11" cont="人" />
+                <word id="12" cont="的" />
+                <word id="13" cont="财富" />
+                <word id="14" cont="——" />
+                <word id="15" cont="美国" />
+                <word id="16" cont="人" />
+                <word id="17" cont="的" />
+                <word id="18" cont="财富" />
+                <word id="19" cont="增加" />
+                <word id="20" cont="了" />
+                <word id="21" cont="一万亿" />
+                <word id="22" cont="美元" />
+                <word id="23" cont="。" />
+            </sent>
+        </para>
+        <para id="190">
+            <sent id="0" cont="而美国的金融机构破产，对美国来说，不但没有任何损失，反而带来了巨额财富；">
+                <word id="0" cont="而" />
+                <word id="1" cont="美国" />
+                <word id="2" cont="的" />
+                <word id="3" cont="金融" />
+                <word id="4" cont="机构" />
+                <word id="5" cont="破产" />
+                <word id="6" cont="，" />
+                <word id="7" cont="对" />
+                <word id="8" cont="美国" />
+                <word id="9" cont="来说" />
+                <word id="10" cont="，" />
+                <word id="11" cont="不但" />
+                <word id="12" cont="没有" />
+                <word id="13" cont="任何" />
+                <word id="14" cont="损失" />
+                <word id="15" cont="，" />
+                <word id="16" cont="反而" />
+                <word id="17" cont="带来" />
+                <word id="18" cont="了" />
+                <word id="19" cont="巨额" />
+                <word id="20" cont="财富" />
+                <word id="21" cont="；" />
+            </sent>
+        </para>
+        <para id="191">
+            <sent id="0" cont="因为这些金融机构通过发行股票和债券，把那些基本上一文不值的烂“资产”高价卖给了全世界；">
+                <word id="0" cont="因为" />
+                <word id="1" cont="这些" />
+                <word id="2" cont="金融" />
+                <word id="3" cont="机构" />
+                <word id="4" cont="通过" />
+                <word id="5" cont="发行" />
+                <word id="6" cont="股票" />
+                <word id="7" cont="和" />
+                <word id="8" cont="债券" />
+                <word id="9" cont="，" />
+                <word id="10" cont="把" />
+                <word id="11" cont="那些" />
+                <word id="12" cont="基本上" />
+                <word id="13" cont="一文" />
+                <word id="14" cont="不值" />
+                <word id="15" cont="的" />
+                <word id="16" cont="烂" />
+                <word id="17" cont="“" />
+                <word id="18" cont="资产" />
+                <word id="19" cont="”" />
+                <word id="20" cont="高价" />
+                <word id="21" cont="卖" />
+                <word id="22" cont="给" />
+                <word id="23" cont="了" />
+                <word id="24" cont="全世界" />
+                <word id="25" cont="；" />
+            </sent>
+        </para>
+        <para id="192">
+            <sent id="0" cont="也就是说，美国实实在在地收进了大把大把的真金白银，而其他国家因为这些金融机构的破产，拿到的几近一张废纸。">
+                <word id="0" cont="也就是说" />
+                <word id="1" cont="，" />
+                <word id="2" cont="美国" />
+                <word id="3" cont="实实在在" />
+                <word id="4" cont="地" />
+                <word id="5" cont="收" />
+                <word id="6" cont="进" />
+                <word id="7" cont="了" />
+                <word id="8" cont="大" />
+                <word id="9" cont="把" />
+                <word id="10" cont="大" />
+                <word id="11" cont="把" />
+                <word id="12" cont="的" />
+                <word id="13" cont="真金" />
+                <word id="14" cont="白银" />
+                <word id="15" cont="，" />
+                <word id="16" cont="而" />
+                <word id="17" cont="其他" />
+                <word id="18" cont="国家" />
+                <word id="19" cont="因为" />
+                <word id="20" cont="这些" />
+                <word id="21" cont="金融" />
+                <word id="22" cont="机构" />
+                <word id="23" cont="的" />
+                <word id="24" cont="破产" />
+                <word id="25" cont="，" />
+                <word id="26" cont="拿" />
+                <word id="27" cont="到" />
+                <word id="28" cont="的" />
+                <word id="29" cont="几" />
+                <word id="30" cont="近" />
+                <word id="31" cont="一" />
+                <word id="32" cont="张" />
+                <word id="33" cont="废纸" />
+                <word id="34" cont="。" />
+            </sent>
+        </para>
+        <para id="193">
+            <sent id="0" cont="这样，美国人收进的这些巨额真金白银，本来是向全世界欠的债，应该要还的，现在以破产为由，几乎不用还了。">
+                <word id="0" cont="这样" />
+                <word id="1" cont="，" />
+                <word id="2" cont="美国" />
+                <word id="3" cont="人" />
+                <word id="4" cont="收" />
+                <word id="5" cont="进" />
+                <word id="6" cont="的" />
+                <word id="7" cont="这些" />
+                <word id="8" cont="巨额" />
+                <word id="9" cont="真金" />
+                <word id="10" cont="白银" />
+                <word id="11" cont="，" />
+                <word id="12" cont="本来" />
+                <word id="13" cont="是" />
+                <word id="14" cont="向" />
+                <word id="15" cont="全世界" />
+                <word id="16" cont="欠" />
+                <word id="17" cont="的" />
+                <word id="18" cont="债" />
+                <word id="19" cont="，" />
+                <word id="20" cont="应该" />
+                <word id="21" cont="要" />
+                <word id="22" cont="还" />
+                <word id="23" cont="的" />
+                <word id="24" cont="，" />
+                <word id="25" cont="现在" />
+                <word id="26" cont="以" />
+                <word id="27" cont="破产" />
+                <word id="28" cont="为由" />
+                <word id="29" cont="，" />
+                <word id="30" cont="几乎" />
+                <word id="31" cont="不用" />
+                <word id="32" cont="还" />
+                <word id="33" cont="了" />
+                <word id="34" cont="。" />
+            </sent>
+        </para>
+        <para id="194">
+            <sent id="0" cont="这个事其实也很简单，譬如说你开了家超市，你向附近居民售出了大量的购物券，没过多久，你的超市申请“经营亏损”破产，其实你卷款一走了之；">
+                <word id="0" cont="这个" />
+                <word id="1" cont="事" />
+                <word id="2" cont="其实" />
+                <word id="3" cont="也" />
+                <word id="4" cont="很" />
+                <word id="5" cont="简单" />
+                <word id="6" cont="，" />
+                <word id="7" cont="譬如说" />
+                <word id="8" cont="你" />
+                <word id="9" cont="开" />
+                <word id="10" cont="了" />
+                <word id="11" cont="家" />
+                <word id="12" cont="超市" />
+                <word id="13" cont="，" />
+                <word id="14" cont="你" />
+                <word id="15" cont="向" />
+                <word id="16" cont="附近" />
+                <word id="17" cont="居民" />
+                <word id="18" cont="售出" />
+                <word id="19" cont="了" />
+                <word id="20" cont="大量" />
+                <word id="21" cont="的" />
+                <word id="22" cont="购物券" />
+                <word id="23" cont="，" />
+                <word id="24" cont="没" />
+                <word id="25" cont="过" />
+                <word id="26" cont="多久" />
+                <word id="27" cont="，" />
+                <word id="28" cont="你" />
+                <word id="29" cont="的" />
+                <word id="30" cont="超市" />
+                <word id="31" cont="申请" />
+                <word id="32" cont="“" />
+                <word id="33" cont="经营" />
+                <word id="34" cont="亏损" />
+                <word id="35" cont="”" />
+                <word id="36" cont="破产" />
+                <word id="37" cont="，" />
+                <word id="38" cont="其实" />
+                <word id="39" cont="你" />
+                <word id="40" cont="卷款" />
+                <word id="41" cont="一走了之" />
+                <word id="42" cont="；" />
+            </sent>
+        </para>
+        <para id="195">
+            <sent id="0" cont="不久，你改头换面，换个新名称，重新注册一家超市，规模比以前做得更大了；">
+                <word id="0" cont="不久" />
+                <word id="1" cont="，" />
+                <word id="2" cont="你" />
+                <word id="3" cont="改头换面" />
+                <word id="4" cont="，" />
+                <word id="5" cont="换" />
+                <word id="6" cont="个" />
+                <word id="7" cont="新" />
+                <word id="8" cont="名称" />
+                <word id="9" cont="，" />
+                <word id="10" cont="重新" />
+                <word id="11" cont="注册" />
+                <word id="12" cont="一家" />
+                <word id="13" cont="超市" />
+                <word id="14" cont="，" />
+                <word id="15" cont="规模" />
+                <word id="16" cont="比" />
+                <word id="17" cont="以前" />
+                <word id="18" cont="做" />
+                <word id="19" cont="得" />
+                <word id="20" cont="更" />
+                <word id="21" cont="大" />
+                <word id="22" cont="了" />
+                <word id="23" cont="；" />
+            </sent>
+        </para>
+        <para id="196">
+            <sent id="0" cont="很明显，你作为这家超市的老板，你不仅没有任何损失，你赚大了，只是周围的百姓一时半会蒙在鼓里而已。">
+                <word id="0" cont="很" />
+                <word id="1" cont="明显" />
+                <word id="2" cont="，" />
+                <word id="3" cont="你" />
+                <word id="4" cont="作为" />
+                <word id="5" cont="这家" />
+                <word id="6" cont="超市" />
+                <word id="7" cont="的" />
+                <word id="8" cont="老板" />
+                <word id="9" cont="，" />
+                <word id="10" cont="你" />
+                <word id="11" cont="不仅" />
+                <word id="12" cont="没有" />
+                <word id="13" cont="任何" />
+                <word id="14" cont="损失" />
+                <word id="15" cont="，" />
+                <word id="16" cont="你" />
+                <word id="17" cont="赚" />
+                <word id="18" cont="大" />
+                <word id="19" cont="了" />
+                <word id="20" cont="，" />
+                <word id="21" cont="只是" />
+                <word id="22" cont="周围" />
+                <word id="23" cont="的" />
+                <word id="24" cont="百姓" />
+                <word id="25" cont="一时" />
+                <word id="26" cont="半" />
+                <word id="27" cont="会" />
+                <word id="28" cont="蒙在鼓里" />
+                <word id="29" cont="而已" />
+                <word id="30" cont="。" />
+            </sent>
+        </para>
+        <para id="197">
+            <sent id="0" cont="哪个企业没有领导发家，都成了企业家嘛，都是以企业为家，难道不是企业家？">
+                <word id="0" cont="哪个" />
+                <word id="1" cont="企业" />
+                <word id="2" cont="没有" />
+                <word id="3" cont="领导" />
+                <word id="4" cont="发家" />
+                <word id="5" cont="，" />
+                <word id="6" cont="都" />
+                <word id="7" cont="成" />
+                <word id="8" cont="了" />
+                <word id="9" cont="企业家" />
+                <word id="10" cont="嘛" />
+                <word id="11" cont="，" />
+                <word id="12" cont="都" />
+                <word id="13" cont="是" />
+                <word id="14" cont="以" />
+                <word id="15" cont="企业" />
+                <word id="16" cont="为" />
+                <word id="17" cont="家" />
+                <word id="18" cont="，" />
+                <word id="19" cont="难道" />
+                <word id="20" cont="不" />
+                <word id="21" cont="是" />
+                <word id="22" cont="企业家" />
+                <word id="23" cont="？" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+        </para>
+        <para id="198">
+            <sent id="0" cont="没有半点经济常识，能从70元跌到1元的是股票。">
+                <word id="0" cont="没有" />
+                <word id="1" cont="半点" />
+                <word id="2" cont="经济" />
+                <word id="3" cont="常识" />
+                <word id="4" cont="，" />
+                <word id="5" cont="能" />
+                <word id="6" cont="从" />
+                <word id="7" cont="70" />
+                <word id="8" cont="元" />
+                <word id="9" cont="跌" />
+                <word id="10" cont="到" />
+                <word id="11" cont="1" />
+                <word id="12" cont="元" />
+                <word id="13" cont="的" />
+                <word id="14" cont="是" />
+                <word id="15" cont="股票" />
+                <word id="16" cont="。" />
+            </sent>
+        </para>
+        <para id="199">
+            <sent id="0" cont="债券是不可能的，债券是美国政府还债，中国买了多少债，美国都得一分不少的还加利息。">
+                <word id="0" cont="债券" />
+                <word id="1" cont="是" />
+                <word id="2" cont="不" />
+                <word id="3" cont="可能" />
+                <word id="4" cont="的" />
+                <word id="5" cont="，" />
+                <word id="6" cont="债券" />
+                <word id="7" cont="是" />
+                <word id="8" cont="美国" />
+                <word id="9" cont="政府" />
+                <word id="10" cont="还债" />
+                <word id="11" cont="，" />
+                <word id="12" cont="中国" />
+                <word id="13" cont="买" />
+                <word id="14" cont="了" />
+                <word id="15" cont="多少" />
+                <word id="16" cont="债" />
+                <word id="17" cont="，" />
+                <word id="18" cont="美国" />
+                <word id="19" cont="都" />
+                <word id="20" cont="得" />
+                <word id="21" cont="一" />
+                <word id="22" cont="分" />
+                <word id="23" cont="不少" />
+                <word id="24" cont="的" />
+                <word id="25" cont="还" />
+                <word id="26" cont="加" />
+                <word id="27" cont="利息" />
+                <word id="28" cont="。" />
+            </sent>
+        </para>
+        <para id="200">
+            <sent id="0" cont="美国出问题，带来美元贬值，才是造成中国损失的最大原因。">
+                <word id="0" cont="美国" />
+                <word id="1" cont="出" />
+                <word id="2" cont="问题" />
+                <word id="3" cont="，" />
+                <word id="4" cont="带来" />
+                <word id="5" cont="美元" />
+                <word id="6" cont="贬值" />
+                <word id="7" cont="，" />
+                <word id="8" cont="才" />
+                <word id="9" cont="是" />
+                <word id="10" cont="造成" />
+                <word id="11" cont="中国" />
+                <word id="12" cont="损失" />
+                <word id="13" cont="的" />
+                <word id="14" cont="最" />
+                <word id="15" cont="大" />
+                <word id="16" cont="原因" />
+                <word id="17" cont="。" />
+            </sent>
+        </para>
+        <para id="201">
+            <sent id="0" cont="美元贬值10%等于5000亿贬值500亿。">
+                <word id="0" cont="美元" />
+                <word id="1" cont="贬值" />
+                <word id="2" cont="10%" />
+                <word id="3" cont="等于" />
+                <word id="4" cont="5000亿" />
+                <word id="5" cont="贬值" />
+                <word id="6" cont="500亿" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="202">
+            <sent id="0" cont="完全赞同。">
+                <word id="0" cont="完全" />
+                <word id="1" cont="赞同" />
+                <word id="2" cont="。" />
+            </sent>
+        </para>
+        <para id="203">
+            <sent id="0" cont="这么简单的道理，可需要经济学家才能确症，可悲">
+                <word id="0" cont="这么" />
+                <word id="1" cont="简单" />
+                <word id="2" cont="的" />
+                <word id="3" cont="道理" />
+                <word id="4" cont="，" />
+                <word id="5" cont="可" />
+                <word id="6" cont="需要" />
+                <word id="7" cont="经济学家" />
+                <word id="8" cont="才" />
+                <word id="9" cont="能" />
+                <word id="10" cont="确症" />
+                <word id="11" cont="，" />
+                <word id="12" cont="可悲" />
+            </sent>
+        </para>
+        <para id="204">
+            <sent id="0" cont="一反常态。">
+                <word id="0" cont="一反常态" />
+                <word id="1" cont="。" />
+            </sent>
+        </para>
+        <para id="205">
+            <sent id="0" cont="个人观点：">
+                <word id="0" cont="个人" />
+                <word id="1" cont="观点" />
+                <word id="2" cont="：" />
+            </sent>
+            <sent id="1" cont="我还认为，对于很贫穷的国家，可以暂时实行计划经济，从而解决温饱问题。">
+                <word id="0" cont="我" />
+                <word id="1" cont="还" />
+                <word id="2" cont="认为" />
+                <word id="3" cont="，" />
+                <word id="4" cont="对于" />
+                <word id="5" cont="很" />
+                <word id="6" cont="贫穷" />
+                <word id="7" cont="的" />
+                <word id="8" cont="国家" />
+                <word id="9" cont="，" />
+                <word id="10" cont="可以" />
+                <word id="11" cont="暂时" />
+                <word id="12" cont="实行" />
+                <word id="13" cont="计划经济" />
+                <word id="14" cont="，" />
+                <word id="15" cont="从而" />
+                <word id="16" cont="解决" />
+                <word id="17" cont="温饱" />
+                <word id="18" cont="问题" />
+                <word id="19" cont="。" />
+            </sent>
+        </para>
+        <para id="206">
+            <sent id="0" cont="因为这时的货币其实都没有什么意义，发个券照样领取，实行按需分配都可以。">
+                <word id="0" cont="因为" />
+                <word id="1" cont="这时" />
+                <word id="2" cont="的" />
+                <word id="3" cont="货币" />
+                <word id="4" cont="其实" />
+                <word id="5" cont="都" />
+                <word id="6" cont="没有" />
+                <word id="7" cont="什么" />
+                <word id="8" cont="意义" />
+                <word id="9" cont="，" />
+                <word id="10" cont="发" />
+                <word id="11" cont="个" />
+                <word id="12" cont="券" />
+                <word id="13" cont="照样" />
+                <word id="14" cont="领取" />
+                <word id="15" cont="，" />
+                <word id="16" cont="实行" />
+                <word id="17" cont="按" />
+                <word id="18" cont="需" />
+                <word id="19" cont="分配" />
+                <word id="20" cont="都" />
+                <word id="21" cont="可以" />
+                <word id="22" cont="。" />
+            </sent>
+        </para>
+        <para id="207">
+            <sent id="0" cont="等到各个行业和社会基础设施有了一定的起色的时候，再去逐步的提升为市场经济。">
+                <word id="0" cont="等" />
+                <word id="1" cont="到" />
+                <word id="2" cont="各个" />
+                <word id="3" cont="行业" />
+                <word id="4" cont="和" />
+                <word id="5" cont="社会" />
+                <word id="6" cont="基础" />
+                <word id="7" cont="设施" />
+                <word id="8" cont="有" />
+                <word id="9" cont="了" />
+                <word id="10" cont="一定" />
+                <word id="11" cont="的" />
+                <word id="12" cont="起色" />
+                <word id="13" cont="的" />
+                <word id="14" cont="时候" />
+                <word id="15" cont="，" />
+                <word id="16" cont="再" />
+                <word id="17" cont="去" />
+                <word id="18" cont="逐步" />
+                <word id="19" cont="的" />
+                <word id="20" cont="提升" />
+                <word id="21" cont="为" />
+                <word id="22" cont="市场经济" />
+                <word id="23" cont="。" />
+            </sent>
+        </para>
+        <para id="208">
+            <sent id="0" cont="这样能够解决当前的贫困问题，等待救济金是有限的，先要自力更生。">
+                <word id="0" cont="这样" />
+                <word id="1" cont="能够" />
+                <word id="2" cont="解决" />
+                <word id="3" cont="当前" />
+                <word id="4" cont="的" />
+                <word id="5" cont="贫困" />
+                <word id="6" cont="问题" />
+                <word id="7" cont="，" />
+                <word id="8" cont="等待" />
+                <word id="9" cont="救济金" />
+                <word id="10" cont="是" />
+                <word id="11" cont="有限" />
+                <word id="12" cont="的" />
+                <word id="13" cont="，" />
+                <word id="14" cont="先" />
+                <word id="15" cont="要" />
+                <word id="16" cont="自力更生" />
+                <word id="17" cont="。" />
+            </sent>
+        </para>
+        <para id="209">
+            <sent id="0" cont="当然，这个计划经济并不排斥私有资产。">
+                <word id="0" cont="当然" />
+                <word id="1" cont="，" />
+                <word id="2" cont="这个" />
+                <word id="3" cont="计划经济" />
+                <word id="4" cont="并" />
+                <word id="5" cont="不" />
+                <word id="6" cont="排斥" />
+                <word id="7" cont="私有" />
+                <word id="8" cont="资产" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="210">
+            <sent id="0" cont="然后，随着社会生产力的提高，人民素质的提高，逐渐的减少国资计划，让给私营。">
+                <word id="0" cont="然后" />
+                <word id="1" cont="，" />
+                <word id="2" cont="随着" />
+                <word id="3" cont="社会" />
+                <word id="4" cont="生产力" />
+                <word id="5" cont="的" />
+                <word id="6" cont="提高" />
+                <word id="7" cont="，" />
+                <word id="8" cont="人民" />
+                <word id="9" cont="素质" />
+                <word id="10" cont="的" />
+                <word id="11" cont="提高" />
+                <word id="12" cont="，" />
+                <word id="13" cont="逐渐" />
+                <word id="14" cont="的" />
+                <word id="15" cont="减少" />
+                <word id="16" cont="国资" />
+                <word id="17" cont="计划" />
+                <word id="18" cont="，" />
+                <word id="19" cont="让给" />
+                <word id="20" cont="私营" />
+                <word id="21" cont="。" />
+            </sent>
+        </para>
+        <para id="211">
+            <sent id="0" cont="否则的话，没有基础设施，没有人力资源，就建立不起来市场环境，也就没有办法激励投资。">
+                <word id="0" cont="否则" />
+                <word id="1" cont="的话" />
+                <word id="2" cont="，" />
+                <word id="3" cont="没有" />
+                <word id="4" cont="基础" />
+                <word id="5" cont="设施" />
+                <word id="6" cont="，" />
+                <word id="7" cont="没有" />
+                <word id="8" cont="人力" />
+                <word id="9" cont="资源" />
+                <word id="10" cont="，" />
+                <word id="11" cont="就" />
+                <word id="12" cont="建立" />
+                <word id="13" cont="不" />
+                <word id="14" cont="起来" />
+                <word id="15" cont="市场" />
+                <word id="16" cont="环境" />
+                <word id="17" cont="，" />
+                <word id="18" cont="也" />
+                <word id="19" cont="就" />
+                <word id="20" cont="没有" />
+                <word id="21" cont="办法" />
+                <word id="22" cont="激励" />
+                <word id="23" cont="投资" />
+                <word id="24" cont="。" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

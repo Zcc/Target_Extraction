@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="n" pos="n" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="三网（数据、语音、视频流媒体）合一是将来的发展趋势，互联网将会变成更大的平台，李一男是网络技术牛人，百度提前布局确实有它的前瞻性。" />
+        </para>
+        <para id="1">
+            <sent id="0" cont="魏延" />
+        </para>
+        <para id="2">
+            <sent id="0" cont="李一男是林彪，" />
+        </para>
+        <para id="3">
+            <sent id="0" cont="人家不看好华为了" />
+        </para>
+        <para id="4">
+            <sent id="0" cont="反对" />
+        </para>
+        <para id="5">
+            <sent id="0" cont="不知所云" />
+        </para>
+        <para id="6">
+            <sent id="0" cont="顶" />
+        </para>
+        <para id="7">
+            <sent id="0" cont="本来不知道是怎么样的人，不过既然加盟百毒，可见人品也不咋地。" />
+        </para>
+        <para id="8">
+            <sent id="0" cont="回答得太精辟了。" />
+        </para>
+        <para id="9">
+            <sent id="0" cont="任正非和李一男都是值得我们敬佩的人，祝福他们，也祝福华为能发展成世界第一的通信领域的厂家，做百年老店！" />
+        </para>
+        <para id="10">
+            <sent id="0" cont="他也是个神人！" />
+        </para>
+        <para id="11">
+            <sent id="0" cont="比在这里发言的许多自以为是的庸人强太多太多了。" />
+            <sent id="1" cont="比在这里发言的许多自以为是的庸人强太多太多了。" />
+        </para>
+        <para id="12">
+            <sent id="0" cont="完了！" />
+        </para>
+        <para id="13">
+            <sent id="0" cont="汇编个头，你重复造轮子又有什么意义，且不说你造轮子的水平比别人差很多。" />
+        </para>
+        <para id="14">
+            <sent id="0" cont="除非你有政治意义，比如像神7神6那样的工程。" />
+        </para>
+        <para id="15">
+            <sent id="0" cont="爱因思坦也没有把以前的数学公式自己重新推导一遍。" />
+        </para>
+        <para id="16">
+            <sent id="0" cont="要出手机了" />
+        </para>
+        <para id="17">
+            <sent id="0" cont="是林彪，只是这次事件类似叛逃事件，林彪集团彻底瓦解。" />
+        </para>
+        <para id="18">
+            <sent id="0" cont="和你这样的人确实谈论不出什么来，你就没见过什么世面。" />
+            <sent id="1" cont="和你这样的人确实谈论不出什么来，你就没见过什么世面。" />
+        </para>
+        <para id="19">
+            <sent id="0" cont="呵呵！" />
+        </para>
+        <para id="20">
+            <sent id="0" cont="是属于自已的，他不能，也必定不会久于人下，目前他还没有走到他人生的颠峰，是因为他还有自已的短板，把短板加长，也就修成正果了．" />
+        </para>
+        <para id="21">
+            <sent id="0" cont="顶" />
+        </para>
+        <para id="22">
+            <sent id="0" cont="你懂不懂啊？" />
+        </para>
+        <para id="23">
+            <sent id="0" cont="慧通不是任正非弟弟搞的，慧通其实就是华为" />
+        </para>
+        <para id="24">
+            <sent id="0" cont="不是任正非弟弟搞的，慧通其实就是华为控股的，是华为自己的一个白手套，这和任树录没有关系.不知道不要乱说，好不好？" />
+            <sent id="1" cont="慧通不是任正非弟弟搞的，慧通其实就是控股的，是华为自己的一个白手套，这和任树录没有关系.不知道不要乱说，好不好？" />
+        </para>
+        <para id="25">
+            <sent id="0" cont="连慧通的名字都打错了的人，你真是很无知啊." />
+        </para>
+        <para id="26">
+            <sent id="0" cont="在华为是一个做大事的机会！" />
+        </para>
+        <para id="27">
+            <sent id="0" cont="即使自己才能再出众、有天分，但如果不能真正为社会、为提升国家竞争力做点事情，则其实和平庸之人没有什么区别。" />
+        </para>
+        <para id="28">
+            <sent id="0" cont="李一男把个人荣辱得失看的太重了，这方面远不如任正非！" />
+        </para>
+        <para id="29">
+            <sent id="0" cont="当年的港湾失败其实是必然的！" />
+        </para>
+        <para id="30">
+            <sent id="0" cont="因为从谋略性的思维来讲，远不是任正非的对手，他也更没预料到任正非会不惜一切代价的打垮港湾。" />
+        </para>
+        <para id="31">
+            <sent id="0" cont="但任正非必须这样做，不先击倒港湾，华为会陷入国内外市场数面受敌的不利局面；" />
+        </para>
+        <para id="32">
+            <sent id="0" cont="要实现国际化，必须先在国内实现绝对的领先，而且港湾和华为的产品同质化程度太高了。" />
+        </para>
+        <para id="33">
+            <sent id="0" cont="华为必然会在任正非的时代里成为国际顶尖设备商！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="34">
+            <sent id="0" cont="是中国人的骄傲！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="35">
+            <sent id="0" cont="必须经历五次跌倒才会真正成熟起来.华为也许是他的墓地，不管他怎样走，最终也许还是要回到墓地的." />
+        </para>
+        <para id="36">
+            <sent id="0" cont="那现在华为里写OS的....，会出多少天才呀？" />
+        </para>
+        <para id="37">
+            <sent id="0" cont="==============================================从cisco抄OS的吧？" />
+        </para>
+        <para id="38">
+            <sent id="0" cont="忘了被人家告上法庭的糗事了？" />
+        </para>
+        <para id="39">
+            <sent id="0" cont="顶" />
+        </para>
+        <para id="40">
+            <sent id="0" cont="每个人都有自己擅长的领域嘛，既不能说做硬件的技术高于软件，也不能说做软件的技术高于硬件。" />
+        </para>
+        <para id="41">
+            <sent id="0" cont="现在很多东西都是硬件软件结合起来研发才行的。" />
+        </para>
+        <para id="42">
+            <sent id="0" cont="比如云计算，硬件是基础，软件架构把这些基础组合起来。" />
+        </para>
+        <para id="43">
+            <sent id="0" cont="光有硬件就行了？" />
+        </para>
+        <para id="44">
+            <sent id="0" cont="或者抛开硬件只谈软件架构？" />
+        </para>
+        <para id="45">
+            <sent id="0" cont="在通信领域尤其优势，偏重于硬件，他在百度主要还是管理为主，技术上只能起到有限作用，毕竟互联网未来的发展不仅仅是通信和网络的融合。" />
+        </para>
+        <para id="46">
+            <sent id="0" cont="看其人的简历后感觉不出有多大天才，电子科技天才要有实物说话的，没有看出来？" />
+        </para>
+        <para id="47">
+            <sent id="0" cont="说是要接任的班不可能才出走的，那不还是想当大的，也可能是一个管理天才？" />
+        </para>
+        <para id="48">
+            <sent id="0" cont="这些都不重要！" />
+        </para>
+        <para id="49">
+            <sent id="0" cont="重要的是华为真如诸位所言的那样可就不是什么小问题了，也是一些企业做大做强后如何往前走的重大问题了！" />
+        </para>
+        <para id="50">
+            <sent id="0" cont="任正非的弟弟搞了一家外包公司，叫惠通公司？" />
+        </para>
+        <para id="51">
+            <sent id="0" cont="这样华为就把外包业务全部发到任正非的弟弟的公司去了。" />
+        </para>
+        <para id="52">
+            <sent id="0" cont="本来，虽说对华为没什么好感，但对任正非个人还是有些佩服的，觉得他比国内大部分企业家眼光远，看他这样搞外包之后，很失望，还是逃不出中国人长期有的关系办企业的调调。" />
+        </para>
+        <para id="53">
+            <sent id="0" cont="把外包业务转到他弟弟的公司，不是说其他公司做得不好，而完全是跳不出的圈圈。" />
+        </para>
+        <para id="54">
+            <sent id="0" cont="他弟弟的公司的人员其实也是从那些结束外包业务的公司那里接收过来的。" />
+        </para>
+        <para id="55">
+            <sent id="0" cont="好像华为是任正非的一样任正非只有华为不到1%的股份，他蹦?" />
+            <sent id="1" cont="不了几天了" />
+        </para>
+        <para id="56">
+            <sent id="0" cont="不可否认，任正非以及他的EMT集团已经到了发展瓶颈且内部利益犬牙交错。" />
+        </para>
+        <para id="57">
+            <sent id="0" cont="对李一男而言，二次进华为所得“首席电信科学家”这一荣誉，无非是一个虚职，有道是金陵岂是池中物，所以倘若李一男在职期间无法击溃华为内部固有利益集团，则离职是必然的。" />
+        </para>
+        <para id="58">
+            <sent id="0" cont="其二、李一男当年在华为期间做的在今看来都是非常初级的研发，第二次进来又让他做高于当时技术一个层面的ASIC研发，他发挥的作用还不如一个通信算法工程师来得多。" />
+        </para>
+        <para id="59">
+            <sent id="0" cont="这里要补充的是华为用老的研发体系来做ASIC是行不通的，在这样的体系下李一男去华为做ASIC无疑是在沙漠里种水稻。" />
+        </para>
+        <para id="60">
+            <sent id="0" cont="其三、华为的利润体系已经于当年的高利润演化为今天的毛利，所以从根本上失去了往日那种对李一男的吸引程度。" />
+        </para>
+        <para id="61">
+            <sent id="0" cont="倒是百度这样的搜索引擎，其背后的商业价值与暗藏的商业模式深得李一男的欢心。" />
+        </para>
+        <para id="62">
+            <sent id="0" cont="所以综上三点，李一男离职有着必然性，并且也不可能再回到华为去，这次的离职，大有好马不吃回头草的大意凌然，也有着开阔思路重选阵地的气势，所以我看好李一男。" />
+        </para>
+        <para id="63">
+            <sent id="0" cont="同理，如果华为不改变固有思维，不斩断内部利益集团的枷锁，则后期发展甚堪忧，有道是当断不断反受其乱，可惜的是，任老板已经力不从心了。" />
+        </para>
+        <para id="64">
+            <sent id="0" cont="所以笔者认为华为也许从来就没有春天。" />
+        </para>
+        <para id="65">
+            <sent id="0" cont="你跟任正非有仇吗？" />
+        </para>
+        <para id="66">
+            <sent id="0" cont="还君明珠双泪垂，恨不相逢未嫁时。" />
+        </para>
+        <para id="67">
+            <sent id="0" cont="最佩服李一男这种靠自已，靠技术的人。" />
+        </para>
+        <para id="68">
+            <sent id="0" cont="偶像。" />
+        </para>
+        <para id="69">
+            <sent id="0" cont="积累经验吧，相信你一定会成功。" />
+        </para>
+        <para id="70">
+            <sent id="0" cont="我也是：" />
+            <sent id="1" cont="很欣赏李一男，很讨厌百度。" />
+        </para>
+        <para id="71">
+            <sent id="0" cont="李总，一路走好，再创辉煌可是，我真的很讨厌百度。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+        </para>
+        <para id="72">
+            <sent id="0" cont="你牛！" />
+        </para>
+        <para id="73">
+            <sent id="0" cont="比牛顿都牛！" />
+        </para>
+        <para id="74">
+            <sent id="0" cont="牛顿只是会三大定律和微积分而已。" />
+        </para>
+        <para id="75">
+            <sent id="0" cont="你大学就学过这些了，你还懂计算机、懂上网，这些东西牛顿可是见都没见过，想都没想过。" />
+        </para>
+        <para id="76">
+            <sent id="0" cont="我敢打赌，两年之后，李一男必定再回华为。" />
+        </para>
+        <para id="77">
+            <sent id="0" cont="任正非的用人侧略和对华为的企业发展战略确实非常具有长期眼光，也很令人钦佩。" />
+        </para>
+        <para id="78">
+            <sent id="0" cont="只是要想给华为找到一个新的称职的接班人，任总可能要牺牲一些个人在华为的利益，就像传说中康雍乾三位帝王在选择接班人时的策略。" />
+        </para>
+        <para id="79">
+            <sent id="0" cont="华为若想长久必须“改朝换代”。" />
+        </para>
+        <para id="80">
+            <sent id="0" cont="没有社会责任感和良知的企业，最终必然玩儿完" />
+        </para>
+        <para id="81">
+            <sent id="0" cont="哈哈，百度。" />
+        </para>
+        <para id="82">
+            <sent id="0" cont="太烂的企业。" />
+            <sent id="1" cont="。" />
+        </para>
+        <para id="83">
+            <sent id="0" cont="跳槽前好歹看下。" />
+        </para>
+        <para id="84">
+            <sent id="0" cont="门头！" />
+        </para>
+        <para id="85">
+            <sent id="0" cont="百度和华为都是垃圾" />
+        </para>
+        <para id="86">
+            <sent id="0" cont="没看出他搞出过什么以他命名的技术专利成就（李彦宏倒是有）！" />
+        </para>
+        <para id="87">
+            <sent id="0" cont="吹得太过了，媒体浮躁" />
+        </para>
+        <para id="88">
+            <sent id="0" cont="要是这种搞出个程控机的就算牛人，那现在华为里写OS的、写BOS的、写网管的、写软交换的、写短信平台的、设计光传输的、设计万兆路由器的、设计万兆路由器的、设计无线基站的，设计芯片的....，会出多少天才呀？" />
+        </para>
+        <para id="89">
+            <sent id="0" cont="像Intel设计芯片的、IBM研究铜芯片的还不成牛大爷、羊大爷了。" />
+        </para>
+        <para id="90">
+            <sent id="0" cont="不管怎么说，离开华为是明智之举，聪明人在华为是没有前途的！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="91">
+            <sent id="0" cont="别人是华中理工的。" />
+        </para>
+        <para id="92">
+            <sent id="0" cont="北京这哥们确实不太懂呵呵落伍了" />
+        </para>
+        <para id="93">
+            <sent id="0" cont="优秀的匠人.只有任正非管得住他！" />
+        </para>
+        <para id="94">
+            <sent id="0" cont="那怕他进进出出" />
+        </para>
+        <para id="95">
+            <sent id="0" cont="李一男，一个匠人而已，成不了大师" />
+        </para>
+        <para id="96">
+            <sent id="0" cont="华为就像他妈的一个东厂，我承包的哈尔滨宽带工程费一分钱都不给我，那个数码相机天天来拍照，说这里不合格那里不合格，电信局的负责人都说没问题，这个吸血鬼。" />
+        </para>
+        <para id="97">
+            <sent id="0" cont="垮掉拉倒" />
+        </para>
+        <para id="98">
+            <sent id="0" cont="朱?" />
+            <sent id="1" cont="基顶的华为，30个亿贷款啊" />
+        </para>
+        <para id="99">
+            <sent id="0" cont="对男哥的离开，心情很复杂" />
+        </para>
+        <para id="100">
+            <sent id="0" cont="是他，13岁就是毕业了，我之前有在哪里看过的." />
+        </para>
+        <para id="101">
+            <sent id="0" cont="真正的人才不会留在华为，因为华为这个笼子太小.真正的人才华为留不住，因为华为需要的是奴才." />
+        </para>
+        <para id="102">
+            <sent id="0" cont="三姓家奴，出尔反尔。" />
+        </para>
+        <para id="103">
+            <sent id="0" cont="只能被利用，没大前途。" />
+        </para>
+        <para id="104">
+            <sent id="0" cont="南哥，走好" />
+        </para>
+        <para id="105">
+            <sent id="0" cont="这是一个大牛人" />
+        </para>
+        <para id="106">
+            <sent id="0" cont="不搞电信的首席电信科学家！" />
+        </para>
+        <para id="107">
+            <sent id="0" cont="手机核心芯片就是其负责通讯的基带芯片，这是核心技术.李能算个合格的工程师.不具备软件架构师能力." />
+        </para>
+        <para id="108">
+            <sent id="0" cont="我们做HK601交换机的时候华为算个鸟." />
+        </para>
+        <para id="109">
+            <sent id="0" cont="唉，明摆着就是中兴的人出来说风凉话，中兴在这个地球上丢人的事情干的还少么？" />
+        </para>
+        <para id="110">
+            <sent id="0" cont="以前报道有一个十三岁清华毕业的，是他么？" />
+        </para>
+        <para id="111">
+            <sent id="0" cont="李一男？" />
+            <sent id="1" cont="？" />
+            <sent id="2" cont="？" />
+            <sent id="3" cont="？" />
+            <sent id="4" cont="？" />
+            <sent id="5" cont="？" />
+        </para>
+        <para id="112">
+            <sent id="0" cont="大哥，怎么看的。" />
+        </para>
+        <para id="113">
+            <sent id="0" cont="又没说现在是27岁" />
+        </para>
+        <para id="114">
+            <sent id="0" cont="力挺李一男牛人只是希望能够稍微持重些，毕竟不再是“神童”了" />
+        </para>
+        <para id="115">
+            <sent id="0" cont="华为那几位大爷，估计快升天了，分家日子快到了美国经济危机，yahoo/google过不了冬天，等着送钱出售抛卖，中国企业成长的机遇到来，并购，成长，群雄割据垄断巨头拼3G，" />
+        </para>
+        <para id="116" />
+        <para id="117">
+            <sent id="0" cont="K，男哥当初出卖港湾弟兄的时候，有谁为那些曾经在港湾拼死拼活干活的弟兄们祝福了？" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="118">
+            <sent id="0" cont="这个人，不可靠！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="119">
+            <sent id="0" cont="…------------难过，伤心.一将成名，万骨枯." />
+        </para>
+        <para id="120">
+            <sent id="0" cont="科学家？" />
+        </para>
+        <para id="121">
+            <sent id="0" cont="没听说过" />
+        </para>
+        <para id="122">
+            <sent id="0" cont="去吧，百度今天打了你的电话吗？" />
+        </para>
+        <para id="123">
+            <sent id="0" cont="说明白点嘛，是哪个领导人顶华为的？" />
+        </para>
+        <para id="124">
+            <sent id="0" cont="老实说百度确实是个烂公司~~" />
+        </para>
+        <para id="125">
+            <sent id="0" cont="男哥干嘛去百度这咱烂公司，再扯个大旗，兄弟们还追随你！" />
+        </para>
+        <para id="126">
+            <sent id="0" cont="期望李在百度做出百度手机，与谷歌手机抗衡！" />
+        </para>
+        <para id="127">
+            <sent id="0" cont="你懂个屁，你说的是手机，华为强项是通讯，手机就是个皮毛" />
+        </para>
+        <para id="128">
+            <sent id="0" cont="并非软件技术才叫技术！" />
+        </para>
+        <para id="129">
+            <sent id="0" cont="你懂硬件吗？" />
+        </para>
+        <para id="130">
+            <sent id="0" cont="你懂通信吗？" />
+        </para>
+        <para id="131">
+            <sent id="0" cont="就算拿软件来说，你会写DSP上的软件吗？" />
+        </para>
+        <para id="132">
+            <sent id="0" cont="你会用汇编来优化PowerPC、ARM这些CPU上的软件吗？" />
+        </para>
+        <para id="133">
+            <sent id="0" cont="强人一个。" />
+        </para>
+        <para id="134">
+            <sent id="0" cont="我接触了很多的华为人很多人是华为早期的人一句话没有国家的钱华为还存在吗？" />
+        </para>
+        <para id="135">
+            <sent id="0" cont="93年那个3亿贷款还不搞死他们？" />
+        </para>
+        <para id="136">
+            <sent id="0" cont="呵呵不过化为却是为了国家省了不少钱了另外也是长了脸了不管他怎么失败他给中国的电信市场带来了价格优势。" />
+        </para>
+        <para id="137">
+            <sent id="0" cont="这就足够了华为的贡献没有了任正非和开始的认同华为的那个领导人我想一切都是空的好运华为。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+        </para>
+        <para id="138">
+            <sent id="0" cont="好运中兴！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="139">
+            <sent id="0" cont="94年就毕业啦，那才几岁？" />
+        </para>
+        <para id="140">
+            <sent id="0" cont="13岁？" />
+            <sent id="1" cont="？" />
+            <sent id="2" cont="？" />
+            <sent id="3" cont="？" />
+            <sent id="4" cont="？" />
+            <sent id="5" cont="？" />
+            <sent id="6" cont="？" />
+            <sent id="7" cont="？" />
+            <sent id="8" cont="？" />
+            <sent id="9" cont="？" />
+        </para>
+        <para id="141">
+            <sent id="0" cont="真的假的？" />
+        </para>
+        <para id="142">
+            <sent id="0" cont="华为只是算工程类公司，没有研发能力.李一男后来带的手机芯片部门一百年后也搞不出来，根本没戏." />
+        </para>
+        <para id="143">
+            <sent id="0" cont="原来如此啊！" />
+        </para>
+        <para id="144">
+            <sent id="0" cont="难怪当年华为总是大规模在华工招人呢．可惜俺不是华工出来的啊" />
+        </para>
+        <para id="145">
+            <sent id="0" cont="华工师兄的旗帜之一一直关注，好运" />
+        </para>
+        <para id="146">
+            <sent id="0" cont="理解李一男，支持李一男，他在华为找不到空间，当初就不应该回去。" />
+        </para>
+        <para id="147">
+            <sent id="0" cont="百度也学GOOGLE出手机？" />
+        </para>
+        <para id="148">
+            <sent id="0" cont="为啥他要选择百度呢？" />
+        </para>
+        <para id="149">
+            <sent id="0" cont="这样的流氓公司，所以不看好" />
+        </para>
+        <para id="150">
+            <sent id="0" cont='非常同意和理解这位朋友说的，&quot;没有任正非，李一男只是平凡的工程师而已！' />
+        </para>
+        <para id="151">
+            <sent id="0" cont='&quot;，在李稳定华为数字程控交换机的时候赶上了，2000年那玩意儿已经不是什么高科技了，是任帮助了他，他是个牛人，但不是吹的那么牛，我预测他到bidu是害了bidu，（我从来没有用过bidu，垃圾玩意儿）' />
+        </para>
+        <para id="152">
+            <sent id="0" cont="这种傻蛋和小人摆渡都招..." />
+        </para>
+        <para id="153">
+            <sent id="0" cont="百度去死吧！" />
+        </para>
+        <para id="154">
+            <sent id="0" cont="去为毒奶粉中死去的孩子陪葬！" />
+        </para>
+        <para id="155">
+            <sent id="0" cont="对于李一男，只能用一句欧阳修的话评论他：" />
+            <sent id="1" cont="修已知道你，你还不知修" />
+        </para>
+        <para id="156">
+            <sent id="0" cont="简直就是一天才" />
+        </para>
+        <para id="157">
+            <sent id="0" cont="?" />
+            <sent id="1" cont="有李一男，华为能够有今天的成就？" />
+        </para>
+        <para id="158">
+            <sent id="0" cont="我看未必" />
+        </para>
+        <para id="159">
+            <sent id="0" cont="当然，华工的少年班的" />
+        </para>
+        <para id="160">
+            <sent id="0" cont="可惜了，如果当初不离开华为，他就是下一个元庆，现在，不好混了啊。" />
+        </para>
+        <para id="161">
+            <sent id="0" cont="互联网与电信融合是趋势，看google就知道，百度想用的是李的管理经验、华为的手机技术、电信技术等。" />
+        </para>
+        <para id="162">
+            <sent id="0" cont="别的不说，当年的港湾什么样？" />
+        </para>
+        <para id="163">
+            <sent id="0" cont="现在的港湾什么样？" />
+        </para>
+        <para id="164">
+            <sent id="0" cont="如今的港湾被不到1米6的彭松糟践的，公司规模也跟着他的身高不断浓缩，只剩苟延残喘的力气了。" />
+        </para>
+        <para id="165">
+            <sent id="0" cont="李一男搞通讯的，跟互联网还是有所不同的，个人认为短中期对百度的发展没有用处，长期看可能会有用，可能在把握方向上有帮助，总的来说，这事很悬乎" />
+        </para>
+        <para id="166">
+            <sent id="0" cont="我觉得一开始老任就对李一男使用上有失误。" />
+        </para>
+        <para id="167">
+            <sent id="0" cont="刚毕业不经过好好的锻炼就火箭式提拔，总不是好事。" />
+        </para>
+        <para id="168">
+            <sent id="0" cont="呵呵，看中了李一男的管理团队经验和他在互联网领域的一些前瞻性看法，跟目前百度的主流搜索平台开发一点关系也没有，而且李的技术跟搜索毫无关系插不进手的。" />
+        </para>
+        <para id="169">
+            <sent id="0" cont="下场肯定可怜，因为他的“天才”就是模仿，别无他用。" />
+        </para>
+        <para id="170">
+            <sent id="0" cont="开发了中国第一台交换机，打破了国外的垄断，这以后，装电话才不用几千一台了。" />
+        </para>
+        <para id="171">
+            <sent id="0" cont="功劳小吗？" />
+        </para>
+        <para id="172">
+            <sent id="0" cont="技术差吗？" />
+        </para>
+        <para id="173">
+            <sent id="0" cont="华为很多高管和前期创业者都是从华工毕业的" />
+        </para>
+        <para id="174">
+            <sent id="0" cont="毕业于华中理工大学？" />
+            <sent id="1" cont="？" />
+        </para>
+        <para id="175">
+            <sent id="0" cont="这小子是个人才，" />
+        </para>
+        <para id="176">
+            <sent id="0" cont="真的假的？" />
+        </para>
+        <para id="177">
+            <sent id="0" cont="祝福男哥一路走好！" />
+        </para>
+        <para id="178">
+            <sent id="0" cont="这年月，IT互联网尽出娱乐新闻。" />
+        </para>
+        <para id="179">
+            <sent id="0" cont="男哥，眼光放在更高处，什么华为，什么百度，还是你的港湾比较好啊！" />
+        </para>
+        <para id="180">
+            <sent id="0" cont="进了百度不是一样没有你的机会。" />
+        </para>
+    </doc>
+</xml4nlp>

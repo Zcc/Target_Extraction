@@ -1,0 +1,3185 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="y" ne="y" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="华为首先抢占发展中国家市场，再进攻欧美市场走农村包围城市的道路，有我党风格台湾走代工业替欧美打下手，也有GMD风格很微妙啊">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="首先" pos="d" ne="O" />
+                <word id="2" cont="抢占" pos="v" ne="O" />
+                <word id="3" cont="发展中国家" pos="i" ne="O" />
+                <word id="4" cont="市场" pos="n" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="再" pos="d" ne="O" />
+                <word id="7" cont="进攻" pos="v" ne="O" />
+                <word id="8" cont="欧" pos="j" ne="S-Ns" />
+                <word id="9" cont="美" pos="j" ne="S-Ns" />
+                <word id="10" cont="市场" pos="n" ne="O" />
+                <word id="11" cont="走" pos="v" ne="O" />
+                <word id="12" cont="农村" pos="n" ne="O" />
+                <word id="13" cont="包围" pos="v" ne="O" />
+                <word id="14" cont="城市" pos="n" ne="O" />
+                <word id="15" cont="的" pos="u" ne="O" />
+                <word id="16" cont="道路" pos="n" ne="O" />
+                <word id="17" cont="，" pos="wp" ne="O" />
+                <word id="18" cont="有" pos="v" ne="O" />
+                <word id="19" cont="我党" pos="n" ne="O" />
+                <word id="20" cont="风格" pos="n" ne="O" />
+                <word id="21" cont="台湾" pos="ns" ne="S-Ns" />
+                <word id="22" cont="走代" pos="v" ne="O" />
+                <word id="23" cont="工业" pos="n" ne="O" />
+                <word id="24" cont="替" pos="p" ne="O" />
+                <word id="25" cont="欧" pos="j" ne="S-Ns" />
+                <word id="26" cont="美" pos="j" ne="S-Ns" />
+                <word id="27" cont="打" pos="v" ne="O" />
+                <word id="28" cont="下手" pos="n" ne="O" />
+                <word id="29" cont="，" pos="wp" ne="O" />
+                <word id="30" cont="也" pos="d" ne="O" />
+                <word id="31" cont="有" pos="v" ne="O" />
+                <word id="32" cont="GMD" pos="ws" ne="O" />
+                <word id="33" cont="风格" pos="n" ne="O" />
+                <word id="34" cont="很" pos="d" ne="O" />
+                <word id="35" cont="微妙" pos="a" ne="O" />
+                <word id="36" cont="啊" pos="u" ne="O" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="同学，北电，摩托赚钱的时候，老任还在他娘肚子里呢。">
+                <word id="0" cont="同学" pos="n" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="北电" pos="j" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="摩托" pos="n" ne="O" />
+                <word id="5" cont="赚钱" pos="v" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="时候" pos="n" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="老任" pos="nh" ne="S-Nh" />
+                <word id="10" cont="还" pos="d" ne="O" />
+                <word id="11" cont="在" pos="p" ne="O" />
+                <word id="12" cont="他" pos="r" ne="O" />
+                <word id="13" cont="娘" pos="n" ne="O" />
+                <word id="14" cont="肚子" pos="n" ne="O" />
+                <word id="15" cont="里" pos="nd" ne="O" />
+                <word id="16" cont="呢" pos="u" ne="O" />
+                <word id="17" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="现在赚钱，并不代表将来会赚。">
+                <word id="0" cont="现在" pos="nt" ne="O" />
+                <word id="1" cont="赚钱" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="并" pos="d" ne="O" />
+                <word id="4" cont="不" pos="d" ne="O" />
+                <word id="5" cont="代表" pos="v" ne="O" />
+                <word id="6" cont="将来" pos="nt" ne="O" />
+                <word id="7" cont="会" pos="v" ne="O" />
+                <word id="8" cont="赚" pos="v" ne="O" />
+                <word id="9" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="这种往死里作的营销策略，早晚害了他自己">
+                <word id="0" cont="这种" pos="r" ne="O" />
+                <word id="1" cont="往" pos="p" ne="O" />
+                <word id="2" cont="死" pos="v" ne="O" />
+                <word id="3" cont="里作" pos="v" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="营销" pos="v" ne="O" />
+                <word id="6" cont="策略" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="早晚" pos="d" ne="O" />
+                <word id="9" cont="害" pos="v" ne="O" />
+                <word id="10" cont="了" pos="u" ne="O" />
+                <word id="11" cont="他" pos="r" ne="O" />
+                <word id="12" cont="自己" pos="r" ne="O" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="别看现在闹得欢，当心将来拉清单">
+                <word id="0" cont="别" pos="d" ne="O" />
+                <word id="1" cont="看" pos="v" ne="O" />
+                <word id="2" cont="现在" pos="nt" ne="O" />
+                <word id="3" cont="闹" pos="v" ne="O" />
+                <word id="4" cont="得" pos="u" ne="O" />
+                <word id="5" cont="欢" pos="a" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="当心" pos="v" ne="O" />
+                <word id="8" cont="将来" pos="nt" ne="O" />
+                <word id="9" cont="拉" pos="v" ne="O" />
+                <word id="10" cont="清单" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="有趣的观点。">
+                <word id="0" cont="有趣" pos="a" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="观点" pos="n" ne="O" />
+                <word id="3" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="眼红的人，只能在网上磨磨嘴皮子，一般都成不了别人讨论的焦点！">
+                <word id="0" cont="眼红" pos="v" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="人" pos="n" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="只能" pos="v" ne="O" />
+                <word id="5" cont="在" pos="p" ne="O" />
+                <word id="6" cont="网上" pos="nl" ne="O" />
+                <word id="7" cont="磨磨" pos="n" ne="O" />
+                <word id="8" cont="嘴皮子" pos="n" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="一般" pos="a" ne="O" />
+                <word id="11" cont="都" pos="d" ne="O" />
+                <word id="12" cont="成" pos="v" ne="O" />
+                <word id="13" cont="不" pos="d" ne="O" />
+                <word id="14" cont="了" pos="v" ne="O" />
+                <word id="15" cont="别人" pos="r" ne="O" />
+                <word id="16" cont="讨论" pos="v" ne="O" />
+                <word id="17" cont="的" pos="u" ne="O" />
+                <word id="18" cont="焦点" pos="n" ne="O" />
+                <word id="19" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="7">
+            <sent id="0" cont="华为真是出人才呀，，居然变成了华为的发展战略，并赞赏它，莫名其妙，你的文笔贼强呀。">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="真是" pos="d" ne="O" />
+                <word id="2" cont="出" pos="v" ne="O" />
+                <word id="3" cont="人才" pos="n" ne="O" />
+                <word id="4" cont="呀" pos="u" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="居然" pos="d" ne="O" />
+                <word id="8" cont="变成" pos="v" ne="O" />
+                <word id="9" cont="了" pos="u" ne="O" />
+                <word id="10" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="发展" pos="v" ne="O" />
+                <word id="13" cont="战略" pos="n" ne="O" />
+                <word id="14" cont="，" pos="wp" ne="O" />
+                <word id="15" cont="并" pos="c" ne="O" />
+                <word id="16" cont="赞赏" pos="v" ne="O" />
+                <word id="17" cont="它" pos="r" ne="O" />
+                <word id="18" cont="，" pos="wp" ne="O" />
+                <word id="19" cont="莫名其妙" pos="i" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="你" pos="r" ne="O" />
+                <word id="22" cont="的" pos="u" ne="O" />
+                <word id="23" cont="文笔" pos="n" ne="O" />
+                <word id="24" cont="贼" pos="d" ne="O" />
+                <word id="25" cont="强" pos="a" ne="O" />
+                <word id="26" cont="呀" pos="u" ne="O" />
+                <word id="27" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="8">
+            <sent id="0" cont="赚钱就是硬道理。">
+                <word id="0" cont="赚钱" pos="v" ne="O" />
+                <word id="1" cont="就是" pos="v" ne="O" />
+                <word id="2" cont="硬" pos="a" ne="O" />
+                <word id="3" cont="道理" pos="n" ne="O" />
+                <word id="4" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="9">
+            <sent id="0" cont="确实，中国的上市公司为了利润什么也敢做，就是不做大。">
+                <word id="0" cont="确实" pos="a" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="上市" pos="v" ne="O" />
+                <word id="5" cont="公司" pos="n" ne="O" />
+                <word id="6" cont="为了" pos="p" ne="O" />
+                <word id="7" cont="利润" pos="n" ne="O" />
+                <word id="8" cont="什么" pos="r" ne="O" />
+                <word id="9" cont="也" pos="d" ne="O" />
+                <word id="10" cont="敢" pos="v" ne="O" />
+                <word id="11" cont="做" pos="v" ne="O" />
+                <word id="12" cont="，" pos="wp" ne="O" />
+                <word id="13" cont="就" pos="d" ne="O" />
+                <word id="14" cont="是" pos="v" ne="O" />
+                <word id="15" cont="不" pos="d" ne="O" />
+                <word id="16" cont="做" pos="v" ne="O" />
+                <word id="17" cont="大" pos="a" ne="O" />
+                <word id="18" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="10">
+            <sent id="0" cont="只是在深圳一流。">
+                <word id="0" cont="只是" pos="c" ne="O" />
+                <word id="1" cont="在" pos="p" ne="O" />
+                <word id="2" cont="深圳" pos="ns" ne="S-Ns" />
+                <word id="3" cont="一流" pos="b" ne="O" />
+                <word id="4" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="11">
+            <sent id="0" cont="放在全国全世界，根本派不上流。">
+                <word id="0" cont="放" pos="v" ne="O" />
+                <word id="1" cont="在" pos="p" ne="O" />
+                <word id="2" cont="全国" pos="n" ne="O" />
+                <word id="3" cont="全世界" pos="n" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="根本派" pos="n" ne="O" />
+                <word id="6" cont="不" pos="d" ne="O" />
+                <word id="7" cont="上" pos="v" ne="O" />
+                <word id="8" cont="流" pos="v" ne="O" />
+                <word id="9" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="12">
+            <sent id="0" cont="兄弟，知道井底下的青蛙是怎么看天的吗？">
+                <word id="0" cont="兄弟" pos="n" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="知道" pos="v" ne="O" />
+                <word id="3" cont="井" pos="n" ne="O" />
+                <word id="4" cont="底下" pos="nd" ne="O" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="青蛙" pos="n" ne="O" />
+                <word id="7" cont="是" pos="v" ne="O" />
+                <word id="8" cont="怎么" pos="r" ne="O" />
+                <word id="9" cont="看" pos="v" ne="O" />
+                <word id="10" cont="天" pos="n" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="吗" pos="u" ne="O" />
+                <word id="13" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="13">
+            <sent id="0" cont="是3流，没有公司敢称1流2流">
+                <word id="0" cont="是" pos="v" ne="O" />
+                <word id="1" cont="3" pos="m" ne="B-Nm" />
+                <word id="2" cont="流" pos="q" ne="E-Nm" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="没有" pos="v" ne="O" />
+                <word id="5" cont="公司" pos="n" ne="O" />
+                <word id="6" cont="敢" pos="v" ne="O" />
+                <word id="7" cont="称" pos="v" ne="O" />
+                <word id="8" cont="1流" pos="m" ne="B-Nm" />
+                <word id="9" cont="2" pos="m" ne="I-Nm" />
+                <word id="10" cont="流" pos="q" ne="E-Nm" />
+            </sent>
+        </para>
+        <para id="14">
+            <sent id="0" cont="那说明做生意还没入门，真够天真的去华强北待几天就知道老任怎么出来的了我做了几年通讯也自己做了几年生意">
+                <word id="0" cont="那" pos="r" ne="O" />
+                <word id="1" cont="说明" pos="v" ne="O" />
+                <word id="2" cont="做" pos="v" ne="O" />
+                <word id="3" cont="生意" pos="n" ne="O" />
+                <word id="4" cont="还" pos="d" ne="O" />
+                <word id="5" cont="没" pos="d" ne="O" />
+                <word id="6" cont="入门" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="真" pos="d" ne="O" />
+                <word id="9" cont="够" pos="v" ne="O" />
+                <word id="10" cont="天真" pos="a" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="去" pos="v" ne="O" />
+                <word id="13" cont="华强" pos="nz" ne="S-Nz" />
+                <word id="14" cont="北待" pos="v" ne="O" />
+                <word id="15" cont="几" pos="m" ne="O" />
+                <word id="16" cont="天" pos="q" ne="O" />
+                <word id="17" cont="就" pos="d" ne="O" />
+                <word id="18" cont="知道" pos="v" ne="O" />
+                <word id="19" cont="老任" pos="nh" ne="S-Nh" />
+                <word id="20" cont="怎么" pos="r" ne="O" />
+                <word id="21" cont="出来" pos="v" ne="O" />
+                <word id="22" cont="的" pos="u" ne="O" />
+                <word id="23" cont="了" pos="u" ne="O" />
+                <word id="24" cont="我" pos="r" ne="O" />
+                <word id="25" cont="做" pos="v" ne="O" />
+                <word id="26" cont="了" pos="u" ne="O" />
+                <word id="27" cont="几" pos="m" ne="O" />
+                <word id="28" cont="年" pos="q" ne="O" />
+                <word id="29" cont="通讯" pos="n" ne="O" />
+                <word id="30" cont="也" pos="d" ne="O" />
+                <word id="31" cont="自己" pos="r" ne="O" />
+                <word id="32" cont="做" pos="v" ne="O" />
+                <word id="33" cont="了" pos="u" ne="O" />
+                <word id="34" cont="几" pos="m" ne="O" />
+                <word id="35" cont="年" pos="q" ne="O" />
+                <word id="36" cont="生意" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="15">
+            <sent id="0" cont="充分利用中国的研发低成本。">
+                <word id="0" cont="充分" pos="a" ne="O" />
+                <word id="1" cont="利用" pos="v" ne="O" />
+                <word id="2" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="研发" pos="v" ne="O" />
+                <word id="5" cont="低" pos="a" ne="O" />
+                <word id="6" cont="成本" pos="n" ne="O" />
+                <word id="7" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="16">
+            <sent id="0" cont="大量招聘研发人员。">
+                <word id="0" cont="大量" pos="m" ne="O" />
+                <word id="1" cont="招聘" pos="v" ne="O" />
+                <word id="2" cont="研发" pos="v" ne="O" />
+                <word id="3" cont="人员" pos="n" ne="O" />
+                <word id="4" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="17">
+            <sent id="0" cont="这句话说到点子上了，中国人就是便宜啊。">
+                <word id="0" cont="这" pos="r" ne="O" />
+                <word id="1" cont="句" pos="q" ne="O" />
+                <word id="2" cont="话说" pos="v" ne="O" />
+                <word id="3" cont="到" pos="v" ne="O" />
+                <word id="4" cont="点子" pos="n" ne="O" />
+                <word id="5" cont="上" pos="nd" ne="O" />
+                <word id="6" cont="了" pos="u" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="9" cont="人" pos="n" ne="O" />
+                <word id="10" cont="就" pos="d" ne="O" />
+                <word id="11" cont="是" pos="v" ne="O" />
+                <word id="12" cont="便宜" pos="a" ne="O" />
+                <word id="13" cont="啊" pos="u" ne="O" />
+                <word id="14" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="18">
+            <sent id="0" cont="华为上市一定要慎重，很容易被竞争对手操纵，然后通过股权说话而遏制其发展。">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="上市" pos="v" ne="O" />
+                <word id="2" cont="一定" pos="d" ne="O" />
+                <word id="3" cont="要" pos="v" ne="O" />
+                <word id="4" cont="慎重" pos="a" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="很" pos="d" ne="O" />
+                <word id="7" cont="容易" pos="a" ne="O" />
+                <word id="8" cont="被" pos="p" ne="O" />
+                <word id="9" cont="竞争" pos="v" ne="O" />
+                <word id="10" cont="对手" pos="n" ne="O" />
+                <word id="11" cont="操纵" pos="v" ne="O" />
+                <word id="12" cont="，" pos="wp" ne="O" />
+                <word id="13" cont="然后" pos="c" ne="O" />
+                <word id="14" cont="通过" pos="p" ne="O" />
+                <word id="15" cont="股权" pos="n" ne="O" />
+                <word id="16" cont="说话" pos="v" ne="O" />
+                <word id="17" cont="而" pos="c" ne="O" />
+                <word id="18" cont="遏制" pos="v" ne="O" />
+                <word id="19" cont="其" pos="r" ne="O" />
+                <word id="20" cont="发展" pos="v" ne="O" />
+                <word id="21" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="19">
+            <sent id="0" cont="放屁，华为的亿万富翁能有google，baidu，microsoft多？">
+                <word id="0" cont="放屁" pos="v" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="亿万富翁" pos="i" ne="O" />
+                <word id="5" cont="能" pos="v" ne="O" />
+                <word id="6" cont="有" pos="v" ne="O" />
+                <word id="7" cont="google" pos="ws" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="baidu" pos="ws" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="microsoft多" pos="ws" ne="O" />
+                <word id="12" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="20">
+            <sent id="0" cont="还什么有钱了就做不好事情了，全国人民都笑了！">
+                <word id="0" cont="还" pos="d" ne="O" />
+                <word id="1" cont="什么" pos="r" ne="O" />
+                <word id="2" cont="有" pos="v" ne="O" />
+                <word id="3" cont="钱" pos="n" ne="O" />
+                <word id="4" cont="了" pos="u" ne="O" />
+                <word id="5" cont="就" pos="d" ne="O" />
+                <word id="6" cont="做" pos="v" ne="O" />
+                <word id="7" cont="不好" pos="a" ne="O" />
+                <word id="8" cont="事情" pos="n" ne="O" />
+                <word id="9" cont="了" pos="u" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="全国" pos="n" ne="O" />
+                <word id="12" cont="人民" pos="n" ne="O" />
+                <word id="13" cont="都" pos="d" ne="O" />
+                <word id="14" cont="笑" pos="v" ne="O" />
+                <word id="15" cont="了" pos="u" ne="O" />
+                <word id="16" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="21">
+            <sent id="0" cont="讲的都有道理！">
+                <word id="0" cont="讲" pos="v" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="都" pos="d" ne="O" />
+                <word id="3" cont="有" pos="v" ne="O" />
+                <word id="4" cont="道理" pos="n" ne="O" />
+                <word id="5" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="22">
+            <sent id="0" cont="再怎么发展都是三流，现在是，永远也是，一个靠量，靠烂，靠简单运营，就想成为国际巨头，现在不能，永远也不能.如果华为有一天成为世界电信制造业领头羊，也就是太阳从西边出来的时候.">
+                <word id="0" cont="再" pos="d" ne="O" />
+                <word id="1" cont="怎么" pos="r" ne="O" />
+                <word id="2" cont="发展" pos="v" ne="O" />
+                <word id="3" cont="都" pos="d" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="三流" pos="b" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="现在" pos="nt" ne="O" />
+                <word id="8" cont="是" pos="v" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="永远" pos="d" ne="O" />
+                <word id="11" cont="也" pos="d" ne="O" />
+                <word id="12" cont="是" pos="v" ne="O" />
+                <word id="13" cont="，" pos="wp" ne="O" />
+                <word id="14" cont="一个" pos="m" ne="O" />
+                <word id="15" cont="靠量" pos="n" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="靠" pos="p" ne="O" />
+                <word id="18" cont="烂" pos="a" ne="O" />
+                <word id="19" cont="，" pos="wp" ne="O" />
+                <word id="20" cont="靠" pos="p" ne="O" />
+                <word id="21" cont="简单" pos="a" ne="O" />
+                <word id="22" cont="运营" pos="v" ne="O" />
+                <word id="23" cont="，" pos="wp" ne="O" />
+                <word id="24" cont="就" pos="d" ne="O" />
+                <word id="25" cont="想" pos="v" ne="O" />
+                <word id="26" cont="成为" pos="v" ne="O" />
+                <word id="27" cont="国际" pos="n" ne="O" />
+                <word id="28" cont="巨头" pos="n" ne="O" />
+                <word id="29" cont="，" pos="wp" ne="O" />
+                <word id="30" cont="现在" pos="nt" ne="O" />
+                <word id="31" cont="不能" pos="v" ne="O" />
+                <word id="32" cont="，" pos="wp" ne="O" />
+                <word id="33" cont="永远" pos="d" ne="O" />
+                <word id="34" cont="也" pos="d" ne="O" />
+                <word id="35" cont="不" pos="d" ne="O" />
+                <word id="36" cont="能." pos="ws" ne="O" />
+                <word id="37" cont="如果" pos="c" ne="O" />
+                <word id="38" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="39" cont="有" pos="v" ne="O" />
+                <word id="40" cont="一" pos="m" ne="B-Nm" />
+                <word id="41" cont="天" pos="q" ne="E-Nm" />
+                <word id="42" cont="成为" pos="v" ne="O" />
+                <word id="43" cont="世界" pos="n" ne="O" />
+                <word id="44" cont="电信" pos="n" ne="O" />
+                <word id="45" cont="制造业" pos="n" ne="O" />
+                <word id="46" cont="领头羊" pos="i" ne="O" />
+                <word id="47" cont="，" pos="wp" ne="O" />
+                <word id="48" cont="也" pos="d" ne="O" />
+                <word id="49" cont="就" pos="d" ne="O" />
+                <word id="50" cont="是" pos="v" ne="O" />
+                <word id="51" cont="太阳" pos="n" ne="O" />
+                <word id="52" cont="从" pos="p" ne="O" />
+                <word id="53" cont="西边" pos="nd" ne="O" />
+                <word id="54" cont="出来" pos="v" ne="O" />
+                <word id="55" cont="的" pos="u" ne="O" />
+                <word id="56" cont="时候." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="23">
+            <sent id="0" cont="中国有句古话成者为王败者寇，是成功了至于用的手段是人都可想而知，说残酷不如说卑劣，我想任正非也活得不轻松，从他的《我的父亲母亲》就深有体会！">
+                <word id="0" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="1" cont="有" pos="v" ne="O" />
+                <word id="2" cont="句" pos="q" ne="O" />
+                <word id="3" cont="古话" pos="n" ne="O" />
+                <word id="4" cont="成者" pos="n" ne="O" />
+                <word id="5" cont="为" pos="v" ne="O" />
+                <word id="6" cont="王败者" pos="n" ne="O" />
+                <word id="7" cont="寇" pos="n" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="是" pos="v" ne="O" />
+                <word id="10" cont="成功" pos="a" ne="O" />
+                <word id="11" cont="了" pos="u" ne="O" />
+                <word id="12" cont="至于" pos="p" ne="O" />
+                <word id="13" cont="用" pos="v" ne="O" />
+                <word id="14" cont="的" pos="u" ne="O" />
+                <word id="15" cont="手段" pos="n" ne="O" />
+                <word id="16" cont="是" pos="v" ne="O" />
+                <word id="17" cont="人" pos="n" ne="O" />
+                <word id="18" cont="都" pos="d" ne="O" />
+                <word id="19" cont="可想而知" pos="i" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="说" pos="v" ne="O" />
+                <word id="22" cont="残酷" pos="a" ne="O" />
+                <word id="23" cont="不如说" pos="c" ne="O" />
+                <word id="24" cont="卑劣" pos="a" ne="O" />
+                <word id="25" cont="，" pos="wp" ne="O" />
+                <word id="26" cont="我" pos="r" ne="O" />
+                <word id="27" cont="想" pos="v" ne="O" />
+                <word id="28" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="29" cont="非" pos="d" ne="O" />
+                <word id="30" cont="也" pos="d" ne="O" />
+                <word id="31" cont="活" pos="v" ne="O" />
+                <word id="32" cont="得" pos="u" ne="O" />
+                <word id="33" cont="不" pos="d" ne="O" />
+                <word id="34" cont="轻松" pos="a" ne="O" />
+                <word id="35" cont="，" pos="wp" ne="O" />
+                <word id="36" cont="从" pos="p" ne="O" />
+                <word id="37" cont="他" pos="r" ne="O" />
+                <word id="38" cont="的" pos="u" ne="O" />
+                <word id="39" cont="《" pos="wp" ne="O" />
+                <word id="40" cont="我" pos="r" ne="O" />
+                <word id="41" cont="的" pos="u" ne="O" />
+                <word id="42" cont="父亲" pos="n" ne="O" />
+                <word id="43" cont="母亲" pos="n" ne="O" />
+                <word id="44" cont="》" pos="wp" ne="O" />
+                <word id="45" cont="就" pos="d" ne="O" />
+                <word id="46" cont="深" pos="d" ne="O" />
+                <word id="47" cont="有" pos="v" ne="O" />
+                <word id="48" cont="体会" pos="v" ne="O" />
+                <word id="49" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="是成功了至于用的手段是人都可想而知，说残酷不如说卑劣，我想任正非也活得不轻松，从他的《我的父亲母亲》就深有体会！">
+                <word id="0" cont="是" pos="v" ne="O" />
+                <word id="1" cont="成功" pos="a" ne="O" />
+                <word id="2" cont="了" pos="u" ne="O" />
+                <word id="3" cont="至于" pos="p" ne="O" />
+                <word id="4" cont="用" pos="v" ne="O" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="手段" pos="n" ne="O" />
+                <word id="7" cont="是" pos="v" ne="O" />
+                <word id="8" cont="人" pos="n" ne="O" />
+                <word id="9" cont="都" pos="d" ne="O" />
+                <word id="10" cont="可想而知" pos="i" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="说" pos="v" ne="O" />
+                <word id="13" cont="残酷" pos="a" ne="O" />
+                <word id="14" cont="不如说" pos="c" ne="O" />
+                <word id="15" cont="卑劣" pos="a" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="我" pos="r" ne="O" />
+                <word id="18" cont="想" pos="v" ne="O" />
+                <word id="19" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="20" cont="非" pos="d" ne="O" />
+                <word id="21" cont="也" pos="d" ne="O" />
+                <word id="22" cont="活" pos="v" ne="O" />
+                <word id="23" cont="得" pos="u" ne="O" />
+                <word id="24" cont="不" pos="d" ne="O" />
+                <word id="25" cont="轻松" pos="a" ne="O" />
+                <word id="26" cont="，" pos="wp" ne="O" />
+                <word id="27" cont="从" pos="p" ne="O" />
+                <word id="28" cont="他" pos="r" ne="O" />
+                <word id="29" cont="的" pos="u" ne="O" />
+                <word id="30" cont="《" pos="wp" ne="O" />
+                <word id="31" cont="我" pos="r" ne="O" />
+                <word id="32" cont="的" pos="u" ne="O" />
+                <word id="33" cont="父亲" pos="n" ne="O" />
+                <word id="34" cont="母亲" pos="n" ne="O" />
+                <word id="35" cont="》" pos="wp" ne="O" />
+                <word id="36" cont="就" pos="d" ne="O" />
+                <word id="37" cont="深" pos="d" ne="O" />
+                <word id="38" cont="有" pos="v" ne="O" />
+                <word id="39" cont="体会" pos="v" ne="O" />
+                <word id="40" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="24">
+            <sent id="0" cont="说说话，我觉得中国值得骄傲的企业不是中国石油，也不是中国电信，而是">
+                <word id="0" cont="说" pos="v" ne="O" />
+                <word id="1" cont="说话" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="我" pos="r" ne="O" />
+                <word id="4" cont="觉得" pos="v" ne="O" />
+                <word id="5" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="6" cont="值得" pos="v" ne="O" />
+                <word id="7" cont="骄傲" pos="a" ne="O" />
+                <word id="8" cont="的" pos="u" ne="O" />
+                <word id="9" cont="企业" pos="n" ne="O" />
+                <word id="10" cont="不" pos="d" ne="O" />
+                <word id="11" cont="是" pos="v" ne="O" />
+                <word id="12" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="13" cont="石油" pos="n" ne="O" />
+                <word id="14" cont="，" pos="wp" ne="O" />
+                <word id="15" cont="也" pos="d" ne="O" />
+                <word id="16" cont="不" pos="d" ne="O" />
+                <word id="17" cont="是" pos="v" ne="O" />
+                <word id="18" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="19" cont="电信" pos="n" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="而是" pos="c" ne="O" />
+            </sent>
+        </para>
+        <para id="25">
+            <sent id="0" cont="华为的成功有着大量的秘密资金的流转和鲜为人知的高管持股，他敢上市吗？">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="成功" pos="a" ne="O" />
+                <word id="3" cont="有着" pos="v" ne="O" />
+                <word id="4" cont="大量" pos="m" ne="O" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="秘密" pos="a" ne="O" />
+                <word id="7" cont="资金" pos="n" ne="O" />
+                <word id="8" cont="的" pos="u" ne="O" />
+                <word id="9" cont="流转" pos="v" ne="O" />
+                <word id="10" cont="和" pos="c" ne="O" />
+                <word id="11" cont="鲜为人知" pos="i" ne="O" />
+                <word id="12" cont="的" pos="u" ne="O" />
+                <word id="13" cont="高管" pos="nh" ne="S-Nh" />
+                <word id="14" cont="持" pos="v" ne="O" />
+                <word id="15" cont="股" pos="n" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="他" pos="r" ne="O" />
+                <word id="18" cont="敢" pos="v" ne="O" />
+                <word id="19" cont="上市" pos="v" ne="O" />
+                <word id="20" cont="吗" pos="u" ne="O" />
+                <word id="21" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="26">
+            <sent id="0" cont="别迷惑人了，什么鸟高管了！">
+                <word id="0" cont="别" pos="d" ne="O" />
+                <word id="1" cont="迷惑" pos="v" ne="O" />
+                <word id="2" cont="人" pos="n" ne="O" />
+                <word id="3" cont="了" pos="u" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="什么" pos="r" ne="O" />
+                <word id="6" cont="鸟" pos="n" ne="O" />
+                <word id="7" cont="高" pos="a" ne="O" />
+                <word id="8" cont="管" pos="v" ne="O" />
+                <word id="9" cont="了" pos="u" ne="O" />
+                <word id="10" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="27">
+            <sent id="0" cont="很对。">
+                <word id="0" cont="很" pos="d" ne="O" />
+                <word id="1" cont="对" pos="a" ne="O" />
+                <word id="2" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="28">
+            <sent id="0" cont="见解鲜明，脱裤子，脱老任裤子，看见太多东西了，中国看来不仅有蒙牛伊利的品牌牛奶，还有华为这样独特的电讯品牌，屁服！">
+                <word id="0" cont="见解" pos="n" ne="O" />
+                <word id="1" cont="鲜明" pos="a" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="脱" pos="v" ne="O" />
+                <word id="4" cont="裤子" pos="n" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="脱" pos="v" ne="O" />
+                <word id="7" cont="老" pos="a" ne="O" />
+                <word id="8" cont="任" pos="v" ne="O" />
+                <word id="9" cont="裤子" pos="n" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="看见" pos="v" ne="O" />
+                <word id="12" cont="太" pos="d" ne="O" />
+                <word id="13" cont="多" pos="a" ne="O" />
+                <word id="14" cont="东西" pos="n" ne="O" />
+                <word id="15" cont="了" pos="u" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="18" cont="看来" pos="v" ne="O" />
+                <word id="19" cont="不仅" pos="c" ne="O" />
+                <word id="20" cont="有" pos="v" ne="O" />
+                <word id="21" cont="蒙牛" pos="n" ne="O" />
+                <word id="22" cont="伊利" pos="nz" ne="S-Nz" />
+                <word id="23" cont="的" pos="u" ne="O" />
+                <word id="24" cont="品牌" pos="n" ne="O" />
+                <word id="25" cont="牛奶" pos="n" ne="O" />
+                <word id="26" cont="，" pos="wp" ne="O" />
+                <word id="27" cont="还有" pos="v" ne="O" />
+                <word id="28" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="29" cont="这样" pos="r" ne="O" />
+                <word id="30" cont="独特" pos="a" ne="O" />
+                <word id="31" cont="的" pos="u" ne="O" />
+                <word id="32" cont="电讯" pos="n" ne="O" />
+                <word id="33" cont="品牌" pos="n" ne="O" />
+                <word id="34" cont="，" pos="wp" ne="O" />
+                <word id="35" cont="屁服" pos="n" ne="O" />
+                <word id="36" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="29">
+            <sent id="0" cont="只可惜这次终端业务卖不掉了">
+                <word id="0" cont="只" pos="d" ne="O" />
+                <word id="1" cont="可惜" pos="v" ne="O" />
+                <word id="2" cont="这次" pos="r" ne="O" />
+                <word id="3" cont="终端" pos="n" ne="O" />
+                <word id="4" cont="业务" pos="n" ne="O" />
+                <word id="5" cont="卖" pos="v" ne="O" />
+                <word id="6" cont="不" pos="d" ne="O" />
+                <word id="7" cont="掉" pos="v" ne="O" />
+                <word id="8" cont="了" pos="u" ne="O" />
+            </sent>
+        </para>
+        <para id="30">
+            <sent id="0" cont="交的税比富士康的还多。">
+                <word id="0" cont="交" pos="v" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="税" pos="n" ne="O" />
+                <word id="3" cont="比" pos="p" ne="O" />
+                <word id="4" cont="富士康" pos="nh" ne="S-Nh" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="还" pos="d" ne="O" />
+                <word id="7" cont="多" pos="a" ne="O" />
+                <word id="8" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="31">
+            <sent id="0" cont="值得深思的一种模式....在中国大地上的崛起！">
+                <word id="0" cont="值得" pos="v" ne="O" />
+                <word id="1" cont="深思" pos="v" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="一" pos="m" ne="B-Nm" />
+                <word id="4" cont="种" pos="q" ne="E-Nm" />
+                <word id="5" cont="模式...." pos="ws" ne="O" />
+                <word id="6" cont="在" pos="p" ne="O" />
+                <word id="7" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="8" cont="大地" pos="n" ne="O" />
+                <word id="9" cont="上" pos="nd" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="崛起" pos="v" ne="O" />
+                <word id="12" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="32">
+            <sent id="0" cont="支持，移动、电信、联通、网通都倒闭。">
+                <word id="0" cont="支持" pos="v" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="移动" pos="v" ne="O" />
+                <word id="3" cont="、" pos="wp" ne="O" />
+                <word id="4" cont="电信" pos="n" ne="O" />
+                <word id="5" cont="、" pos="wp" ne="O" />
+                <word id="6" cont="联通" pos="v" ne="O" />
+                <word id="7" cont="、" pos="wp" ne="O" />
+                <word id="8" cont="网通" pos="v" ne="O" />
+                <word id="9" cont="都" pos="d" ne="O" />
+                <word id="10" cont="倒闭" pos="v" ne="O" />
+                <word id="11" cont="。" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="，移动、电信、联通、网通都倒闭。">
+                <word id="0" cont="，" pos="wp" ne="O" />
+                <word id="1" cont="移动" pos="v" ne="O" />
+                <word id="2" cont="、" pos="wp" ne="O" />
+                <word id="3" cont="电信" pos="n" ne="O" />
+                <word id="4" cont="、" pos="wp" ne="O" />
+                <word id="5" cont="联通" pos="v" ne="O" />
+                <word id="6" cont="、" pos="wp" ne="O" />
+                <word id="7" cont="网通" pos="v" ne="O" />
+                <word id="8" cont="都" pos="d" ne="O" />
+                <word id="9" cont="倒闭" pos="v" ne="O" />
+                <word id="10" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="33">
+            <sent id="0" cont="笨了吧，走代理啊，外资行贿的手段都从代理走，把自己责任撇干净，的产品都是直销，这就是区别">
+                <word id="0" cont="笨" pos="a" ne="O" />
+                <word id="1" cont="了" pos="u" ne="O" />
+                <word id="2" cont="吧" pos="u" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="走" pos="v" ne="O" />
+                <word id="5" cont="代理" pos="v" ne="O" />
+                <word id="6" cont="啊" pos="u" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="外资" pos="n" ne="O" />
+                <word id="9" cont="行贿" pos="v" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="手段" pos="n" ne="O" />
+                <word id="12" cont="都" pos="d" ne="O" />
+                <word id="13" cont="从" pos="p" ne="O" />
+                <word id="14" cont="代理" pos="v" ne="O" />
+                <word id="15" cont="走" pos="v" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="把" pos="p" ne="O" />
+                <word id="18" cont="自己" pos="r" ne="O" />
+                <word id="19" cont="责任" pos="n" ne="O" />
+                <word id="20" cont="撇" pos="v" ne="O" />
+                <word id="21" cont="干净" pos="a" ne="O" />
+                <word id="22" cont="，" pos="wp" ne="O" />
+                <word id="23" cont="的" pos="u" ne="O" />
+                <word id="24" cont="产品" pos="n" ne="O" />
+                <word id="25" cont="都" pos="d" ne="O" />
+                <word id="26" cont="是" pos="v" ne="O" />
+                <word id="27" cont="直销" pos="v" ne="O" />
+                <word id="28" cont="，" pos="wp" ne="O" />
+                <word id="29" cont="这" pos="r" ne="O" />
+                <word id="30" cont="就" pos="d" ne="O" />
+                <word id="31" cont="是" pos="v" ne="O" />
+                <word id="32" cont="区别" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="34">
+            <sent id="0" cont="华为这样的企业，财务上有很多黑帐吧（贿赂）？">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="这样" pos="r" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="企业" pos="n" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="财务" pos="n" ne="O" />
+                <word id="6" cont="上" pos="nd" ne="O" />
+                <word id="7" cont="有" pos="v" ne="O" />
+                <word id="8" cont="很多" pos="m" ne="O" />
+                <word id="9" cont="黑帐" pos="n" ne="O" />
+                <word id="10" cont="吧" pos="u" ne="O" />
+                <word id="11" cont="（" pos="wp" ne="O" />
+                <word id="12" cont="贿赂" pos="n" ne="O" />
+                <word id="13" cont="）" pos="wp" ne="O" />
+                <word id="14" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="35">
+            <sent id="0" cont="上市他会死的很惨，或者先洗白了才能上市">
+                <word id="0" cont="上市" pos="v" ne="O" />
+                <word id="1" cont="他" pos="r" ne="O" />
+                <word id="2" cont="会" pos="v" ne="O" />
+                <word id="3" cont="死" pos="v" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="很" pos="d" ne="O" />
+                <word id="6" cont="惨" pos="a" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="或者" pos="c" ne="O" />
+                <word id="9" cont="先" pos="d" ne="O" />
+                <word id="10" cont="洗" pos="v" ne="O" />
+                <word id="11" cont="白" pos="a" ne="O" />
+                <word id="12" cont="了" pos="u" ne="O" />
+                <word id="13" cont="才" pos="d" ne="O" />
+                <word id="14" cont="能" pos="v" ne="O" />
+                <word id="15" cont="上市" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="36">
+            <sent id="0" cont="太有眼光了，可以去教mba">
+                <word id="0" cont="太" pos="d" ne="O" />
+                <word id="1" cont="有" pos="v" ne="O" />
+                <word id="2" cont="眼光" pos="n" ne="O" />
+                <word id="3" cont="了" pos="u" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="可以" pos="v" ne="O" />
+                <word id="6" cont="去" pos="v" ne="O" />
+                <word id="7" cont="教mba" pos="nz" ne="S-Nz" />
+            </sent>
+        </para>
+        <para id="37">
+            <sent id="0" cont="开玩笑吧，中兴公司公关的费用就不走帐了？">
+                <word id="0" cont="开玩笑" pos="v" ne="O" />
+                <word id="1" cont="吧" pos="u" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="中兴" pos="nz" ne="B-Ni" />
+                <word id="4" cont="公司" pos="n" ne="E-Ni" />
+                <word id="5" cont="公关" pos="n" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="费用" pos="n" ne="O" />
+                <word id="8" cont="就" pos="d" ne="O" />
+                <word id="9" cont="不" pos="d" ne="O" />
+                <word id="10" cont="走" pos="v" ne="O" />
+                <word id="11" cont="帐" pos="n" ne="O" />
+                <word id="12" cont="了" pos="u" ne="O" />
+                <word id="13" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="38">
+            <sent id="0" cont="老美的大的通信公司都有行贿丑闻，中国的电信高管去欧美旅游消费，这些费用别人怎么走帐的，还不一样走帐。">
+                <word id="0" cont="老美" pos="nh" ne="S-Nh" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="大" pos="a" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="通信" pos="v" ne="O" />
+                <word id="5" cont="公司" pos="n" ne="O" />
+                <word id="6" cont="都" pos="d" ne="O" />
+                <word id="7" cont="有" pos="v" ne="O" />
+                <word id="8" cont="行贿" pos="v" ne="O" />
+                <word id="9" cont="丑闻" pos="n" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="12" cont="的" pos="u" ne="O" />
+                <word id="13" cont="电信" pos="n" ne="O" />
+                <word id="14" cont="高管" pos="nh" ne="S-Nh" />
+                <word id="15" cont="去" pos="v" ne="O" />
+                <word id="16" cont="欧" pos="j" ne="S-Ns" />
+                <word id="17" cont="美" pos="j" ne="S-Ns" />
+                <word id="18" cont="旅游" pos="v" ne="O" />
+                <word id="19" cont="消费" pos="v" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="这些" pos="r" ne="O" />
+                <word id="22" cont="费用" pos="n" ne="O" />
+                <word id="23" cont="别人" pos="r" ne="O" />
+                <word id="24" cont="怎么" pos="r" ne="O" />
+                <word id="25" cont="走帐" pos="v" ne="O" />
+                <word id="26" cont="的" pos="u" ne="O" />
+                <word id="27" cont="，" pos="wp" ne="O" />
+                <word id="28" cont="还" pos="d" ne="O" />
+                <word id="29" cont="不" pos="d" ne="O" />
+                <word id="30" cont="一样" pos="a" ne="O" />
+                <word id="31" cont="走帐" pos="v" ne="O" />
+                <word id="32" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="39">
+            <sent id="0" cont="唉，以中国这样的地方，那个电信设备商敢说没有见不得光的事情。">
+                <word id="0" cont="唉" pos="e" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="以" pos="p" ne="O" />
+                <word id="3" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="4" cont="这样" pos="r" ne="O" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="地方" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="那个" pos="r" ne="O" />
+                <word id="9" cont="电信" pos="n" ne="O" />
+                <word id="10" cont="设备" pos="n" ne="O" />
+                <word id="11" cont="商" pos="n" ne="O" />
+                <word id="12" cont="敢" pos="v" ne="O" />
+                <word id="13" cont="说" pos="v" ne="O" />
+                <word id="14" cont="没有" pos="d" ne="O" />
+                <word id="15" cont="见" pos="v" ne="O" />
+                <word id="16" cont="不得" pos="v" ne="O" />
+                <word id="17" cont="光" pos="a" ne="O" />
+                <word id="18" cont="的" pos="u" ne="O" />
+                <word id="19" cont="事情" pos="n" ne="O" />
+                <word id="20" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="40">
+            <sent id="0" cont="就算是国际巨头不一样中招，西门子，朗讯够牛了吧，不一样行贿。">
+                <word id="0" cont="就" pos="d" ne="O" />
+                <word id="1" cont="算是" pos="v" ne="O" />
+                <word id="2" cont="国际" pos="n" ne="O" />
+                <word id="3" cont="巨头" pos="n" ne="O" />
+                <word id="4" cont="不" pos="d" ne="O" />
+                <word id="5" cont="一样" pos="a" ne="O" />
+                <word id="6" cont="中" pos="nd" ne="O" />
+                <word id="7" cont="招" pos="v" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="西门子" pos="nz" ne="S-Nz" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="朗讯" pos="nz" ne="S-Nz" />
+                <word id="12" cont="够" pos="v" ne="O" />
+                <word id="13" cont="牛" pos="n" ne="O" />
+                <word id="14" cont="了" pos="u" ne="O" />
+                <word id="15" cont="吧" pos="u" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="不" pos="d" ne="O" />
+                <word id="18" cont="一样" pos="a" ne="O" />
+                <word id="19" cont="行贿" pos="v" ne="O" />
+                <word id="20" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="41">
+            <sent id="0" cont="就算是爱立信一样有鬼，只不过没有揭发出来而已。">
+                <word id="0" cont="就" pos="d" ne="O" />
+                <word id="1" cont="算是" pos="v" ne="O" />
+                <word id="2" cont="爱立信" pos="nz" ne="S-Nz" />
+                <word id="3" cont="一样" pos="u" ne="O" />
+                <word id="4" cont="有" pos="v" ne="O" />
+                <word id="5" cont="鬼" pos="n" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="只不过" pos="d" ne="O" />
+                <word id="8" cont="没有" pos="d" ne="O" />
+                <word id="9" cont="揭发" pos="v" ne="O" />
+                <word id="10" cont="出来" pos="v" ne="O" />
+                <word id="11" cont="而已" pos="u" ne="O" />
+                <word id="12" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="42">
+            <sent id="0" cont="投资者是不会看5年甚至7、8年以后的利益的，一旦形势不对，就会回公司政策出手，你看看moto，就是被投资者强行重组，将当前不盈利的部门拆分，图的就是短期股票的上涨，谁知卖出的部门过一两年反而盈利了，譬如飞思卡尔。">
+                <word id="0" cont="投资者" pos="n" ne="O" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="不" pos="d" ne="O" />
+                <word id="3" cont="会" pos="v" ne="O" />
+                <word id="4" cont="看" pos="v" ne="O" />
+                <word id="5" cont="5" pos="m" ne="B-Nm" />
+                <word id="6" cont="年" pos="q" ne="E-Nm" />
+                <word id="7" cont="甚至" pos="d" ne="O" />
+                <word id="8" cont="7" pos="m" ne="S-Nm" />
+                <word id="9" cont="、" pos="wp" ne="O" />
+                <word id="10" cont="8年" pos="m" ne="S-Nm" />
+                <word id="11" cont="以后" pos="nd" ne="O" />
+                <word id="12" cont="的" pos="u" ne="O" />
+                <word id="13" cont="利益" pos="n" ne="O" />
+                <word id="14" cont="的" pos="u" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="一旦" pos="d" ne="O" />
+                <word id="17" cont="形势" pos="n" ne="O" />
+                <word id="18" cont="不对" pos="a" ne="O" />
+                <word id="19" cont="，" pos="wp" ne="O" />
+                <word id="20" cont="就" pos="d" ne="O" />
+                <word id="21" cont="会" pos="v" ne="O" />
+                <word id="22" cont="回" pos="v" ne="O" />
+                <word id="23" cont="公司" pos="n" ne="O" />
+                <word id="24" cont="政策" pos="n" ne="O" />
+                <word id="25" cont="出手" pos="v" ne="O" />
+                <word id="26" cont="，" pos="wp" ne="O" />
+                <word id="27" cont="你" pos="r" ne="O" />
+                <word id="28" cont="看看" pos="v" ne="O" />
+                <word id="29" cont="moto" pos="ws" ne="O" />
+                <word id="30" cont="，" pos="wp" ne="O" />
+                <word id="31" cont="就" pos="d" ne="O" />
+                <word id="32" cont="是" pos="v" ne="O" />
+                <word id="33" cont="被" pos="p" ne="O" />
+                <word id="34" cont="投资者" pos="n" ne="O" />
+                <word id="35" cont="强行" pos="d" ne="O" />
+                <word id="36" cont="重组" pos="v" ne="O" />
+                <word id="37" cont="，" pos="wp" ne="O" />
+                <word id="38" cont="将" pos="p" ne="O" />
+                <word id="39" cont="当前" pos="nt" ne="O" />
+                <word id="40" cont="不" pos="d" ne="O" />
+                <word id="41" cont="盈利" pos="v" ne="O" />
+                <word id="42" cont="的" pos="u" ne="O" />
+                <word id="43" cont="部门" pos="n" ne="O" />
+                <word id="44" cont="拆" pos="v" ne="O" />
+                <word id="45" cont="分" pos="v" ne="O" />
+                <word id="46" cont="，" pos="wp" ne="O" />
+                <word id="47" cont="图" pos="n" ne="O" />
+                <word id="48" cont="的" pos="u" ne="O" />
+                <word id="49" cont="就" pos="d" ne="O" />
+                <word id="50" cont="是" pos="v" ne="O" />
+                <word id="51" cont="短期" pos="b" ne="O" />
+                <word id="52" cont="股票" pos="n" ne="O" />
+                <word id="53" cont="的" pos="u" ne="O" />
+                <word id="54" cont="上涨" pos="v" ne="O" />
+                <word id="55" cont="，" pos="wp" ne="O" />
+                <word id="56" cont="谁知" pos="v" ne="O" />
+                <word id="57" cont="卖" pos="v" ne="O" />
+                <word id="58" cont="出" pos="v" ne="O" />
+                <word id="59" cont="的" pos="u" ne="O" />
+                <word id="60" cont="部门" pos="n" ne="O" />
+                <word id="61" cont="过" pos="v" ne="O" />
+                <word id="62" cont="一两" pos="m" ne="B-Nm" />
+                <word id="63" cont="年" pos="q" ne="E-Nm" />
+                <word id="64" cont="反而" pos="d" ne="O" />
+                <word id="65" cont="盈利" pos="v" ne="O" />
+                <word id="66" cont="了" pos="u" ne="O" />
+                <word id="67" cont="，" pos="wp" ne="O" />
+                <word id="68" cont="譬如" pos="v" ne="O" />
+                <word id="69" cont="飞思" pos="v" ne="O" />
+                <word id="70" cont="卡尔" pos="nz" ne="S-Nz" />
+                <word id="71" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="43">
+            <sent id="0" cont="令的moto反而失去了盈利来源。">
+                <word id="0" cont="令" pos="v" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="moto反而" pos="ws" ne="O" />
+                <word id="3" cont="失去" pos="v" ne="O" />
+                <word id="4" cont="了" pos="u" ne="O" />
+                <word id="5" cont="盈利" pos="v" ne="O" />
+                <word id="6" cont="来源" pos="n" ne="O" />
+                <word id="7" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="44">
+            <sent id="0" cont="任总，我真的由衷佩服你，你的远见胆识非一般人能比，希望华为能够永久保持年轻的生命力。">
+                <word id="0" cont="任" pos="v" ne="O" />
+                <word id="1" cont="总" pos="b" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="我" pos="r" ne="O" />
+                <word id="4" cont="真的" pos="d" ne="O" />
+                <word id="5" cont="由衷" pos="d" ne="O" />
+                <word id="6" cont="佩服" pos="v" ne="O" />
+                <word id="7" cont="你" pos="r" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="你" pos="r" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="远见" pos="n" ne="O" />
+                <word id="12" cont="胆识" pos="n" ne="O" />
+                <word id="13" cont="非" pos="h" ne="O" />
+                <word id="14" cont="一般" pos="a" ne="O" />
+                <word id="15" cont="人" pos="n" ne="O" />
+                <word id="16" cont="能" pos="v" ne="O" />
+                <word id="17" cont="比" pos="v" ne="O" />
+                <word id="18" cont="，" pos="wp" ne="O" />
+                <word id="19" cont="希望" pos="v" ne="O" />
+                <word id="20" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="21" cont="能够" pos="v" ne="O" />
+                <word id="22" cont="永久" pos="d" ne="O" />
+                <word id="23" cont="保持" pos="v" ne="O" />
+                <word id="24" cont="年轻" pos="a" ne="O" />
+                <word id="25" cont="的" pos="u" ne="O" />
+                <word id="26" cont="生命力" pos="n" ne="O" />
+                <word id="27" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="45">
+            <sent id="0" cont="除了依靠垄断的公司，中国还有几个可以在国际上拿出来的公司。">
+                <word id="0" cont="除了" pos="p" ne="O" />
+                <word id="1" cont="依靠" pos="v" ne="O" />
+                <word id="2" cont="垄断" pos="v" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="公司" pos="n" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="7" cont="还有" pos="v" ne="O" />
+                <word id="8" cont="几" pos="m" ne="O" />
+                <word id="9" cont="个" pos="q" ne="O" />
+                <word id="10" cont="可以" pos="v" ne="O" />
+                <word id="11" cont="在" pos="p" ne="O" />
+                <word id="12" cont="国际" pos="n" ne="O" />
+                <word id="13" cont="上" pos="nd" ne="O" />
+                <word id="14" cont="拿" pos="v" ne="O" />
+                <word id="15" cont="出来" pos="v" ne="O" />
+                <word id="16" cont="的" pos="u" ne="O" />
+                <word id="17" cont="公司" pos="n" ne="O" />
+                <word id="18" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="46">
+            <sent id="0" cont="伟大是腐败的代名词，我就不用了。">
+                <word id="0" cont="伟大" pos="a" ne="O" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="腐败" pos="a" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="代名词" pos="n" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="我" pos="r" ne="O" />
+                <word id="7" cont="就" pos="d" ne="O" />
+                <word id="8" cont="不" pos="d" ne="O" />
+                <word id="9" cont="用" pos="v" ne="O" />
+                <word id="10" cont="了" pos="u" ne="O" />
+                <word id="11" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="47">
+            <sent id="0" cont="任正非是真正个中国人，不是汉奸。">
+                <word id="0" cont="任正非" pos="nh" ne="S-Nh" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="真正" pos="b" ne="O" />
+                <word id="3" cont="个" pos="q" ne="O" />
+                <word id="4" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="5" cont="人" pos="n" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="不" pos="d" ne="O" />
+                <word id="8" cont="是" pos="v" ne="O" />
+                <word id="9" cont="汉奸" pos="n" ne="O" />
+                <word id="10" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="48">
+            <sent id="0" cont="其实上市公司就是典型的资本主义?">
+                <word id="0" cont="其实" pos="d" ne="O" />
+                <word id="1" cont="上市" pos="v" ne="O" />
+                <word id="2" cont="公司" pos="n" ne="O" />
+                <word id="3" cont="就" pos="d" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="典型" pos="a" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="资本主义" pos="n" ne="O" />
+                <word id="8" cont="?" pos="i" ne="O" />
+            </sent>
+            <sent id="1" cont="?">
+                <word id="0" cont="?" pos="nh" ne="O" />
+            </sent>
+            <sent id="2" cont="必须要赚钱，赚更多的钱。">
+                <word id="0" cont="必须" pos="d" ne="O" />
+                <word id="1" cont="要" pos="v" ne="O" />
+                <word id="2" cont="赚钱" pos="v" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="赚" pos="v" ne="O" />
+                <word id="5" cont="更" pos="d" ne="O" />
+                <word id="6" cont="多" pos="a" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="钱" pos="n" ne="O" />
+                <word id="9" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="49">
+            <sent id="0" cont="我觉的做实业不是做服务业和金融不要老想上市圈钱问题是在你的钱够用不够用够你的企业发展用吗如果企业发展不需要你上市圈钱你非上市干什么人们老是看到圈钱看不到风险">
+                <word id="0" cont="我" pos="r" ne="O" />
+                <word id="1" cont="觉" pos="v" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="做" pos="v" ne="O" />
+                <word id="4" cont="实业" pos="n" ne="O" />
+                <word id="5" cont="不" pos="d" ne="O" />
+                <word id="6" cont="是" pos="v" ne="O" />
+                <word id="7" cont="做" pos="v" ne="O" />
+                <word id="8" cont="服务业" pos="n" ne="O" />
+                <word id="9" cont="和" pos="c" ne="O" />
+                <word id="10" cont="金融" pos="n" ne="O" />
+                <word id="11" cont="不要" pos="d" ne="O" />
+                <word id="12" cont="老" pos="a" ne="O" />
+                <word id="13" cont="想" pos="v" ne="O" />
+                <word id="14" cont="上市" pos="v" ne="O" />
+                <word id="15" cont="圈" pos="v" ne="O" />
+                <word id="16" cont="钱" pos="n" ne="O" />
+                <word id="17" cont="问题" pos="n" ne="O" />
+                <word id="18" cont="是" pos="v" ne="O" />
+                <word id="19" cont="在" pos="p" ne="O" />
+                <word id="20" cont="你" pos="r" ne="O" />
+                <word id="21" cont="的" pos="u" ne="O" />
+                <word id="22" cont="钱" pos="n" ne="O" />
+                <word id="23" cont="够" pos="v" ne="O" />
+                <word id="24" cont="用" pos="v" ne="O" />
+                <word id="25" cont="不" pos="d" ne="O" />
+                <word id="26" cont="够" pos="v" ne="O" />
+                <word id="27" cont="用" pos="p" ne="O" />
+                <word id="28" cont="够" pos="v" ne="O" />
+                <word id="29" cont="你" pos="r" ne="O" />
+                <word id="30" cont="的" pos="u" ne="O" />
+                <word id="31" cont="企业" pos="n" ne="O" />
+                <word id="32" cont="发展" pos="v" ne="O" />
+                <word id="33" cont="用" pos="p" ne="O" />
+                <word id="34" cont="吗" pos="u" ne="O" />
+                <word id="35" cont="如果" pos="c" ne="O" />
+                <word id="36" cont="企业" pos="n" ne="O" />
+                <word id="37" cont="发展" pos="v" ne="O" />
+                <word id="38" cont="不" pos="d" ne="O" />
+                <word id="39" cont="需要" pos="v" ne="O" />
+                <word id="40" cont="你" pos="r" ne="O" />
+                <word id="41" cont="上市" pos="v" ne="O" />
+                <word id="42" cont="圈" pos="v" ne="O" />
+                <word id="43" cont="钱" pos="n" ne="O" />
+                <word id="44" cont="你" pos="r" ne="O" />
+                <word id="45" cont="非" pos="d" ne="O" />
+                <word id="46" cont="上市" pos="v" ne="O" />
+                <word id="47" cont="干" pos="v" ne="O" />
+                <word id="48" cont="什么" pos="r" ne="O" />
+                <word id="49" cont="人们" pos="n" ne="O" />
+                <word id="50" cont="老是" pos="d" ne="O" />
+                <word id="51" cont="看到" pos="v" ne="O" />
+                <word id="52" cont="圈" pos="v" ne="O" />
+                <word id="53" cont="钱" pos="n" ne="O" />
+                <word id="54" cont="看不到" pos="v" ne="O" />
+                <word id="55" cont="风险" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="50">
+            <sent id="0" cont="华为公司和员工每年纳税少吗？">
+                <word id="0" cont="华为" pos="nz" ne="B-Ni" />
+                <word id="1" cont="公司" pos="n" ne="E-Ni" />
+                <word id="2" cont="和" pos="c" ne="O" />
+                <word id="3" cont="员工" pos="n" ne="O" />
+                <word id="4" cont="每年" pos="r" ne="O" />
+                <word id="5" cont="纳税" pos="v" ne="O" />
+                <word id="6" cont="少" pos="a" ne="O" />
+                <word id="7" cont="吗" pos="u" ne="O" />
+                <word id="8" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="51">
+            <sent id="0" cont="解决了八万人的高薪就业，还少吗？">
+                <word id="0" cont="解决" pos="v" ne="O" />
+                <word id="1" cont="了" pos="u" ne="O" />
+                <word id="2" cont="八万" pos="m" ne="S-Nm" />
+                <word id="3" cont="人" pos="n" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="高薪" pos="n" ne="O" />
+                <word id="6" cont="就业" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="还" pos="d" ne="O" />
+                <word id="9" cont="少" pos="a" ne="O" />
+                <word id="10" cont="吗" pos="u" ne="O" />
+                <word id="11" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="52">
+            <sent id="0" cont="华为设备直接把电信运营成本降下来，简接降低了用户通讯资费！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="设备" pos="n" ne="O" />
+                <word id="2" cont="直接" pos="a" ne="O" />
+                <word id="3" cont="把" pos="p" ne="O" />
+                <word id="4" cont="电信" pos="n" ne="O" />
+                <word id="5" cont="运营" pos="v" ne="O" />
+                <word id="6" cont="成本" pos="n" ne="O" />
+                <word id="7" cont="降" pos="v" ne="O" />
+                <word id="8" cont="下来" pos="v" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="简接" pos="v" ne="O" />
+                <word id="11" cont="降低" pos="v" ne="O" />
+                <word id="12" cont="了" pos="u" ne="O" />
+                <word id="13" cont="用户" pos="n" ne="O" />
+                <word id="14" cont="通讯" pos="n" ne="O" />
+                <word id="15" cont="资费" pos="n" ne="O" />
+                <word id="16" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="53">
+            <sent id="0" cont="所有这些难道不是对社会的贡献？">
+                <word id="0" cont="所有" pos="b" ne="O" />
+                <word id="1" cont="这些" pos="r" ne="O" />
+                <word id="2" cont="难道" pos="d" ne="O" />
+                <word id="3" cont="不" pos="d" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="对" pos="p" ne="O" />
+                <word id="6" cont="社会" pos="n" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="贡献" pos="n" ne="O" />
+                <word id="9" cont="？" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="54">
+            <sent id="0" cont="分析得不错，呵呵">
+                <word id="0" cont="分析" pos="v" ne="O" />
+                <word id="1" cont="得" pos="u" ne="O" />
+                <word id="2" cont="不错" pos="a" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="呵呵" pos="e" ne="O" />
+            </sent>
+        </para>
+        <para id="55">
+            <sent id="0" cont="因为你傻">
+                <word id="0" cont="因为" pos="c" ne="O" />
+                <word id="1" cont="你" pos="r" ne="O" />
+                <word id="2" cont="傻" pos="a" ne="O" />
+            </sent>
+        </para>
+        <para id="56">
+            <sent id="0" cont="傻子，是一半的终端业务。">
+                <word id="0" cont="傻子" pos="n" ne="O" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="一半" pos="m" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="终端" pos="n" ne="O" />
+                <word id="6" cont="业务" pos="n" ne="O" />
+                <word id="7" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="57">
+            <sent id="0" cont="你小子可能不知道，华为终端今年中国第一了吧？">
+                <word id="0" cont="你" pos="r" ne="O" />
+                <word id="1" cont="小子" pos="n" ne="O" />
+                <word id="2" cont="可能" pos="v" ne="O" />
+                <word id="3" cont="不" pos="d" ne="O" />
+                <word id="4" cont="知道" pos="v" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="7" cont="终端" pos="n" ne="O" />
+                <word id="8" cont="今年" pos="nt" ne="O" />
+                <word id="9" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="10" cont="第一" pos="m" ne="S-Nm" />
+                <word id="11" cont="了" pos="u" ne="O" />
+                <word id="12" cont="吧" pos="u" ne="O" />
+                <word id="13" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="58">
+            <sent id="0" cont="这世界上似是而非的观点太多，大家要有自己独立的思考，关于这位华为前高层的观点，可能在特定的时间，特定的区域是对的，但绝对不是一个合理的做法，如果不上市对公司的发展有利，全世界这么多上市公司不都是SB了？">
+                <word id="0" cont="这" pos="r" ne="O" />
+                <word id="1" cont="世界" pos="n" ne="O" />
+                <word id="2" cont="上" pos="nd" ne="O" />
+                <word id="3" cont="似是而非" pos="i" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="观点" pos="n" ne="O" />
+                <word id="6" cont="太" pos="d" ne="O" />
+                <word id="7" cont="多" pos="a" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="大家" pos="r" ne="O" />
+                <word id="10" cont="要" pos="v" ne="O" />
+                <word id="11" cont="有" pos="v" ne="O" />
+                <word id="12" cont="自己" pos="r" ne="O" />
+                <word id="13" cont="独立" pos="a" ne="O" />
+                <word id="14" cont="的" pos="u" ne="O" />
+                <word id="15" cont="思考" pos="v" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="关于" pos="p" ne="O" />
+                <word id="18" cont="这" pos="r" ne="O" />
+                <word id="19" cont="位" pos="q" ne="O" />
+                <word id="20" cont="华" pos="n" ne="O" />
+                <word id="21" cont="为" pos="v" ne="O" />
+                <word id="22" cont="前" pos="nd" ne="O" />
+                <word id="23" cont="高层" pos="n" ne="O" />
+                <word id="24" cont="的" pos="u" ne="O" />
+                <word id="25" cont="观点" pos="n" ne="O" />
+                <word id="26" cont="，" pos="wp" ne="O" />
+                <word id="27" cont="可能" pos="v" ne="O" />
+                <word id="28" cont="在" pos="p" ne="O" />
+                <word id="29" cont="特定" pos="b" ne="O" />
+                <word id="30" cont="的" pos="u" ne="O" />
+                <word id="31" cont="时间" pos="n" ne="O" />
+                <word id="32" cont="，" pos="wp" ne="O" />
+                <word id="33" cont="特定" pos="b" ne="O" />
+                <word id="34" cont="的" pos="u" ne="O" />
+                <word id="35" cont="区域" pos="n" ne="O" />
+                <word id="36" cont="是" pos="v" ne="O" />
+                <word id="37" cont="对" pos="a" ne="O" />
+                <word id="38" cont="的" pos="u" ne="O" />
+                <word id="39" cont="，" pos="wp" ne="O" />
+                <word id="40" cont="但" pos="c" ne="O" />
+                <word id="41" cont="绝对" pos="d" ne="O" />
+                <word id="42" cont="不" pos="d" ne="O" />
+                <word id="43" cont="是" pos="v" ne="O" />
+                <word id="44" cont="一个" pos="m" ne="O" />
+                <word id="45" cont="合理" pos="a" ne="O" />
+                <word id="46" cont="的" pos="u" ne="O" />
+                <word id="47" cont="做法" pos="n" ne="O" />
+                <word id="48" cont="，" pos="wp" ne="O" />
+                <word id="49" cont="如果" pos="c" ne="O" />
+                <word id="50" cont="不" pos="d" ne="O" />
+                <word id="51" cont="上市" pos="v" ne="O" />
+                <word id="52" cont="对" pos="p" ne="O" />
+                <word id="53" cont="公司" pos="n" ne="O" />
+                <word id="54" cont="的" pos="u" ne="O" />
+                <word id="55" cont="发展" pos="v" ne="O" />
+                <word id="56" cont="有利" pos="a" ne="O" />
+                <word id="57" cont="，" pos="wp" ne="O" />
+                <word id="58" cont="全世界" pos="n" ne="O" />
+                <word id="59" cont="这么" pos="r" ne="O" />
+                <word id="60" cont="多" pos="a" ne="O" />
+                <word id="61" cont="上市" pos="v" ne="O" />
+                <word id="62" cont="公司" pos="n" ne="O" />
+                <word id="63" cont="不" pos="d" ne="O" />
+                <word id="64" cont="都" pos="d" ne="O" />
+                <word id="65" cont="是" pos="v" ne="O" />
+                <word id="66" cont="SB" pos="ws" ne="O" />
+                <word id="67" cont="了" pos="u" ne="O" />
+                <word id="68" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="59">
+            <sent id="0" cont="上市的微软公司的千万富豪多了去，也不见人家就不能发展了，所以我是不认同他的观点的.">
+                <word id="0" cont="上市" pos="v" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="微软" pos="ni" ne="B-Ni" />
+                <word id="3" cont="公司" pos="n" ne="E-Ni" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="千万" pos="m" ne="S-Nm" />
+                <word id="6" cont="富豪" pos="n" ne="O" />
+                <word id="7" cont="多" pos="v" ne="O" />
+                <word id="8" cont="了" pos="u" ne="O" />
+                <word id="9" cont="去" pos="v" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="也" pos="d" ne="O" />
+                <word id="12" cont="不见" pos="v" ne="O" />
+                <word id="13" cont="人家" pos="r" ne="O" />
+                <word id="14" cont="就" pos="d" ne="O" />
+                <word id="15" cont="不" pos="d" ne="O" />
+                <word id="16" cont="能" pos="v" ne="O" />
+                <word id="17" cont="发展" pos="v" ne="O" />
+                <word id="18" cont="了" pos="u" ne="O" />
+                <word id="19" cont="，" pos="wp" ne="O" />
+                <word id="20" cont="所以" pos="c" ne="O" />
+                <word id="21" cont="我" pos="r" ne="O" />
+                <word id="22" cont="是" pos="v" ne="O" />
+                <word id="23" cont="不" pos="d" ne="O" />
+                <word id="24" cont="认同" pos="v" ne="O" />
+                <word id="25" cont="他" pos="r" ne="O" />
+                <word id="26" cont="的" pos="u" ne="O" />
+                <word id="27" cont="观点" pos="n" ne="O" />
+                <word id="28" cont="的." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="60">
+            <sent id="0" cont="在华为做销售都知道，行贿是必须的，但公司担心你知道太多闹出事来，干脆干一段时间就干掉一批销售人员">
+                <word id="0" cont="在" pos="p" ne="O" />
+                <word id="1" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="2" cont="做" pos="v" ne="O" />
+                <word id="3" cont="销售" pos="v" ne="O" />
+                <word id="4" cont="都" pos="d" ne="O" />
+                <word id="5" cont="知道" pos="v" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="行贿" pos="v" ne="O" />
+                <word id="8" cont="是" pos="v" ne="O" />
+                <word id="9" cont="必须" pos="d" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="但" pos="c" ne="O" />
+                <word id="13" cont="公司" pos="n" ne="O" />
+                <word id="14" cont="担心" pos="v" ne="O" />
+                <word id="15" cont="你" pos="r" ne="O" />
+                <word id="16" cont="知道" pos="v" ne="O" />
+                <word id="17" cont="太" pos="d" ne="O" />
+                <word id="18" cont="多" pos="a" ne="O" />
+                <word id="19" cont="闹" pos="v" ne="O" />
+                <word id="20" cont="出事" pos="v" ne="O" />
+                <word id="21" cont="来" pos="v" ne="O" />
+                <word id="22" cont="，" pos="wp" ne="O" />
+                <word id="23" cont="干脆" pos="d" ne="O" />
+                <word id="24" cont="干" pos="v" ne="O" />
+                <word id="25" cont="一" pos="m" ne="B-Nm" />
+                <word id="26" cont="段" pos="q" ne="E-Nm" />
+                <word id="27" cont="时间" pos="n" ne="O" />
+                <word id="28" cont="就" pos="d" ne="O" />
+                <word id="29" cont="干" pos="v" ne="O" />
+                <word id="30" cont="掉" pos="v" ne="O" />
+                <word id="31" cont="一" pos="m" ne="B-Nm" />
+                <word id="32" cont="批" pos="q" ne="E-Nm" />
+                <word id="33" cont="销售" pos="v" ne="O" />
+                <word id="34" cont="人员" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="61">
+            <sent id="0" cont="深圳的人都知道，任正非要是想跳楼的话，深圳招商银行和建设银行的行长要跑去接住才行。">
+                <word id="0" cont="深圳" pos="ns" ne="S-Ns" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="人" pos="n" ne="O" />
+                <word id="3" cont="都" pos="d" ne="O" />
+                <word id="4" cont="知道" pos="v" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="7" cont="非" pos="d" ne="O" />
+                <word id="8" cont="要是" pos="c" ne="O" />
+                <word id="9" cont="想" pos="v" ne="O" />
+                <word id="10" cont="跳" pos="v" ne="O" />
+                <word id="11" cont="楼" pos="n" ne="O" />
+                <word id="12" cont="的话" pos="u" ne="O" />
+                <word id="13" cont="，" pos="wp" ne="O" />
+                <word id="14" cont="深圳" pos="ns" ne="B-Ni" />
+                <word id="15" cont="招商" pos="v" ne="I-Ni" />
+                <word id="16" cont="银行" pos="n" ne="E-Ni" />
+                <word id="17" cont="和" pos="c" ne="O" />
+                <word id="18" cont="建设" pos="v" ne="O" />
+                <word id="19" cont="银行" pos="n" ne="O" />
+                <word id="20" cont="的" pos="u" ne="O" />
+                <word id="21" cont="行长" pos="n" ne="O" />
+                <word id="22" cont="要" pos="v" ne="O" />
+                <word id="23" cont="跑" pos="v" ne="O" />
+                <word id="24" cont="去" pos="v" ne="O" />
+                <word id="25" cont="接" pos="v" ne="O" />
+                <word id="26" cont="住" pos="v" ne="O" />
+                <word id="27" cont="才" pos="d" ne="O" />
+                <word id="28" cont="行" pos="a" ne="O" />
+                <word id="29" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="62">
+            <sent id="0" cont="华为的股权构成，可能任总都说不清楚了，太复杂。">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="股权" pos="n" ne="O" />
+                <word id="3" cont="构成" pos="v" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="可能" pos="v" ne="O" />
+                <word id="6" cont="任" pos="v" ne="O" />
+                <word id="7" cont="总" pos="b" ne="O" />
+                <word id="8" cont="都" pos="d" ne="O" />
+                <word id="9" cont="说" pos="v" ne="O" />
+                <word id="10" cont="不" pos="d" ne="O" />
+                <word id="11" cont="清楚" pos="a" ne="O" />
+                <word id="12" cont="了" pos="u" ne="O" />
+                <word id="13" cont="，" pos="wp" ne="O" />
+                <word id="14" cont="太" pos="d" ne="O" />
+                <word id="15" cont="复杂" pos="a" ne="O" />
+                <word id="16" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="63">
+            <sent id="0" cont="找了两个知名财务机构，都没审计清楚。">
+                <word id="0" cont="找" pos="v" ne="O" />
+                <word id="1" cont="了" pos="u" ne="O" />
+                <word id="2" cont="两" pos="m" ne="B-Nm" />
+                <word id="3" cont="个" pos="q" ne="E-Nm" />
+                <word id="4" cont="知名" pos="a" ne="O" />
+                <word id="5" cont="财务" pos="n" ne="O" />
+                <word id="6" cont="机构" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="都" pos="d" ne="O" />
+                <word id="9" cont="没" pos="d" ne="O" />
+                <word id="10" cont="审计" pos="v" ne="O" />
+                <word id="11" cont="清楚" pos="a" ne="O" />
+                <word id="12" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="64">
+            <sent id="0" cont="上市后，不仅存在公司的控制权的问题，财务的灵活性问题，还有业绩、财务和资产的公开化了。">
+                <word id="0" cont="上市" pos="v" ne="O" />
+                <word id="1" cont="后" pos="nd" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="不仅" pos="c" ne="O" />
+                <word id="4" cont="存在" pos="v" ne="O" />
+                <word id="5" cont="公司" pos="n" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="控制权" pos="n" ne="O" />
+                <word id="8" cont="的" pos="u" ne="O" />
+                <word id="9" cont="问题" pos="n" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="财务" pos="n" ne="O" />
+                <word id="12" cont="的" pos="u" ne="O" />
+                <word id="13" cont="灵活性" pos="n" ne="O" />
+                <word id="14" cont="问题" pos="n" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="还有" pos="v" ne="O" />
+                <word id="17" cont="业绩" pos="n" ne="O" />
+                <word id="18" cont="、" pos="wp" ne="O" />
+                <word id="19" cont="财务" pos="n" ne="O" />
+                <word id="20" cont="和" pos="c" ne="O" />
+                <word id="21" cont="资产" pos="n" ne="O" />
+                <word id="22" cont="的" pos="u" ne="O" />
+                <word id="23" cont="公开化" pos="v" ne="O" />
+                <word id="24" cont="了" pos="u" ne="O" />
+                <word id="25" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="65">
+            <sent id="0" cont="华为的资产负债率谁知道？">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="资产负债率" pos="n" ne="O" />
+                <word id="3" cont="谁" pos="r" ne="O" />
+                <word id="4" cont="知道" pos="v" ne="O" />
+                <word id="5" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="66">
+            <sent id="0" cont="呵呵！">
+                <word id="0" cont="呵呵" pos="e" ne="O" />
+                <word id="1" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="67">
+            <sent id="0" cont="还有现在任总是对自己负责，上市后就要对股东负责了。">
+                <word id="0" cont="还有" pos="v" ne="O" />
+                <word id="1" cont="现在" pos="nt" ne="O" />
+                <word id="2" cont="任" pos="v" ne="O" />
+                <word id="3" cont="总是" pos="d" ne="O" />
+                <word id="4" cont="对" pos="p" ne="O" />
+                <word id="5" cont="自己" pos="r" ne="O" />
+                <word id="6" cont="负责" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="上市" pos="v" ne="O" />
+                <word id="9" cont="后" pos="nd" ne="O" />
+                <word id="10" cont="就" pos="d" ne="O" />
+                <word id="11" cont="要" pos="v" ne="O" />
+                <word id="12" cont="对" pos="p" ne="O" />
+                <word id="13" cont="股东" pos="n" ne="O" />
+                <word id="14" cont="负责" pos="v" ne="O" />
+                <word id="15" cont="了" pos="u" ne="O" />
+                <word id="16" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="68">
+            <sent id="0" cont="员工们上市前是追逐香蕉的猴子，上市就成主人了！">
+                <word id="0" cont="员工" pos="n" ne="O" />
+                <word id="1" cont="们" pos="k" ne="O" />
+                <word id="2" cont="上市" pos="v" ne="O" />
+                <word id="3" cont="前" pos="nd" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="追逐" pos="v" ne="O" />
+                <word id="6" cont="香蕉" pos="n" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="猴子" pos="n" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="上市" pos="v" ne="O" />
+                <word id="11" cont="就" pos="d" ne="O" />
+                <word id="12" cont="成" pos="v" ne="O" />
+                <word id="13" cont="主人" pos="n" ne="O" />
+                <word id="14" cont="了" pos="u" ne="O" />
+                <word id="15" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="69">
+            <sent id="0" cont="可是在这样的企业就太糟糕了。">
+                <word id="0" cont="可是" pos="c" ne="O" />
+                <word id="1" cont="在" pos="p" ne="O" />
+                <word id="2" cont="这样" pos="r" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="企业" pos="n" ne="O" />
+                <word id="5" cont="就" pos="d" ne="O" />
+                <word id="6" cont="太" pos="d" ne="O" />
+                <word id="7" cont="糟糕" pos="a" ne="O" />
+                <word id="8" cont="了" pos="u" ne="O" />
+                <word id="9" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="70">
+            <sent id="0" cont="看来华为的兄弟都是心知肚明啊。">
+                <word id="0" cont="看" pos="v" ne="O" />
+                <word id="1" cont="来华为" pos="nh" ne="S-Nh" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="兄弟" pos="n" ne="O" />
+                <word id="4" cont="都" pos="d" ne="O" />
+                <word id="5" cont="是" pos="v" ne="O" />
+                <word id="6" cont="心" pos="n" ne="O" />
+                <word id="7" cont="知" pos="v" ne="O" />
+                <word id="8" cont="肚明" pos="nh" ne="S-Nh" />
+                <word id="9" cont="啊" pos="u" ne="O" />
+                <word id="10" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="71">
+            <sent id="0" cont="哈哈。">
+                <word id="0" cont="哈哈" pos="o" ne="O" />
+                <word id="1" cont="。" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="72">
+            <sent id="0" cont="典型的垃圾观点">
+                <word id="0" cont="典型" pos="a" ne="O" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="垃圾" pos="n" ne="O" />
+                <word id="3" cont="观点" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="73">
+            <sent id="0" cont="作者事后诸葛亮，看人家成功，然后找一堆理论贴上去，无聊。">
+                <word id="0" cont="作者" pos="n" ne="O" />
+                <word id="1" cont="事后" pos="nt" ne="O" />
+                <word id="2" cont="诸葛亮" pos="nh" ne="S-Nh" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="看" pos="v" ne="O" />
+                <word id="5" cont="人家" pos="r" ne="O" />
+                <word id="6" cont="成功" pos="a" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="然后" pos="c" ne="O" />
+                <word id="9" cont="找" pos="v" ne="O" />
+                <word id="10" cont="一" pos="m" ne="B-Nm" />
+                <word id="11" cont="堆" pos="q" ne="E-Nm" />
+                <word id="12" cont="理论" pos="n" ne="O" />
+                <word id="13" cont="贴" pos="v" ne="O" />
+                <word id="14" cont="上去" pos="v" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="无聊" pos="a" ne="O" />
+                <word id="17" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="74">
+            <sent id="0" cont="你看见华为现在成功了，你知道以后会如何？">
+                <word id="0" cont="你" pos="r" ne="O" />
+                <word id="1" cont="看见" pos="v" ne="O" />
+                <word id="2" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="3" cont="现在" pos="nt" ne="O" />
+                <word id="4" cont="成功" pos="a" ne="O" />
+                <word id="5" cont="了" pos="u" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="你" pos="r" ne="O" />
+                <word id="8" cont="知道" pos="v" ne="O" />
+                <word id="9" cont="以后" pos="nd" ne="O" />
+                <word id="10" cont="会" pos="v" ne="O" />
+                <word id="11" cont="如何" pos="r" ne="O" />
+                <word id="12" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="75">
+            <sent id="0" cont="难道北电、摩托没有辉煌过吗？">
+                <word id="0" cont="难道" pos="d" ne="O" />
+                <word id="1" cont="北电" pos="j" ne="O" />
+                <word id="2" cont="、" pos="wp" ne="O" />
+                <word id="3" cont="摩托" pos="n" ne="O" />
+                <word id="4" cont="没有" pos="d" ne="O" />
+                <word id="5" cont="辉煌" pos="a" ne="O" />
+                <word id="6" cont="过" pos="u" ne="O" />
+                <word id="7" cont="吗" pos="u" ne="O" />
+                <word id="8" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="76">
+            <sent id="0" cont="说些无聊的话，大家做通信十几年还不知道中国市场的玩法吗？">
+                <word id="0" cont="说" pos="v" ne="O" />
+                <word id="1" cont="些" pos="q" ne="O" />
+                <word id="2" cont="无聊" pos="a" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="话" pos="n" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="大家" pos="r" ne="O" />
+                <word id="7" cont="做" pos="v" ne="O" />
+                <word id="8" cont="通信" pos="v" ne="O" />
+                <word id="9" cont="十几" pos="m" ne="B-Nm" />
+                <word id="10" cont="年" pos="q" ne="E-Nm" />
+                <word id="11" cont="还" pos="d" ne="O" />
+                <word id="12" cont="不" pos="d" ne="O" />
+                <word id="13" cont="知道" pos="v" ne="O" />
+                <word id="14" cont="中国" pos="ns" ne="B-Ns" />
+                <word id="15" cont="市场" pos="n" ne="E-Ns" />
+                <word id="16" cont="的" pos="u" ne="O" />
+                <word id="17" cont="玩法" pos="n" ne="O" />
+                <word id="18" cont="吗" pos="u" ne="O" />
+                <word id="19" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="77">
+            <sent id="0" cont="实质就是上市后财务监管严格，行贿的钱根本无法入帐，在中国做生意哪一单不涉及行贿受贿？">
+                <word id="0" cont="实质" pos="n" ne="O" />
+                <word id="1" cont="就" pos="d" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="上市" pos="v" ne="O" />
+                <word id="4" cont="后" pos="nd" ne="O" />
+                <word id="5" cont="财务" pos="n" ne="O" />
+                <word id="6" cont="监管" pos="v" ne="O" />
+                <word id="7" cont="严格" pos="a" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="行贿" pos="v" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="钱" pos="n" ne="O" />
+                <word id="12" cont="根本" pos="d" ne="O" />
+                <word id="13" cont="无法" pos="v" ne="O" />
+                <word id="14" cont="入帐" pos="n" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="在" pos="p" ne="O" />
+                <word id="17" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="18" cont="做" pos="v" ne="O" />
+                <word id="19" cont="生意" pos="n" ne="O" />
+                <word id="20" cont="哪" pos="r" ne="O" />
+                <word id="21" cont="一" pos="m" ne="O" />
+                <word id="22" cont="单" pos="d" ne="O" />
+                <word id="23" cont="不" pos="d" ne="O" />
+                <word id="24" cont="涉及" pos="v" ne="O" />
+                <word id="25" cont="行贿" pos="v" ne="O" />
+                <word id="26" cont="受贿" pos="v" ne="O" />
+                <word id="27" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="78">
+            <sent id="0" cont="如果华为早期上市根本无法发展起来，以98年传输市场省际干线和国家八横八纵干线哪里看得到华为的设备，那时华为的主要市场都在县一级，产品没外资的好，又不稳定，靠什么做生意，靠人海战术和行贿，没什么诀窍.">
+                <word id="0" cont="如果" pos="c" ne="O" />
+                <word id="1" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="2" cont="早期" pos="nt" ne="O" />
+                <word id="3" cont="上市" pos="v" ne="O" />
+                <word id="4" cont="根本" pos="d" ne="O" />
+                <word id="5" cont="无法" pos="v" ne="O" />
+                <word id="6" cont="发展" pos="v" ne="O" />
+                <word id="7" cont="起来" pos="v" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="以" pos="p" ne="O" />
+                <word id="10" cont="98年" pos="m" ne="O" />
+                <word id="11" cont="传输" pos="v" ne="O" />
+                <word id="12" cont="市场" pos="n" ne="O" />
+                <word id="13" cont="省际" pos="b" ne="O" />
+                <word id="14" cont="干线" pos="n" ne="O" />
+                <word id="15" cont="和" pos="c" ne="O" />
+                <word id="16" cont="国家" pos="n" ne="O" />
+                <word id="17" cont="八横" pos="j" ne="O" />
+                <word id="18" cont="八" pos="m" ne="S-Nm" />
+                <word id="19" cont="纵" pos="a" ne="O" />
+                <word id="20" cont="干线" pos="n" ne="O" />
+                <word id="21" cont="哪里" pos="r" ne="O" />
+                <word id="22" cont="看" pos="v" ne="O" />
+                <word id="23" cont="得到" pos="v" ne="O" />
+                <word id="24" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="25" cont="的" pos="u" ne="O" />
+                <word id="26" cont="设备" pos="n" ne="O" />
+                <word id="27" cont="，" pos="wp" ne="O" />
+                <word id="28" cont="那时" pos="r" ne="O" />
+                <word id="29" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="30" cont="的" pos="u" ne="O" />
+                <word id="31" cont="主要" pos="b" ne="O" />
+                <word id="32" cont="市场" pos="n" ne="O" />
+                <word id="33" cont="都" pos="d" ne="O" />
+                <word id="34" cont="在" pos="p" ne="O" />
+                <word id="35" cont="县" pos="n" ne="O" />
+                <word id="36" cont="一级" pos="b" ne="O" />
+                <word id="37" cont="，" pos="wp" ne="O" />
+                <word id="38" cont="产品" pos="n" ne="O" />
+                <word id="39" cont="没" pos="v" ne="O" />
+                <word id="40" cont="外资" pos="n" ne="O" />
+                <word id="41" cont="的" pos="u" ne="O" />
+                <word id="42" cont="好" pos="a" ne="O" />
+                <word id="43" cont="，" pos="wp" ne="O" />
+                <word id="44" cont="又" pos="c" ne="O" />
+                <word id="45" cont="不" pos="d" ne="O" />
+                <word id="46" cont="稳定" pos="a" ne="O" />
+                <word id="47" cont="，" pos="wp" ne="O" />
+                <word id="48" cont="靠" pos="p" ne="O" />
+                <word id="49" cont="什么" pos="r" ne="O" />
+                <word id="50" cont="做" pos="v" ne="O" />
+                <word id="51" cont="生意" pos="n" ne="O" />
+                <word id="52" cont="，" pos="wp" ne="O" />
+                <word id="53" cont="靠" pos="p" ne="O" />
+                <word id="54" cont="人海" pos="n" ne="O" />
+                <word id="55" cont="战术" pos="n" ne="O" />
+                <word id="56" cont="和" pos="c" ne="O" />
+                <word id="57" cont="行贿" pos="v" ne="O" />
+                <word id="58" cont="，" pos="wp" ne="O" />
+                <word id="59" cont="没什么" pos="i" ne="O" />
+                <word id="60" cont="诀窍." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="79">
+            <sent id="0" cont="华为模式不见得是个好模式，还需要时间的验证">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="模式" pos="n" ne="O" />
+                <word id="2" cont="不见得" pos="d" ne="O" />
+                <word id="3" cont="是" pos="v" ne="O" />
+                <word id="4" cont="个" pos="q" ne="O" />
+                <word id="5" cont="好" pos="a" ne="O" />
+                <word id="6" cont="模式" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="还" pos="d" ne="O" />
+                <word id="9" cont="需要" pos="v" ne="O" />
+                <word id="10" cont="时间" pos="n" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="验证" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="80">
+            <sent id="0" cont="而且贪污也太多了，什么票都可以拿到华为报销啊，呵呵">
+                <word id="0" cont="而且" pos="c" ne="O" />
+                <word id="1" cont="贪污" pos="v" ne="O" />
+                <word id="2" cont="也" pos="d" ne="O" />
+                <word id="3" cont="太" pos="d" ne="O" />
+                <word id="4" cont="多" pos="a" ne="O" />
+                <word id="5" cont="了" pos="u" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="什么" pos="r" ne="O" />
+                <word id="8" cont="票" pos="n" ne="O" />
+                <word id="9" cont="都" pos="d" ne="O" />
+                <word id="10" cont="可以" pos="v" ne="O" />
+                <word id="11" cont="拿" pos="v" ne="O" />
+                <word id="12" cont="到" pos="v" ne="O" />
+                <word id="13" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="14" cont="报销" pos="v" ne="O" />
+                <word id="15" cont="啊" pos="u" ne="O" />
+                <word id="16" cont="，" pos="wp" ne="O" />
+                <word id="17" cont="呵呵" pos="e" ne="O" />
+            </sent>
+        </para>
+        <para id="81">
+            <sent id="0" cont="最重要的一点是华为的财务很乱，行贿太多，如何通过审计？">
+                <word id="0" cont="最" pos="d" ne="O" />
+                <word id="1" cont="重要" pos="a" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="一" pos="m" ne="B-Nm" />
+                <word id="4" cont="点" pos="q" ne="E-Nm" />
+                <word id="5" cont="是" pos="v" ne="O" />
+                <word id="6" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="财务" pos="n" ne="O" />
+                <word id="9" cont="很" pos="d" ne="O" />
+                <word id="10" cont="乱" pos="a" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="行贿" pos="v" ne="O" />
+                <word id="13" cont="太" pos="d" ne="O" />
+                <word id="14" cont="多" pos="a" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="如何" pos="r" ne="O" />
+                <word id="17" cont="通过" pos="p" ne="O" />
+                <word id="18" cont="审计" pos="v" ne="O" />
+                <word id="19" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="82">
+            <sent id="0" cont="中国的“企业家们”真的应该反思一下上市给企业、员工、乃至整个社会到底带来了什么！">
+                <word id="0" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="“" pos="wp" ne="O" />
+                <word id="3" cont="企业家" pos="n" ne="O" />
+                <word id="4" cont="们" pos="k" ne="O" />
+                <word id="5" cont="”" pos="wp" ne="O" />
+                <word id="6" cont="真" pos="a" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="应该" pos="v" ne="O" />
+                <word id="9" cont="反思" pos="v" ne="O" />
+                <word id="10" cont="一下" pos="m" ne="O" />
+                <word id="11" cont="上市" pos="v" ne="O" />
+                <word id="12" cont="给" pos="p" ne="O" />
+                <word id="13" cont="企业" pos="n" ne="O" />
+                <word id="14" cont="、" pos="wp" ne="O" />
+                <word id="15" cont="员工" pos="n" ne="O" />
+                <word id="16" cont="、" pos="wp" ne="O" />
+                <word id="17" cont="乃至" pos="c" ne="O" />
+                <word id="18" cont="整个" pos="b" ne="O" />
+                <word id="19" cont="社会" pos="n" ne="O" />
+                <word id="20" cont="到底" pos="d" ne="O" />
+                <word id="21" cont="带来" pos="v" ne="O" />
+                <word id="22" cont="了" pos="u" ne="O" />
+                <word id="23" cont="什么" pos="r" ne="O" />
+                <word id="24" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="83">
+            <sent id="0" cont="不管华为是真是假，最起码道理是对的！">
+                <word id="0" cont="不管" pos="c" ne="O" />
+                <word id="1" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="真是" pos="d" ne="O" />
+                <word id="4" cont="假" pos="a" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="最" pos="d" ne="O" />
+                <word id="7" cont="起码" pos="b" ne="O" />
+                <word id="8" cont="道理" pos="n" ne="O" />
+                <word id="9" cont="是" pos="v" ne="O" />
+                <word id="10" cont="对" pos="a" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="84">
+            <sent id="0" cont="分析得太好了，对于我们这些什么都不懂得圈外人是个很好的启发">
+                <word id="0" cont="分析" pos="v" ne="O" />
+                <word id="1" cont="得" pos="u" ne="O" />
+                <word id="2" cont="太" pos="d" ne="O" />
+                <word id="3" cont="好" pos="a" ne="O" />
+                <word id="4" cont="了" pos="u" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="对于" pos="p" ne="O" />
+                <word id="7" cont="我们" pos="r" ne="O" />
+                <word id="8" cont="这些" pos="r" ne="O" />
+                <word id="9" cont="什么" pos="r" ne="O" />
+                <word id="10" cont="都" pos="d" ne="O" />
+                <word id="11" cont="不" pos="d" ne="O" />
+                <word id="12" cont="懂得" pos="v" ne="O" />
+                <word id="13" cont="圈外人" pos="n" ne="O" />
+                <word id="14" cont="是" pos="v" ne="O" />
+                <word id="15" cont="个" pos="q" ne="O" />
+                <word id="16" cont="很" pos="d" ne="O" />
+                <word id="17" cont="好" pos="a" ne="O" />
+                <word id="18" cont="的" pos="u" ne="O" />
+                <word id="19" cont="启发" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="85">
+            <sent id="0" cont="华为真的是因为这个不上市，哈哈，华为...">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="真的" pos="d" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="因为" pos="p" ne="O" />
+                <word id="4" cont="这个" pos="r" ne="O" />
+                <word id="5" cont="不" pos="d" ne="O" />
+                <word id="6" cont="上市" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="哈哈" pos="o" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="华为..." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="86">
+            <sent id="0" cont="那是，中国太少任正飞这样的人了，都象任正飞这么做企业，成不了的很少.">
+                <word id="0" cont="那" pos="r" ne="O" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="4" cont="太" pos="d" ne="O" />
+                <word id="5" cont="少" pos="a" ne="O" />
+                <word id="6" cont="任" pos="v" ne="O" />
+                <word id="7" cont="正飞" pos="nh" ne="S-Nh" />
+                <word id="8" cont="这样" pos="r" ne="O" />
+                <word id="9" cont="的" pos="u" ne="O" />
+                <word id="10" cont="人" pos="n" ne="O" />
+                <word id="11" cont="了" pos="u" ne="O" />
+                <word id="12" cont="，" pos="wp" ne="O" />
+                <word id="13" cont="都" pos="d" ne="O" />
+                <word id="14" cont="象" pos="n" ne="O" />
+                <word id="15" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="16" cont="飞" pos="v" ne="O" />
+                <word id="17" cont="这么" pos="r" ne="O" />
+                <word id="18" cont="做" pos="v" ne="O" />
+                <word id="19" cont="企业" pos="n" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="成" pos="v" ne="O" />
+                <word id="22" cont="不" pos="d" ne="O" />
+                <word id="23" cont="了" pos="v" ne="O" />
+                <word id="24" cont="的" pos="u" ne="O" />
+                <word id="25" cont="很" pos="d" ne="O" />
+                <word id="26" cont="少." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="87">
+            <sent id="0" cont="估计你是哈巴狗吧">
+                <word id="0" cont="估计" pos="v" ne="O" />
+                <word id="1" cont="你" pos="r" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="哈巴狗" pos="n" ne="O" />
+                <word id="4" cont="吧" pos="u" ne="O" />
+            </sent>
+        </para>
+        <para id="88">
+            <sent id="0" cont="一句话，创新，不走寻常路">
+                <word id="0" cont="一" pos="m" ne="O" />
+                <word id="1" cont="句话" pos="n" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="创新" pos="v" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="不" pos="d" ne="O" />
+                <word id="6" cont="走" pos="v" ne="O" />
+                <word id="7" cont="寻常" pos="a" ne="O" />
+                <word id="8" cont="路" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="89">
+            <sent id="0" cont="此言差矣，华为非国企，而且国家政策倾向于中兴、烽火、大唐。">
+                <word id="0" cont="此言" pos="r" ne="O" />
+                <word id="1" cont="差矣" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="4" cont="非" pos="h" ne="O" />
+                <word id="5" cont="国企" pos="j" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="而且" pos="c" ne="O" />
+                <word id="8" cont="国家" pos="n" ne="O" />
+                <word id="9" cont="政策" pos="n" ne="O" />
+                <word id="10" cont="倾向" pos="v" ne="O" />
+                <word id="11" cont="于" pos="p" ne="O" />
+                <word id="12" cont="中兴" pos="nz" ne="S-Nz" />
+                <word id="13" cont="、" pos="wp" ne="O" />
+                <word id="14" cont="烽火" pos="n" ne="O" />
+                <word id="15" cont="、" pos="wp" ne="O" />
+                <word id="16" cont="大唐" pos="nz" ne="S-Nz" />
+                <word id="17" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="90">
+            <sent id="0" cont="知识烽火大唐都是付不起的阿斗，中兴因为在深圳，近朱者赤，被华为牵着走，才长大了。">
+                <word id="0" cont="知识" pos="n" ne="O" />
+                <word id="1" cont="烽火" pos="n" ne="O" />
+                <word id="2" cont="大唐" pos="nz" ne="S-Nz" />
+                <word id="3" cont="都" pos="d" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="付" pos="v" ne="O" />
+                <word id="6" cont="不" pos="d" ne="O" />
+                <word id="7" cont="起" pos="v" ne="O" />
+                <word id="8" cont="的" pos="u" ne="O" />
+                <word id="9" cont="阿斗" pos="n" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="中兴" pos="nz" ne="S-Nz" />
+                <word id="12" cont="因为" pos="c" ne="O" />
+                <word id="13" cont="在" pos="p" ne="O" />
+                <word id="14" cont="深圳" pos="ns" ne="S-Ns" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="近" pos="a" ne="O" />
+                <word id="17" cont="朱者" pos="n" ne="O" />
+                <word id="18" cont="赤" pos="a" ne="O" />
+                <word id="19" cont="，" pos="wp" ne="O" />
+                <word id="20" cont="被" pos="p" ne="O" />
+                <word id="21" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="22" cont="牵" pos="v" ne="O" />
+                <word id="23" cont="着" pos="u" ne="O" />
+                <word id="24" cont="走" pos="v" ne="O" />
+                <word id="25" cont="，" pos="wp" ne="O" />
+                <word id="26" cont="才" pos="d" ne="O" />
+                <word id="27" cont="长大" pos="v" ne="O" />
+                <word id="28" cont="了" pos="u" ne="O" />
+                <word id="29" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="91">
+            <sent id="0" cont="你们没在华为待过，就别乱猜了。">
+                <word id="0" cont="你们" pos="r" ne="O" />
+                <word id="1" cont="没" pos="d" ne="O" />
+                <word id="2" cont="在" pos="p" ne="O" />
+                <word id="3" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="4" cont="待" pos="v" ne="O" />
+                <word id="5" cont="过" pos="u" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="就" pos="d" ne="O" />
+                <word id="8" cont="别" pos="d" ne="O" />
+                <word id="9" cont="乱" pos="d" ne="O" />
+                <word id="10" cont="猜" pos="v" ne="O" />
+                <word id="11" cont="了" pos="u" ne="O" />
+                <word id="12" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="92">
+            <sent id="0" cont="我工号33231，出来5年了，在这个圈子一共打滚7年多了，看得透彻点。">
+                <word id="0" cont="我工号" pos="nz" ne="S-Nz" />
+                <word id="1" cont="33231" pos="m" ne="S-Nm" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="出来" pos="v" ne="O" />
+                <word id="4" cont="5" pos="m" ne="B-Nm" />
+                <word id="5" cont="年" pos="q" ne="E-Nm" />
+                <word id="6" cont="了" pos="u" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="在" pos="p" ne="O" />
+                <word id="9" cont="这个" pos="r" ne="O" />
+                <word id="10" cont="圈子" pos="n" ne="O" />
+                <word id="11" cont="一共" pos="d" ne="O" />
+                <word id="12" cont="打滚" pos="v" ne="O" />
+                <word id="13" cont="7" pos="m" ne="B-Nm" />
+                <word id="14" cont="年" pos="q" ne="E-Nm" />
+                <word id="15" cont="多" pos="m" ne="O" />
+                <word id="16" cont="了" pos="u" ne="O" />
+                <word id="17" cont="，" pos="wp" ne="O" />
+                <word id="18" cont="看" pos="v" ne="O" />
+                <word id="19" cont="得" pos="u" ne="O" />
+                <word id="20" cont="透彻点" pos="n" ne="O" />
+                <word id="21" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="93">
+            <sent id="0" cont="你也就配当个公务员。">
+                <word id="0" cont="你" pos="r" ne="O" />
+                <word id="1" cont="也" pos="d" ne="O" />
+                <word id="2" cont="就" pos="d" ne="O" />
+                <word id="3" cont="配" pos="v" ne="O" />
+                <word id="4" cont="当" pos="v" ne="O" />
+                <word id="5" cont="个" pos="q" ne="O" />
+                <word id="6" cont="公务员" pos="n" ne="O" />
+                <word id="7" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="94">
+            <sent id="0" cont="他是我们中国人自己的企业">
+                <word id="0" cont="他" pos="r" ne="O" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="我们" pos="r" ne="O" />
+                <word id="3" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="4" cont="人" pos="n" ne="O" />
+                <word id="5" cont="自己" pos="r" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="企业" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="95">
+            <sent id="0" cont="任正飞做华为是拿华为当他的命，不是为了挣钱。">
+                <word id="0" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="1" cont="飞" pos="v" ne="O" />
+                <word id="2" cont="做" pos="v" ne="O" />
+                <word id="3" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="拿华" pos="v" ne="O" />
+                <word id="6" cont="为" pos="v" ne="O" />
+                <word id="7" cont="当" pos="p" ne="O" />
+                <word id="8" cont="他" pos="r" ne="O" />
+                <word id="9" cont="的" pos="u" ne="O" />
+                <word id="10" cont="命" pos="n" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="不" pos="d" ne="O" />
+                <word id="13" cont="是" pos="v" ne="O" />
+                <word id="14" cont="为了" pos="p" ne="O" />
+                <word id="15" cont="挣钱" pos="v" ne="O" />
+                <word id="16" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="96">
+            <sent id="0" cont="华为是任正飞的心肝，不是任正飞养的猪，养大了准备杀了或者卖了挣钱的，所以华为才有了今天。">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="3" cont="飞" pos="v" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="心肝" pos="n" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="不" pos="d" ne="O" />
+                <word id="8" cont="是" pos="v" ne="O" />
+                <word id="9" cont="任正" pos="nh" ne="S-Nh" />
+                <word id="10" cont="飞养" pos="v" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="猪" pos="n" ne="O" />
+                <word id="13" cont="，" pos="wp" ne="O" />
+                <word id="14" cont="养" pos="v" ne="O" />
+                <word id="15" cont="大" pos="a" ne="O" />
+                <word id="16" cont="了" pos="u" ne="O" />
+                <word id="17" cont="准备" pos="v" ne="O" />
+                <word id="18" cont="杀" pos="v" ne="O" />
+                <word id="19" cont="了" pos="u" ne="O" />
+                <word id="20" cont="或者" pos="c" ne="O" />
+                <word id="21" cont="卖" pos="v" ne="O" />
+                <word id="22" cont="了" pos="u" ne="O" />
+                <word id="23" cont="挣钱" pos="v" ne="O" />
+                <word id="24" cont="的" pos="u" ne="O" />
+                <word id="25" cont="，" pos="wp" ne="O" />
+                <word id="26" cont="所以" pos="c" ne="O" />
+                <word id="27" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="28" cont="才" pos="d" ne="O" />
+                <word id="29" cont="有" pos="v" ne="O" />
+                <word id="30" cont="了" pos="u" ne="O" />
+                <word id="31" cont="今天" pos="nt" ne="O" />
+                <word id="32" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="97">
+            <sent id="0" cont="你不可能永远是这个样子，也许在其他地方也被淘汰">
+                <word id="0" cont="你" pos="r" ne="O" />
+                <word id="1" cont="不" pos="d" ne="O" />
+                <word id="2" cont="可能" pos="v" ne="O" />
+                <word id="3" cont="永远" pos="d" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="这个" pos="r" ne="O" />
+                <word id="6" cont="样子" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="也许" pos="d" ne="O" />
+                <word id="9" cont="在" pos="p" ne="O" />
+                <word id="10" cont="其他" pos="r" ne="O" />
+                <word id="11" cont="地方" pos="n" ne="O" />
+                <word id="12" cont="也" pos="d" ne="O" />
+                <word id="13" cont="被" pos="p" ne="O" />
+                <word id="14" cont="淘汰" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="98">
+            <sent id="0" cont="不可能，人家不盲目扩大，一步步走得很实">
+                <word id="0" cont="不" pos="d" ne="O" />
+                <word id="1" cont="可能" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="人家" pos="r" ne="O" />
+                <word id="4" cont="不" pos="d" ne="O" />
+                <word id="5" cont="盲目" pos="a" ne="O" />
+                <word id="6" cont="扩大" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="一步步" pos="m" ne="O" />
+                <word id="9" cont="走" pos="v" ne="O" />
+                <word id="10" cont="得" pos="u" ne="O" />
+                <word id="11" cont="很" pos="d" ne="O" />
+                <word id="12" cont="实" pos="a" ne="O" />
+            </sent>
+        </para>
+        <para id="99">
+            <sent id="0" cont="希望华为不要走进上市这个美丽的陷阱中去">
+                <word id="0" cont="希望" pos="v" ne="O" />
+                <word id="1" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="2" cont="不要" pos="d" ne="O" />
+                <word id="3" cont="走" pos="v" ne="O" />
+                <word id="4" cont="进" pos="v" ne="O" />
+                <word id="5" cont="上市" pos="v" ne="O" />
+                <word id="6" cont="这个" pos="r" ne="O" />
+                <word id="7" cont="美丽" pos="a" ne="O" />
+                <word id="8" cont="的" pos="u" ne="O" />
+                <word id="9" cont="陷阱" pos="n" ne="O" />
+                <word id="10" cont="中" pos="nd" ne="O" />
+                <word id="11" cont="去" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="100">
+            <sent id="0" cont="华为确实有它的独到之处">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="确实" pos="a" ne="O" />
+                <word id="2" cont="有" pos="v" ne="O" />
+                <word id="3" cont="它" pos="r" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="独到之处" pos="i" ne="O" />
+            </sent>
+        </para>
+        <para id="101">
+            <sent id="0" cont="华为做的对也做的最好，只可惜不能在国内上市，上市一定要在国内A股呀！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="做" pos="v" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="对" pos="p" ne="O" />
+                <word id="4" cont="也" pos="d" ne="O" />
+                <word id="5" cont="做" pos="v" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="最" pos="d" ne="O" />
+                <word id="8" cont="好" pos="a" ne="O" />
+                <word id="9" cont="，" pos="wp" ne="O" />
+                <word id="10" cont="只" pos="d" ne="O" />
+                <word id="11" cont="可惜" pos="v" ne="O" />
+                <word id="12" cont="不" pos="d" ne="O" />
+                <word id="13" cont="能" pos="v" ne="O" />
+                <word id="14" cont="在" pos="p" ne="O" />
+                <word id="15" cont="国内" pos="nl" ne="O" />
+                <word id="16" cont="上市" pos="v" ne="O" />
+                <word id="17" cont="，" pos="wp" ne="O" />
+                <word id="18" cont="上市" pos="v" ne="O" />
+                <word id="19" cont="一定" pos="d" ne="O" />
+                <word id="20" cont="要" pos="v" ne="O" />
+                <word id="21" cont="在" pos="p" ne="O" />
+                <word id="22" cont="国内" pos="nl" ne="O" />
+                <word id="23" cont="A" pos="ws" ne="O" />
+                <word id="24" cont="股" pos="n" ne="O" />
+                <word id="25" cont="呀" pos="u" ne="O" />
+                <word id="26" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="102">
+            <sent id="0" cont="我们投资者等你来！">
+                <word id="0" cont="我们" pos="r" ne="O" />
+                <word id="1" cont="投资者" pos="n" ne="O" />
+                <word id="2" cont="等" pos="u" ne="O" />
+                <word id="3" cont="你" pos="r" ne="O" />
+                <word id="4" cont="来" pos="v" ne="O" />
+                <word id="5" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="103">
+            <sent id="0" cont="华为之所以敢这么做，是因为背后有国家和银行撑腰，否则它敢在一个产品上连亏3年吗？">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="之所以" pos="c" ne="O" />
+                <word id="2" cont="敢" pos="v" ne="O" />
+                <word id="3" cont="这么" pos="r" ne="O" />
+                <word id="4" cont="做" pos="v" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="是" pos="v" ne="O" />
+                <word id="7" cont="因为" pos="p" ne="O" />
+                <word id="8" cont="背后" pos="nd" ne="O" />
+                <word id="9" cont="有" pos="v" ne="O" />
+                <word id="10" cont="国家" pos="n" ne="O" />
+                <word id="11" cont="和" pos="c" ne="O" />
+                <word id="12" cont="银行" pos="n" ne="O" />
+                <word id="13" cont="撑腰" pos="v" ne="O" />
+                <word id="14" cont="，" pos="wp" ne="O" />
+                <word id="15" cont="否则" pos="c" ne="O" />
+                <word id="16" cont="它" pos="r" ne="O" />
+                <word id="17" cont="敢" pos="v" ne="O" />
+                <word id="18" cont="在" pos="p" ne="O" />
+                <word id="19" cont="一个" pos="m" ne="O" />
+                <word id="20" cont="产品" pos="n" ne="O" />
+                <word id="21" cont="上" pos="nd" ne="O" />
+                <word id="22" cont="连" pos="d" ne="O" />
+                <word id="23" cont="亏" pos="v" ne="O" />
+                <word id="24" cont="3" pos="m" ne="B-Nm" />
+                <word id="25" cont="年" pos="q" ne="E-Nm" />
+                <word id="26" cont="吗" pos="u" ne="O" />
+                <word id="27" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="104">
+            <sent id="0" cont="一个国家和别人一个企业打，胜负不言自明。">
+                <word id="0" cont="一个" pos="m" ne="O" />
+                <word id="1" cont="国家" pos="n" ne="O" />
+                <word id="2" cont="和" pos="c" ne="O" />
+                <word id="3" cont="别人" pos="r" ne="O" />
+                <word id="4" cont="一个" pos="m" ne="O" />
+                <word id="5" cont="企业" pos="n" ne="O" />
+                <word id="6" cont="打" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="胜负" pos="n" ne="O" />
+                <word id="9" cont="不言自明" pos="i" ne="O" />
+                <word id="10" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="105">
+            <sent id="0" cont="华为就是我们的骄傲！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="就是" pos="v" ne="O" />
+                <word id="2" cont="我们" pos="r" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="骄傲" pos="a" ne="O" />
+                <word id="5" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="106">
+            <sent id="0" cont="华为迟早是这个领域的老大，现在的爱立信，nokia如坐针毡啊！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="迟早" pos="d" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="这个" pos="r" ne="O" />
+                <word id="4" cont="领域" pos="n" ne="O" />
+                <word id="5" cont="的" pos="u" ne="O" />
+                <word id="6" cont="老大" pos="n" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="现在" pos="nt" ne="O" />
+                <word id="9" cont="的" pos="u" ne="O" />
+                <word id="10" cont="爱立信" pos="nz" ne="S-Nz" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="nokia如坐针毡" pos="ws" ne="O" />
+                <word id="13" cont="啊" pos="u" ne="O" />
+                <word id="14" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="107">
+            <sent id="0" cont="有什么依据？">
+                <word id="0" cont="有" pos="v" ne="O" />
+                <word id="1" cont="什么" pos="r" ne="O" />
+                <word id="2" cont="依据" pos="n" ne="O" />
+                <word id="3" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="108">
+            <sent id="0" cont="你自己一个人YY去吧">
+                <word id="0" cont="你" pos="r" ne="O" />
+                <word id="1" cont="自己" pos="r" ne="O" />
+                <word id="2" cont="一个" pos="m" ne="O" />
+                <word id="3" cont="人YY" pos="ws" ne="O" />
+                <word id="4" cont="去" pos="v" ne="O" />
+                <word id="5" cont="吧" pos="u" ne="O" />
+            </sent>
+        </para>
+        <para id="109">
+            <sent id="0" cont="非常对，公司上市以后要对股东负责、要对股民负责，就是不对企业的长远发展负责，所以一股脑的上市都是扯蛋，中国要有中国的企业发展模式。">
+                <word id="0" cont="非常" pos="d" ne="O" />
+                <word id="1" cont="对" pos="a" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="公司" pos="n" ne="O" />
+                <word id="4" cont="上市" pos="v" ne="O" />
+                <word id="5" cont="以后" pos="nd" ne="O" />
+                <word id="6" cont="要" pos="v" ne="O" />
+                <word id="7" cont="对" pos="p" ne="O" />
+                <word id="8" cont="股东" pos="n" ne="O" />
+                <word id="9" cont="负责" pos="v" ne="O" />
+                <word id="10" cont="、" pos="wp" ne="O" />
+                <word id="11" cont="要" pos="v" ne="O" />
+                <word id="12" cont="对" pos="p" ne="O" />
+                <word id="13" cont="股民" pos="n" ne="O" />
+                <word id="14" cont="负责" pos="v" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="就" pos="d" ne="O" />
+                <word id="17" cont="是" pos="v" ne="O" />
+                <word id="18" cont="不" pos="d" ne="O" />
+                <word id="19" cont="对" pos="p" ne="O" />
+                <word id="20" cont="企业" pos="n" ne="O" />
+                <word id="21" cont="的" pos="u" ne="O" />
+                <word id="22" cont="长远" pos="a" ne="O" />
+                <word id="23" cont="发展" pos="v" ne="O" />
+                <word id="24" cont="负责" pos="v" ne="O" />
+                <word id="25" cont="，" pos="wp" ne="O" />
+                <word id="26" cont="所以" pos="c" ne="O" />
+                <word id="27" cont="一" pos="m" ne="O" />
+                <word id="28" cont="股脑" pos="n" ne="O" />
+                <word id="29" cont="的" pos="u" ne="O" />
+                <word id="30" cont="上市" pos="v" ne="O" />
+                <word id="31" cont="都" pos="d" ne="O" />
+                <word id="32" cont="是" pos="v" ne="O" />
+                <word id="33" cont="扯" pos="v" ne="O" />
+                <word id="34" cont="蛋" pos="n" ne="O" />
+                <word id="35" cont="，" pos="wp" ne="O" />
+                <word id="36" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="37" cont="要" pos="v" ne="O" />
+                <word id="38" cont="有" pos="v" ne="O" />
+                <word id="39" cont="中国" pos="ns" ne="S-Ns" />
+                <word id="40" cont="的" pos="u" ne="O" />
+                <word id="41" cont="企业" pos="n" ne="O" />
+                <word id="42" cont="发展" pos="v" ne="O" />
+                <word id="43" cont="模式" pos="n" ne="O" />
+                <word id="44" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="110">
+            <sent id="0" cont="股市就是圈老百姓钱的，不缺钱就没必要上市">
+                <word id="0" cont="股市" pos="n" ne="O" />
+                <word id="1" cont="就" pos="d" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="圈" pos="v" ne="O" />
+                <word id="4" cont="老百姓" pos="n" ne="O" />
+                <word id="5" cont="钱" pos="n" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="不" pos="d" ne="O" />
+                <word id="9" cont="缺" pos="v" ne="O" />
+                <word id="10" cont="钱" pos="n" ne="O" />
+                <word id="11" cont="就" pos="d" ne="O" />
+                <word id="12" cont="没" pos="v" ne="O" />
+                <word id="13" cont="必要" pos="a" ne="O" />
+                <word id="14" cont="上市" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="111">
+            <sent id="0" cont="华为上市肯定给人吞掉">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="上市" pos="v" ne="O" />
+                <word id="2" cont="肯定" pos="d" ne="O" />
+                <word id="3" cont="给" pos="p" ne="O" />
+                <word id="4" cont="人" pos="n" ne="O" />
+                <word id="5" cont="吞" pos="v" ne="O" />
+                <word id="6" cont="掉" pos="v" ne="O" />
+            </sent>
+        </para>
+        <para id="112">
+            <sent id="0" cont="华为的特点是擅长于游击战和乘对手不注意背后作战，如果上市，它就行不通了，哈哈．．．．">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="的" pos="u" ne="O" />
+                <word id="2" cont="特点" pos="n" ne="O" />
+                <word id="3" cont="是" pos="v" ne="O" />
+                <word id="4" cont="擅长" pos="v" ne="O" />
+                <word id="5" cont="于" pos="p" ne="O" />
+                <word id="6" cont="游击战" pos="n" ne="O" />
+                <word id="7" cont="和" pos="c" ne="O" />
+                <word id="8" cont="乘" pos="v" ne="O" />
+                <word id="9" cont="对手" pos="n" ne="O" />
+                <word id="10" cont="不" pos="d" ne="O" />
+                <word id="11" cont="注意" pos="v" ne="O" />
+                <word id="12" cont="背后" pos="nd" ne="O" />
+                <word id="13" cont="作战" pos="v" ne="O" />
+                <word id="14" cont="，" pos="wp" ne="O" />
+                <word id="15" cont="如果" pos="c" ne="O" />
+                <word id="16" cont="上市" pos="v" ne="O" />
+                <word id="17" cont="，" pos="wp" ne="O" />
+                <word id="18" cont="它" pos="r" ne="O" />
+                <word id="19" cont="就" pos="d" ne="O" />
+                <word id="20" cont="行不通" pos="v" ne="O" />
+                <word id="21" cont="了" pos="u" ne="O" />
+                <word id="22" cont="，" pos="wp" ne="O" />
+                <word id="23" cont="哈哈．．" pos="nz" ne="S-Nz" />
+                <word id="24" cont="．．" pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="113">
+            <sent id="0" cont="草头王，山代王">
+                <word id="0" cont="草头" pos="n" ne="O" />
+                <word id="1" cont="王" pos="nh" ne="S-Nh" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="山代" pos="nh" ne="O" />
+                <word id="4" cont="王" pos="nh" ne="O" />
+            </sent>
+        </para>
+        <para id="114">
+            <sent id="0" cont="华为是对的！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="对" pos="a" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="115">
+            <sent id="0" cont="我现在呆在全球最大的上市公司里，深知股东的贪婪会毁掉一个公司">
+                <word id="0" cont="我" pos="r" ne="O" />
+                <word id="1" cont="现在" pos="nt" ne="O" />
+                <word id="2" cont="呆" pos="v" ne="O" />
+                <word id="3" cont="在" pos="p" ne="O" />
+                <word id="4" cont="全球" pos="n" ne="O" />
+                <word id="5" cont="最" pos="d" ne="O" />
+                <word id="6" cont="大" pos="a" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="上市" pos="v" ne="O" />
+                <word id="9" cont="公司" pos="n" ne="O" />
+                <word id="10" cont="里" pos="nd" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="深知" pos="v" ne="O" />
+                <word id="13" cont="股东" pos="n" ne="O" />
+                <word id="14" cont="的" pos="u" ne="O" />
+                <word id="15" cont="贪婪" pos="a" ne="O" />
+                <word id="16" cont="会" pos="v" ne="O" />
+                <word id="17" cont="毁" pos="v" ne="O" />
+                <word id="18" cont="掉" pos="v" ne="O" />
+                <word id="19" cont="一个" pos="m" ne="O" />
+                <word id="20" cont="公司" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="116">
+            <sent id="0" cont="上市圈哪点钱有什么用？">
+                <word id="0" cont="上市" pos="v" ne="O" />
+                <word id="1" cont="圈" pos="v" ne="O" />
+                <word id="2" cont="哪" pos="r" ne="O" />
+                <word id="3" cont="点" pos="q" ne="O" />
+                <word id="4" cont="钱" pos="n" ne="O" />
+                <word id="5" cont="有" pos="v" ne="O" />
+                <word id="6" cont="什么" pos="r" ne="O" />
+                <word id="7" cont="用" pos="n" ne="O" />
+                <word id="8" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="117">
+            <sent id="0" cont="大部分企业都无需上市，让外资有可趁之机.">
+                <word id="0" cont="大部分" pos="m" ne="O" />
+                <word id="1" cont="企业" pos="n" ne="O" />
+                <word id="2" cont="都" pos="d" ne="O" />
+                <word id="3" cont="无" pos="v" ne="O" />
+                <word id="4" cont="需" pos="v" ne="O" />
+                <word id="5" cont="上市" pos="v" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="让" pos="v" ne="O" />
+                <word id="8" cont="外资" pos="n" ne="O" />
+                <word id="9" cont="有" pos="v" ne="O" />
+                <word id="10" cont="可" pos="v" ne="O" />
+                <word id="11" cont="趁" pos="p" ne="O" />
+                <word id="12" cont="之" pos="u" ne="O" />
+                <word id="13" cont="机." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="118">
+            <sent id="0" cont="天啦.二十亿刀卖他的那个烂手机业务？">
+                <word id="0" cont="天" pos="n" ne="O" />
+                <word id="1" cont="啦." pos="ws" ne="O" />
+                <word id="2" cont="二十亿" pos="m" ne="O" />
+                <word id="3" cont="刀" pos="q" ne="O" />
+                <word id="4" cont="卖" pos="v" ne="O" />
+                <word id="5" cont="他" pos="r" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="那个" pos="r" ne="O" />
+                <word id="8" cont="烂" pos="a" ne="O" />
+                <word id="9" cont="手机" pos="n" ne="O" />
+                <word id="10" cont="业务" pos="n" ne="O" />
+                <word id="11" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="119">
+            <sent id="0" cont="谁买，谁来买？">
+                <word id="0" cont="谁" pos="r" ne="O" />
+                <word id="1" cont="买" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="谁" pos="r" ne="O" />
+                <word id="4" cont="来" pos="v" ne="O" />
+                <word id="5" cont="买" pos="v" ne="O" />
+                <word id="6" cont="？" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" pos="wp" ne="O" />
+            </sent>
+            <sent id="2" cont="？">
+                <word id="0" cont="？" pos="wp" ne="O" />
+            </sent>
+            <sent id="3" cont="？">
+                <word id="0" cont="？" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="120">
+            <sent id="0" cont="理由很多，有说服力的就是股权稀释和黄金翅膀这2条至于其他理由，什么上市影响长期战略，那么多西方高科技上市公司，难道都没有长期战略。">
+                <word id="0" cont="理由" pos="n" ne="O" />
+                <word id="1" cont="很" pos="d" ne="O" />
+                <word id="2" cont="多" pos="a" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="有" pos="v" ne="O" />
+                <word id="5" cont="说服力" pos="n" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="就" pos="d" ne="O" />
+                <word id="8" cont="是" pos="v" ne="O" />
+                <word id="9" cont="股权" pos="n" ne="O" />
+                <word id="10" cont="稀释" pos="v" ne="O" />
+                <word id="11" cont="和" pos="c" ne="O" />
+                <word id="12" cont="黄金" pos="n" ne="O" />
+                <word id="13" cont="翅膀" pos="n" ne="O" />
+                <word id="14" cont="这" pos="r" ne="O" />
+                <word id="15" cont="2" pos="m" ne="B-Nm" />
+                <word id="16" cont="条" pos="q" ne="E-Nm" />
+                <word id="17" cont="至于" pos="p" ne="O" />
+                <word id="18" cont="其他" pos="r" ne="O" />
+                <word id="19" cont="理由" pos="n" ne="O" />
+                <word id="20" cont="，" pos="wp" ne="O" />
+                <word id="21" cont="什么" pos="r" ne="O" />
+                <word id="22" cont="上市" pos="v" ne="O" />
+                <word id="23" cont="影响" pos="v" ne="O" />
+                <word id="24" cont="长期" pos="b" ne="O" />
+                <word id="25" cont="战略" pos="n" ne="O" />
+                <word id="26" cont="，" pos="wp" ne="O" />
+                <word id="27" cont="那么" pos="r" ne="O" />
+                <word id="28" cont="多" pos="a" ne="O" />
+                <word id="29" cont="西方" pos="nl" ne="B-Ni" />
+                <word id="30" cont="高" pos="a" ne="I-Ni" />
+                <word id="31" cont="科技" pos="n" ne="I-Ni" />
+                <word id="32" cont="上市" pos="v" ne="I-Ni" />
+                <word id="33" cont="公司" pos="n" ne="E-Ni" />
+                <word id="34" cont="，" pos="wp" ne="O" />
+                <word id="35" cont="难道" pos="d" ne="O" />
+                <word id="36" cont="都" pos="d" ne="O" />
+                <word id="37" cont="没有" pos="v" ne="O" />
+                <word id="38" cont="长期" pos="b" ne="O" />
+                <word id="39" cont="战略" pos="n" ne="O" />
+                <word id="40" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="121">
+            <sent id="0" cont="和阿里巴巴对比一下，去年高价IPO，圈了一大笔钱，现在过冬，他的粮草最多">
+                <word id="0" cont="和" pos="p" ne="O" />
+                <word id="1" cont="阿里巴巴" pos="nh" ne="S-Nh" />
+                <word id="2" cont="对比" pos="v" ne="O" />
+                <word id="3" cont="一下" pos="m" ne="S-Nm" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="去年" pos="nt" ne="O" />
+                <word id="6" cont="高价" pos="n" ne="O" />
+                <word id="7" cont="IPO" pos="ws" ne="O" />
+                <word id="8" cont="，" pos="wp" ne="O" />
+                <word id="9" cont="圈" pos="v" ne="O" />
+                <word id="10" cont="了" pos="u" ne="O" />
+                <word id="11" cont="一" pos="m" ne="O" />
+                <word id="12" cont="大" pos="a" ne="O" />
+                <word id="13" cont="笔" pos="q" ne="O" />
+                <word id="14" cont="钱" pos="n" ne="O" />
+                <word id="15" cont="，" pos="wp" ne="O" />
+                <word id="16" cont="现在" pos="nt" ne="O" />
+                <word id="17" cont="过冬" pos="v" ne="O" />
+                <word id="18" cont="，" pos="wp" ne="O" />
+                <word id="19" cont="他" pos="r" ne="O" />
+                <word id="20" cont="的" pos="u" ne="O" />
+                <word id="21" cont="粮草" pos="n" ne="O" />
+                <word id="22" cont="最" pos="d" ne="O" />
+                <word id="23" cont="多" pos="a" ne="O" />
+            </sent>
+        </para>
+        <para id="122">
+            <sent id="0" cont=".甲板不付甲板费.累的个要死.我干了三个月就出来了.还是公务员好.生活清闲自在.">
+                <word id="0" cont="." pos="ws" ne="O" />
+                <word id="1" cont="甲板" pos="n" ne="O" />
+                <word id="2" cont="不" pos="d" ne="O" />
+                <word id="3" cont="付" pos="v" ne="O" />
+                <word id="4" cont="甲板费." pos="ws" ne="O" />
+                <word id="5" cont="累" pos="a" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="个" pos="q" ne="O" />
+                <word id="8" cont="要" pos="v" ne="O" />
+                <word id="9" cont="死." pos="ws" ne="O" />
+                <word id="10" cont="我" pos="r" ne="O" />
+                <word id="11" cont="干" pos="v" ne="O" />
+                <word id="12" cont="了" pos="u" ne="O" />
+                <word id="13" cont="三" pos="m" ne="B-Nm" />
+                <word id="14" cont="个" pos="q" ne="E-Nm" />
+                <word id="15" cont="月" pos="n" ne="O" />
+                <word id="16" cont="就" pos="d" ne="O" />
+                <word id="17" cont="出来" pos="v" ne="O" />
+                <word id="18" cont="了." pos="ws" ne="O" />
+                <word id="19" cont="还是" pos="c" ne="O" />
+                <word id="20" cont="公务员" pos="n" ne="O" />
+                <word id="21" cont="好." pos="ws" ne="O" />
+                <word id="22" cont="生活" pos="v" ne="O" />
+                <word id="23" cont="清闲自" pos="n" ne="O" />
+                <word id="24" cont="在." pos="ws" ne="O" />
+            </sent>
+        </para>
+        <para id="123">
+            <sent id="0" cont="低价倾销抢占市场-〉垄断-〉大幅提升利润">
+                <word id="0" cont="低价" pos="n" ne="O" />
+                <word id="1" cont="倾销" pos="v" ne="O" />
+                <word id="2" cont="抢占" pos="v" ne="O" />
+                <word id="3" cont="市场-" pos="nz" ne="S-Nz" />
+                <word id="4" cont="〉" pos="wp" ne="O" />
+                <word id="5" cont="垄断-" pos="nz" ne="S-Nz" />
+                <word id="6" cont="〉" pos="wp" ne="O" />
+                <word id="7" cont="大幅" pos="d" ne="O" />
+                <word id="8" cont="提升" pos="v" ne="O" />
+                <word id="9" cont="利润" pos="n" ne="O" />
+            </sent>
+        </para>
+        <para id="124">
+            <sent id="0" cont="估计你是哈巴狗吧！">
+                <word id="0" cont="估计" pos="v" ne="O" />
+                <word id="1" cont="你" pos="r" ne="O" />
+                <word id="2" cont="是" pos="v" ne="O" />
+                <word id="3" cont="哈巴狗" pos="n" ne="O" />
+                <word id="4" cont="吧" pos="u" ne="O" />
+                <word id="5" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="125">
+            <sent id="0" cont="想想你自己的像蚂蚁一样的人生吧，你没有资格去评论一个伟大的公司！">
+                <word id="0" cont="想想" pos="v" ne="O" />
+                <word id="1" cont="你" pos="r" ne="O" />
+                <word id="2" cont="自己" pos="r" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="像" pos="v" ne="O" />
+                <word id="5" cont="蚂蚁" pos="n" ne="O" />
+                <word id="6" cont="一样" pos="u" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="人生" pos="n" ne="O" />
+                <word id="9" cont="吧" pos="u" ne="O" />
+                <word id="10" cont="，" pos="wp" ne="O" />
+                <word id="11" cont="你" pos="r" ne="O" />
+                <word id="12" cont="没有" pos="v" ne="O" />
+                <word id="13" cont="资格" pos="n" ne="O" />
+                <word id="14" cont="去" pos="v" ne="O" />
+                <word id="15" cont="评论" pos="v" ne="O" />
+                <word id="16" cont="一个" pos="m" ne="O" />
+                <word id="17" cont="伟大" pos="a" ne="O" />
+                <word id="18" cont="的" pos="u" ne="O" />
+                <word id="19" cont="公司" pos="n" ne="O" />
+                <word id="20" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="126">
+            <sent id="0" cont="华为不上市的唯一原因就是国内上市太可笑国外上市手里股份太少怕失去公司控制权而华为之所以能赚钱的那套外国人是搞不来的只有在畸形的中国市场混出来的人才能办的到一个很简单的例子欧美市场随便那家公司弄个过劳死出来的后果想想吧珍爱生命远离中（兴）华（为）">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="不" pos="d" ne="O" />
+                <word id="2" cont="上市" pos="v" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="唯一" pos="b" ne="O" />
+                <word id="5" cont="原因" pos="n" ne="O" />
+                <word id="6" cont="就" pos="d" ne="O" />
+                <word id="7" cont="是" pos="v" ne="O" />
+                <word id="8" cont="国内" pos="nl" ne="O" />
+                <word id="9" cont="上市" pos="v" ne="O" />
+                <word id="10" cont="太" pos="d" ne="O" />
+                <word id="11" cont="可笑" pos="a" ne="O" />
+                <word id="12" cont="国外" pos="nl" ne="O" />
+                <word id="13" cont="上市" pos="v" ne="O" />
+                <word id="14" cont="手里" pos="nl" ne="O" />
+                <word id="15" cont="股份" pos="n" ne="O" />
+                <word id="16" cont="太" pos="d" ne="O" />
+                <word id="17" cont="少" pos="a" ne="O" />
+                <word id="18" cont="怕" pos="v" ne="O" />
+                <word id="19" cont="失去" pos="v" ne="O" />
+                <word id="20" cont="公司" pos="n" ne="O" />
+                <word id="21" cont="控制权" pos="n" ne="O" />
+                <word id="22" cont="而" pos="c" ne="O" />
+                <word id="23" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="24" cont="之所以" pos="c" ne="O" />
+                <word id="25" cont="能" pos="v" ne="O" />
+                <word id="26" cont="赚钱" pos="v" ne="O" />
+                <word id="27" cont="的" pos="u" ne="O" />
+                <word id="28" cont="那" pos="r" ne="O" />
+                <word id="29" cont="套" pos="q" ne="O" />
+                <word id="30" cont="外国人" pos="n" ne="O" />
+                <word id="31" cont="是" pos="v" ne="O" />
+                <word id="32" cont="搞" pos="v" ne="O" />
+                <word id="33" cont="不" pos="d" ne="O" />
+                <word id="34" cont="来" pos="v" ne="O" />
+                <word id="35" cont="的" pos="u" ne="O" />
+                <word id="36" cont="只有" pos="c" ne="O" />
+                <word id="37" cont="在" pos="p" ne="O" />
+                <word id="38" cont="畸形" pos="n" ne="O" />
+                <word id="39" cont="的" pos="u" ne="O" />
+                <word id="40" cont="中国" pos="ns" ne="B-Ns" />
+                <word id="41" cont="市场" pos="n" ne="E-Ns" />
+                <word id="42" cont="混" pos="v" ne="O" />
+                <word id="43" cont="出来" pos="v" ne="O" />
+                <word id="44" cont="的" pos="u" ne="O" />
+                <word id="45" cont="人" pos="n" ne="O" />
+                <word id="46" cont="才" pos="d" ne="O" />
+                <word id="47" cont="能" pos="v" ne="O" />
+                <word id="48" cont="办" pos="v" ne="O" />
+                <word id="49" cont="的" pos="u" ne="O" />
+                <word id="50" cont="到" pos="v" ne="O" />
+                <word id="51" cont="一个" pos="m" ne="O" />
+                <word id="52" cont="很" pos="d" ne="O" />
+                <word id="53" cont="简单" pos="a" ne="O" />
+                <word id="54" cont="的" pos="u" ne="O" />
+                <word id="55" cont="例子" pos="n" ne="O" />
+                <word id="56" cont="欧" pos="j" ne="S-Ns" />
+                <word id="57" cont="美" pos="j" ne="S-Ns" />
+                <word id="58" cont="市场" pos="n" ne="O" />
+                <word id="59" cont="随便" pos="a" ne="O" />
+                <word id="60" cont="那" pos="r" ne="O" />
+                <word id="61" cont="家" pos="q" ne="O" />
+                <word id="62" cont="公司" pos="n" ne="O" />
+                <word id="63" cont="弄" pos="v" ne="O" />
+                <word id="64" cont="个" pos="q" ne="O" />
+                <word id="65" cont="过" pos="u" ne="O" />
+                <word id="66" cont="劳死" pos="v" ne="O" />
+                <word id="67" cont="出来" pos="v" ne="O" />
+                <word id="68" cont="的" pos="u" ne="O" />
+                <word id="69" cont="后果" pos="n" ne="O" />
+                <word id="70" cont="想想" pos="v" ne="O" />
+                <word id="71" cont="吧" pos="u" ne="O" />
+                <word id="72" cont="珍爱" pos="v" ne="O" />
+                <word id="73" cont="生命" pos="n" ne="O" />
+                <word id="74" cont="远离" pos="v" ne="O" />
+                <word id="75" cont="中" pos="nd" ne="O" />
+                <word id="76" cont="（兴" pos="nt" ne="O" />
+                <word id="77" cont="）华" pos="nt" ne="O" />
+                <word id="78" cont="（" pos="wp" ne="O" />
+                <word id="79" cont="为" pos="v" ne="O" />
+                <word id="80" cont="）" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="127">
+            <sent id="0" cont="创新个p，只要法律许可，所有垄断公司都会采用这种业务模式的。">
+                <word id="0" cont="创新" pos="v" ne="O" />
+                <word id="1" cont="个" pos="q" ne="O" />
+                <word id="2" cont="p" pos="ws" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="只要" pos="c" ne="O" />
+                <word id="5" cont="法律" pos="n" ne="O" />
+                <word id="6" cont="许可" pos="v" ne="O" />
+                <word id="7" cont="，" pos="wp" ne="O" />
+                <word id="8" cont="所有" pos="b" ne="O" />
+                <word id="9" cont="垄断" pos="v" ne="O" />
+                <word id="10" cont="公司" pos="n" ne="O" />
+                <word id="11" cont="都" pos="d" ne="O" />
+                <word id="12" cont="会" pos="v" ne="O" />
+                <word id="13" cont="采用" pos="v" ne="O" />
+                <word id="14" cont="这种" pos="r" ne="O" />
+                <word id="15" cont="业务" pos="n" ne="O" />
+                <word id="16" cont="模式" pos="n" ne="O" />
+                <word id="17" cont="的" pos="u" ne="O" />
+                <word id="18" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="128">
+            <sent id="0" cont="这种以大欺小的方式，严重破坏创新环境，使得具有创新能力的小公司无法生存。">
+                <word id="0" cont="这种" pos="r" ne="O" />
+                <word id="1" cont="以" pos="p" ne="O" />
+                <word id="2" cont="大" pos="a" ne="O" />
+                <word id="3" cont="欺小" pos="n" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="方式" pos="n" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="严重" pos="a" ne="O" />
+                <word id="8" cont="破坏" pos="v" ne="O" />
+                <word id="9" cont="创新" pos="v" ne="O" />
+                <word id="10" cont="环境" pos="n" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="使得" pos="v" ne="O" />
+                <word id="13" cont="具有" pos="v" ne="O" />
+                <word id="14" cont="创新" pos="v" ne="O" />
+                <word id="15" cont="能力" pos="n" ne="O" />
+                <word id="16" cont="的" pos="u" ne="O" />
+                <word id="17" cont="小" pos="a" ne="O" />
+                <word id="18" cont="公司" pos="n" ne="O" />
+                <word id="19" cont="无法" pos="v" ne="O" />
+                <word id="20" cont="生存" pos="v" ne="O" />
+                <word id="21" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="129">
+            <sent id="0" cont="能在国际市场上，跟最有分量的国际巨头竞争的中国公司很少，华为应该能算一个，而且他还不是垄断国企，不简单！">
+                <word id="0" cont="能" pos="v" ne="O" />
+                <word id="1" cont="在" pos="p" ne="O" />
+                <word id="2" cont="国际" pos="n" ne="O" />
+                <word id="3" cont="市场" pos="n" ne="O" />
+                <word id="4" cont="上" pos="nd" ne="O" />
+                <word id="5" cont="，" pos="wp" ne="O" />
+                <word id="6" cont="跟" pos="p" ne="O" />
+                <word id="7" cont="最" pos="d" ne="O" />
+                <word id="8" cont="有" pos="v" ne="O" />
+                <word id="9" cont="分量" pos="n" ne="O" />
+                <word id="10" cont="的" pos="u" ne="O" />
+                <word id="11" cont="国际" pos="n" ne="O" />
+                <word id="12" cont="巨头" pos="n" ne="O" />
+                <word id="13" cont="竞争" pos="v" ne="O" />
+                <word id="14" cont="的" pos="u" ne="O" />
+                <word id="15" cont="中国" pos="ns" ne="B-Ni" />
+                <word id="16" cont="公司" pos="n" ne="E-Ni" />
+                <word id="17" cont="很" pos="d" ne="O" />
+                <word id="18" cont="少" pos="a" ne="O" />
+                <word id="19" cont="，" pos="wp" ne="O" />
+                <word id="20" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="21" cont="应该" pos="v" ne="O" />
+                <word id="22" cont="能" pos="v" ne="O" />
+                <word id="23" cont="算" pos="v" ne="O" />
+                <word id="24" cont="一个" pos="m" ne="O" />
+                <word id="25" cont="，" pos="wp" ne="O" />
+                <word id="26" cont="而且" pos="c" ne="O" />
+                <word id="27" cont="他" pos="r" ne="O" />
+                <word id="28" cont="还" pos="d" ne="O" />
+                <word id="29" cont="不" pos="d" ne="O" />
+                <word id="30" cont="是" pos="v" ne="O" />
+                <word id="31" cont="垄断" pos="v" ne="O" />
+                <word id="32" cont="国企" pos="j" ne="O" />
+                <word id="33" cont="，" pos="wp" ne="O" />
+                <word id="34" cont="不" pos="d" ne="O" />
+                <word id="35" cont="简单" pos="a" ne="O" />
+                <word id="36" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="130">
+            <sent id="0" cont="只有一个原因是真实的--现行的领导怕失去控制权，我看华为的没落指日可待。">
+                <word id="0" cont="只" pos="d" ne="O" />
+                <word id="1" cont="有" pos="v" ne="O" />
+                <word id="2" cont="一个" pos="m" ne="O" />
+                <word id="3" cont="原因" pos="n" ne="O" />
+                <word id="4" cont="是" pos="v" ne="O" />
+                <word id="5" cont="真实" pos="a" ne="O" />
+                <word id="6" cont="的" pos="u" ne="O" />
+                <word id="7" cont="--" pos="wp" ne="O" />
+                <word id="8" cont="现行" pos="b" ne="O" />
+                <word id="9" cont="的" pos="u" ne="O" />
+                <word id="10" cont="领导" pos="n" ne="O" />
+                <word id="11" cont="怕" pos="v" ne="O" />
+                <word id="12" cont="失去" pos="v" ne="O" />
+                <word id="13" cont="控制权" pos="n" ne="O" />
+                <word id="14" cont="，" pos="wp" ne="O" />
+                <word id="15" cont="我" pos="r" ne="O" />
+                <word id="16" cont="看" pos="v" ne="O" />
+                <word id="17" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="18" cont="的" pos="u" ne="O" />
+                <word id="19" cont="没落" pos="v" ne="O" />
+                <word id="20" cont="指日可待" pos="i" ne="O" />
+                <word id="21" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="131">
+            <sent id="0" cont="不上市的最大原因在于有军方的背景在里面。">
+                <word id="0" cont="不" pos="d" ne="O" />
+                <word id="1" cont="上市" pos="v" ne="O" />
+                <word id="2" cont="的" pos="u" ne="O" />
+                <word id="3" cont="最" pos="d" ne="O" />
+                <word id="4" cont="大" pos="a" ne="O" />
+                <word id="5" cont="原因" pos="n" ne="O" />
+                <word id="6" cont="在于" pos="v" ne="O" />
+                <word id="7" cont="有" pos="v" ne="O" />
+                <word id="8" cont="军方" pos="n" ne="O" />
+                <word id="9" cont="的" pos="u" ne="O" />
+                <word id="10" cont="背景" pos="n" ne="O" />
+                <word id="11" cont="在" pos="p" ne="O" />
+                <word id="12" cont="里面" pos="nd" ne="O" />
+                <word id="13" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="132">
+            <sent id="0" cont="公司千万不要上市！">
+                <word id="0" cont="公司" pos="n" ne="O" />
+                <word id="1" cont="千万" pos="d" ne="O" />
+                <word id="2" cont="不要" pos="d" ne="O" />
+                <word id="3" cont="上市" pos="v" ne="O" />
+                <word id="4" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="133">
+            <sent id="0" cont="上市之后麻烦事情太多，管理成本大为增加。">
+                <word id="0" cont="上市" pos="v" ne="O" />
+                <word id="1" cont="之后" pos="nd" ne="O" />
+                <word id="2" cont="麻烦" pos="a" ne="O" />
+                <word id="3" cont="事情" pos="n" ne="O" />
+                <word id="4" cont="太" pos="d" ne="O" />
+                <word id="5" cont="多" pos="a" ne="O" />
+                <word id="6" cont="，" pos="wp" ne="O" />
+                <word id="7" cont="管理" pos="v" ne="O" />
+                <word id="8" cont="成本" pos="n" ne="O" />
+                <word id="9" cont="大为" pos="d" ne="O" />
+                <word id="10" cont="增加" pos="v" ne="O" />
+                <word id="11" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="134">
+            <sent id="0" cont="太牛了，值得正在发展的中型公司学习，但是企业做大后不建议再这样做，否则，反垄断法就有用了，小公司也没实力这样做。">
+                <word id="0" cont="太" pos="d" ne="O" />
+                <word id="1" cont="牛" pos="a" ne="O" />
+                <word id="2" cont="了" pos="u" ne="O" />
+                <word id="3" cont="，" pos="wp" ne="O" />
+                <word id="4" cont="值得" pos="v" ne="O" />
+                <word id="5" cont="正在" pos="d" ne="O" />
+                <word id="6" cont="发展" pos="v" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="中型" pos="b" ne="O" />
+                <word id="9" cont="公司" pos="n" ne="O" />
+                <word id="10" cont="学习" pos="v" ne="O" />
+                <word id="11" cont="，" pos="wp" ne="O" />
+                <word id="12" cont="但是" pos="c" ne="O" />
+                <word id="13" cont="企业" pos="n" ne="O" />
+                <word id="14" cont="做" pos="v" ne="O" />
+                <word id="15" cont="大" pos="a" ne="O" />
+                <word id="16" cont="后" pos="nd" ne="O" />
+                <word id="17" cont="不" pos="d" ne="O" />
+                <word id="18" cont="建议" pos="v" ne="O" />
+                <word id="19" cont="再" pos="d" ne="O" />
+                <word id="20" cont="这样" pos="r" ne="O" />
+                <word id="21" cont="做" pos="v" ne="O" />
+                <word id="22" cont="，" pos="wp" ne="O" />
+                <word id="23" cont="否则" pos="c" ne="O" />
+                <word id="24" cont="，" pos="wp" ne="O" />
+                <word id="25" cont="反垄断法" pos="n" ne="O" />
+                <word id="26" cont="就" pos="d" ne="O" />
+                <word id="27" cont="有用" pos="a" ne="O" />
+                <word id="28" cont="了" pos="u" ne="O" />
+                <word id="29" cont="，" pos="wp" ne="O" />
+                <word id="30" cont="小" pos="a" ne="O" />
+                <word id="31" cont="公司" pos="n" ne="O" />
+                <word id="32" cont="也" pos="d" ne="O" />
+                <word id="33" cont="没" pos="d" ne="O" />
+                <word id="34" cont="实力" pos="n" ne="O" />
+                <word id="35" cont="这样" pos="r" ne="O" />
+                <word id="36" cont="做" pos="v" ne="O" />
+                <word id="37" cont="。" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="135">
+            <sent id="0" cont="不得不说，这种方式的确令人耳目一新！">
+                <word id="0" cont="不得不" pos="d" ne="O" />
+                <word id="1" cont="说" pos="v" ne="O" />
+                <word id="2" cont="，" pos="wp" ne="O" />
+                <word id="3" cont="这种" pos="r" ne="O" />
+                <word id="4" cont="方式" pos="n" ne="O" />
+                <word id="5" cont="的确" pos="d" ne="O" />
+                <word id="6" cont="令" pos="v" ne="O" />
+                <word id="7" cont="人" pos="n" ne="O" />
+                <word id="8" cont="耳目一新" pos="i" ne="O" />
+                <word id="9" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="136">
+            <sent id="0" cont="华为，好样的，看你的了！">
+                <word id="0" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="1" cont="，" pos="wp" ne="O" />
+                <word id="2" cont="好样" pos="a" ne="O" />
+                <word id="3" cont="的" pos="u" ne="O" />
+                <word id="4" cont="，" pos="wp" ne="O" />
+                <word id="5" cont="看" pos="v" ne="O" />
+                <word id="6" cont="你" pos="r" ne="O" />
+                <word id="7" cont="的" pos="u" ne="O" />
+                <word id="8" cont="了" pos="u" ne="O" />
+                <word id="9" cont="！" pos="wp" ne="O" />
+            </sent>
+        </para>
+        <para id="137">
+            <sent id="0" cont="令人耳目一新">
+                <word id="0" cont="令" pos="v" ne="O" />
+                <word id="1" cont="人" pos="n" ne="O" />
+                <word id="2" cont="耳目一新" pos="i" ne="O" />
+            </sent>
+        </para>
+        <para id="138">
+            <sent id="0" cont="这是我看到的关于华为商业模式最精辟的论述">
+                <word id="0" cont="这" pos="r" ne="O" />
+                <word id="1" cont="是" pos="v" ne="O" />
+                <word id="2" cont="我" pos="r" ne="O" />
+                <word id="3" cont="看到" pos="v" ne="O" />
+                <word id="4" cont="的" pos="u" ne="O" />
+                <word id="5" cont="关于" pos="p" ne="O" />
+                <word id="6" cont="华为" pos="nz" ne="S-Nz" />
+                <word id="7" cont="商业" pos="n" ne="O" />
+                <word id="8" cont="模式" pos="n" ne="O" />
+                <word id="9" cont="最" pos="d" ne="O" />
+                <word id="10" cont="精辟" pos="a" ne="O" />
+                <word id="11" cont="的" pos="u" ne="O" />
+                <word id="12" cont="论述" pos="v" ne="O" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>

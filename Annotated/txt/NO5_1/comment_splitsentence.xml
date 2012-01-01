@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="n" pos="n" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我考，那楼没建好就给我晃倒了…" />
+        </para>
+        <para id="1">
+            <sent id="0" cont="这个国家不那么简单，并不像有些人想的那样只会挥霍石油.他们今年一直在对外投资，并致力于将迪拜建成经济中心，这才是他们未来的出路.将来很可能变成类似新加坡一样的新型发达国家." />
+        </para>
+        <para id="2">
+            <sent id="0" cont="一场地震或者一架飞机就挂了。" />
+        </para>
+        <para id="3">
+            <sent id="0" cont="疯子行为！" />
+        </para>
+        <para id="4">
+            <sent id="0" cont="人家人少，石油多！" />
+        </para>
+        <para id="5">
+            <sent id="0" cont="是担心美元花不出去啊！" />
+        </para>
+        <para id="6">
+            <sent id="0" cont="钱都是越放越不值钱！" />
+        </para>
+        <para id="7">
+            <sent id="0" cont="工期十年之久，工程质量肯定越往后越差" />
+        </para>
+        <para id="8">
+            <sent id="0" cont="这么砸钱干吗，多…" />
+        </para>
+        <para id="9">
+            <sent id="0" cont="怎么总是觉得要是呆在这楼上不太稳当啊" />
+        </para>
+        <para id="10">
+            <sent id="0" cont="我看关心航天，还不如关心民生呢，现在朱门酒肉臭，路有冻死骨的例子也是挺多的啊" />
+        </para>
+        <para id="11">
+            <sent id="0" cont="有本事，做个珠穆朗玛峰出来" />
+        </para>
+        <para id="12">
+            <sent id="0" cont="阿连球果然和球有联系，有喜好。" />
+        </para>
+        <para id="13">
+            <sent id="0" cont="要建好大一个吊，一柱擎天呀" />
+        </para>
+        <para id="14">
+            <sent id="0" cont="这个世界公平吗？" />
+        </para>
+        <para id="15">
+            <sent id="0" cont="不公平！" />
+        </para>
+        <para id="16">
+            <sent id="0" cont="说到底还是文化不多" />
+        </para>
+        <para id="17">
+            <sent id="0" cont="石油用完的那一天怎么办呢，唉这样的国家，就知道浪费。" />
+        </para>
+        <para id="18">
+            <sent id="0" cont="别TMD的一天到晚吹牛1000米以上的大楼了，我20多年前就开始看见说谁谁谁要盖1000米以上的大楼，结果呢？" />
+        </para>
+        <para id="19">
+            <sent id="0" cont="现在还在吹，盖出来了再说好吗？" />
+        </para>
+        <para id="20">
+            <sent id="0" cont="这些国际大骗子。" />
+        </para>
+        <para id="21">
+            <sent id="0" cont="没准迪拜是第一个登录火星的国家，牛！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="22">
+            <sent id="0" cont="造结实点，以后地球不能住了，楼底下捆绑几个助推火箭直接发射了" />
+        </para>
+        <para id="23">
+            <sent id="0" cont="反正阿拉伯人和恐怖分子是一家，不怕飞机撞大楼。" />
+        </para>
+        <para id="24">
+            <sent id="0" cont="中国人，尤其是好虚荣的上海人，绝对不要学迪拜。" />
+        </para>
+        <para id="25">
+            <sent id="0" cont="搞好航天，比那个二里地高的短棍子好一万倍。" />
+        </para>
+        <para id="26">
+            <sent id="0" cont="沙特阿拉伯那边真他妈富地流油！" />
+        </para>
+        <para id="27">
+            <sent id="0" cont="疯子" />
+        </para>
+        <para id="28">
+            <sent id="0" cont="点起来就是烧火棍，，，，，，！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+            <sent id="6" cont="！" />
+            <sent id="7" cont="！" />
+            <sent id="8" cont="！" />
+            <sent id="9" cont="！" />
+            <sent id="10" cont="！" />
+            <sent id="11" cont="！" />
+            <sent id="12" cont="！" />
+            <sent id="13" cont="！" />
+        </para>
+        <para id="29">
+            <sent id="0" cont="感觉是用汽油桶堆起来的" />
+        </para>
+        <para id="30">
+            <sent id="0" cont="是啊，现在华尔街那帮家伙，都跑到迪拜去了。" />
+        </para>
+        <para id="31">
+            <sent id="0" cont="人才都跑到那里去后，第三产业收入就会远超卖石油收入。" />
+        </para>
+        <para id="32">
+            <sent id="0" cont="看了就有炸的冲动" />
+        </para>
+        <para id="33">
+            <sent id="0" cont="拉登有股份，不然谁敢弄那么高" />
+        </para>
+        <para id="34">
+            <sent id="0" cont="你有点傻啊！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="35">
+            <sent id="0" cont="你以为中国在海湾那边真有那么大的购买力啊，傻子！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="36">
+            <sent id="0" cont="人家可没有希望小学" />
+        </para>
+        <para id="37">
+            <sent id="0" cont="迪拜现在现在大力发展旅游和自由贸易，就是为将来石油挖完后做打算的。" />
+        </para>
+        <para id="38">
+            <sent id="0" cont="阿联酋是世界第三大石油和天然气储备国，但他现在的石油收入只占总收入的10%左右，是中东地区转型最好的国家。" />
+        </para>
+        <para id="39">
+            <sent id="0" cont="在迪拜你可以看到很多世界第一，世界奢侈品之都，富豪的天堂，在建的空港世界第一，港口吞吐量世界前十，中东最大的贸易自由港，最高的楼，最大的人工岛，月球都可以看到，最大的喷泉，等等。" />
+        </para>
+        <para id="40">
+            <sent id="0" cont="是一个非常有活力的城市。" />
+        </para>
+        <para id="41">
+            <sent id="0" cont="有十万华人在迪拜，以温州，福建，广东商人为主。" />
+        </para>
+        <para id="42">
+            <sent id="0" cont="在迪拜你可以感受很多惊奇。" />
+        </para>
+        <para id="43">
+            <sent id="0" cont="典型的钱多了不知怎么花。" />
+        </para>
+        <para id="44">
+            <sent id="0" cont="人类为了寻求刺激，什么事都可以干" />
+        </para>
+        <para id="45">
+            <sent id="0" cont="都是用我们的石油钱堆起来的高楼" />
+        </para>
+        <para id="46">
+            <sent id="0" cont="阿联酋发展原则：" />
+            <sent id="1" cont="油价多高，楼造多高" />
+        </para>
+        <para id="47">
+            <sent id="0" cont="兄弟迪拜是阿联酋的好吧~~~~" />
+        </para>
+        <para id="48">
+            <sent id="0" cont="又是一个那楼！" />
+        </para>
+        <para id="49">
+            <sent id="0" cont="沙特是亲美的！" />
+        </para>
+        <para id="50">
+            <sent id="0" cont="人家国外的科技那可算得上：" />
+            <sent id="1" cont="真强啊，随随便便即可开工，不吹牛B。" />
+        </para>
+        <para id="51">
+            <sent id="0" cont="人家阿联酋再sb能和我们中国人比人家可没把毒奶粉喂自家孩子" />
+        </para>
+        <para id="52">
+            <sent id="0" cont="停电怎么下楼？" />
+        </para>
+        <para id="53">
+            <sent id="0" cont="要是也地震的话，人都跑不了" />
+        </para>
+        <para id="54">
+            <sent id="0" cont="钱多，浪费" />
+        </para>
+        <para id="55">
+            <sent id="0" cont="建航母干啥！" />
+        </para>
+        <para id="56">
+            <sent id="0" cont="再办次更豪华的奥运多风光" />
+        </para>
+        <para id="57">
+            <sent id="0" cont="不采油给后代？" />
+        </para>
+        <para id="58">
+            <sent id="0" cont="石油用完与否不是他一个阿联酋决定的，他不采油早晚石油作为主要能源还是要没落。" />
+        </para>
+        <para id="59">
+            <sent id="0" cont="还不如趁现在油价高飚多赚一笔。" />
+        </para>
+        <para id="60">
+            <sent id="0" cont="那你说钱留着干啥？" />
+        </para>
+        <para id="61">
+            <sent id="0" cont="投入教育？" />
+        </para>
+        <para id="62">
+            <sent id="0" cont="科技？" />
+        </para>
+        <para id="63">
+            <sent id="0" cont="人已经投了够多的钱了。" />
+        </para>
+        <para id="64">
+            <sent id="0" cont="投入环境？" />
+        </para>
+        <para id="65">
+            <sent id="0" cont="他们在这上面花的钱绝对令你咂舌。" />
+        </para>
+        <para id="66">
+            <sent id="0" cont="不要想当然的以为石油用完了别人就只能等死。" />
+        </para>
+        <para id="67">
+            <sent id="0" cont="最后一滴石油将是他们的眼泪！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+        </para>
+        <para id="68">
+            <sent id="0" cont="穷人乍富有了钱都不知道怎么折腾了" />
+        </para>
+        <para id="69">
+            <sent id="0" cont="你多学点中文，别老打错别字" />
+        </para>
+        <para id="70">
+            <sent id="0" cont="疯狂的阿联酋人" />
+        </para>
+        <para id="71">
+            <sent id="0" cont="孤陋寡闻，杜拜已经成为世界最有活力的国际性大都市，考得绝不仅是石油。" />
+        </para>
+        <para id="72">
+            <sent id="0" cont="有机会学点英文，读多点非主旋律的书吧" />
+        </para>
+        <para id="73">
+            <sent id="0" cont="上面要备降落伞才行" />
+        </para>
+        <para id="74">
+            <sent id="0" cont="像世贸大楼那样被飞机撞了起火，人就直接跳下去吧，几百层跑不来的。" />
+        </para>
+        <para id="75">
+            <sent id="0" cont="就是因为油要光了所以才大力搞旅游啊！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="76">
+            <sent id="0" cont="什么都是世界第一不吸引眼球才怪" />
+        </para>
+        <para id="77">
+            <sent id="0" cont="他们花的都是子孙后代的钱，真不知道哪天石油抽完了，那里会变成一个什么样子" />
+        </para>
+        <para id="78">
+            <sent id="0" cont="上海人，你们别愣在那呀。" />
+        </para>
+        <para id="79">
+            <sent id="0" cont="还不赶紧追赶。" />
+        </para>
+        <para id="80">
+            <sent id="0" cont="你们上海应该建一座一万米高的大楼，那才叫大上海呢。" />
+        </para>
+        <para id="81">
+            <sent id="0" cont="让全国和全世界看看你们上海是最牛的是最城市化的。" />
+        </para>
+        <para id="82">
+            <sent id="0" cont="能不能干点正事" />
+        </para>
+        <para id="83">
+            <sent id="0" cont="希望不要成为第一张多米诺骨牌。" />
+        </para>
+        <para id="84">
+            <sent id="0" cont="垃圾国家" />
+        </para>
+        <para id="85">
+            <sent id="0" cont="待在老美，脑子都待秀逗了" />
+        </para>
+        <para id="86">
+            <sent id="0" cont="可恶的阿拉伯人靠高油价赚了全世界人民的血汗钱，然后自己挥霍。" />
+        </para>
+        <para id="87">
+            <sent id="0" cont="世界为什么这么不公平呢？" />
+        </para>
+        <para id="88">
+            <sent id="0" cont="迪拜有远见！" />
+        </para>
+        <para id="89">
+            <sent id="0" cont="这叫铺后路！" />
+        </para>
+        <para id="90">
+            <sent id="0" cont="这个国家很富有的！" />
+        </para>
+        <para id="91">
+            <sent id="0" cont="贝克汉姆和克林顿都有在那里置房产！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+        </para>
+        <para id="92">
+            <sent id="0" cont="你看那个酒店不知有多火，也许就是因为她的世界第一！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="93">
+            <sent id="0" cont="油抽光了，他们的子孙们怎么办呢，现在如此疯狂，没有好下场。" />
+        </para>
+        <para id="94">
+            <sent id="0" cont="小心别倒了" />
+        </para>
+        <para id="95">
+            <sent id="0" cont="未来建筑的楷模！" />
+        </para>
+        <para id="96">
+            <sent id="0" cont="将来的考古对象。" />
+        </para>
+        <para id="97">
+            <sent id="0" cont="还是背降落伞吧小心停电" />
+        </para>
+        <para id="98">
+            <sent id="0" cont="放心，超过500的建筑估计都是开玩笑的时候说着玩的" />
+        </para>
+        <para id="99">
+            <sent id="0" cont="那个广东广州的家伙（特指，非泛指，非地域攻击）彻底疯了。" />
+        </para>
+        <para id="100">
+            <sent id="0" cont="数钱数到手抽筋" />
+        </para>
+        <para id="101">
+            <sent id="0" cont="如果着火了怎么办？" />
+            <sent id="1" cont="？" />
+            <sent id="2" cont="？" />
+            <sent id="3" cont="？" />
+            <sent id="4" cont="？" />
+            <sent id="5" cont="？" />
+            <sent id="6" cont="？" />
+            <sent id="7" cont="？" />
+            <sent id="8" cont="？" />
+            <sent id="9" cont="？" />
+        </para>
+        <para id="102">
+            <sent id="0" cont="真的很高，起到什么作用呢？" />
+        </para>
+        <para id="103">
+            <sent id="0" cont="就是个世界第一吗？" />
+        </para>
+        <para id="104">
+            <sent id="0" cont="没得法，人家是有钱了烧得慌！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="105">
+            <sent id="0" cont="迪拜此法也算比较高明，把迪拜建成一个金融中心，油抽干了又可以搞旅游。" />
+        </para>
+        <para id="106">
+            <sent id="0" cont="不错，不错。" />
+        </para>
+        <para id="107">
+            <sent id="0" cont="油抽光了，就把这个世界第一高楼卖给上海，免得丢了我们国际金融中心的面子" />
+        </para>
+        <para id="108">
+            <sent id="0" cont="迪拜＝第二个圆明园。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+            <sent id="3" cont="。" />
+            <sent id="4" cont="。" />
+            <sent id="5" cont="。" />
+        </para>
+        <para id="109">
+            <sent id="0" cont="疯狂的迪拜肯定要为疯狂付出沉重的代价！" />
+        </para>
+        <para id="110">
+            <sent id="0" cont="钱来的容易去得快，阿哄没事干了。" />
+        </para>
+        <para id="111">
+            <sent id="0" cont="暴发户的心态和中国一样" />
+        </para>
+        <para id="112">
+            <sent id="0" cont="DISCOVERY作过迪拜人工棕榈岛的节目……很夸张你们就造把……&amp;gt;" />
+            <sent id="1" cont="_&amp;lt;" />
+        </para>
+        <para id="113">
+            <sent id="0" cont="据说地基要一直打到美国才行?" />
+            <sent id="1" cont="?" />
+            <sent id="2" cont="这才是最大的阴谋你们挣天我钻地" />
+        </para>
+        <para id="114">
+            <sent id="0" cont="果然是财大气粗啊！" />
+        </para>
+        <para id="115">
+            <sent id="0" cont="你们就不用这么酸葡萄心理了，石油每桶40刀都非常赚，何况现在100刀左右，人家超额利润的零头都够盖一百座这样的大楼了。" />
+        </para>
+        <para id="116">
+            <sent id="0" cont="没办法，中国人就是穷命，天生的干活命，人家不干活照样好吃好喝好穿好住，一句话：" />
+            <sent id="1" cont="咱RP不行。" />
+        </para>
+        <para id="117">
+            <sent id="0" cont="造的再好，不过是我的度假村罢了" />
+        </para>
+        <para id="118">
+            <sent id="0" cont="使劲折腾吧，快完了，可怜阿联酋人的后代了" />
+        </para>
+        <para id="119">
+            <sent id="0" cont="这么有钱让他们搞航天，估计他们多么富有也玩不起，航天比这些高楼烧钱多去了，要怎么烧怎么烧，烧得你割肉的痛" />
+        </para>
+        <para id="120">
+            <sent id="0" cont="哪天不用石油了，这些楼就得卖给其它国家了" />
+        </para>
+        <para id="121">
+            <sent id="0" cont="下一个911目标" />
+        </para>
+        <para id="122">
+            <sent id="0" cont="油价只有88美元了..." />
+        </para>
+        <para id="123">
+            <sent id="0" cont="那么高，对地球的压力那么大，不会把地球钻个洞吧，哈哈，正好钻透美国" />
+        </para>
+        <para id="124">
+            <sent id="0" cont="石油的威力，还有至少一两个世纪。" />
+        </para>
+        <para id="125">
+            <sent id="0" cont="人家有钱，爱怎么花都行。" />
+        </para>
+        <para id="126">
+            <sent id="0" cont="这是空前的，但决不是绝后的。" />
+        </para>
+        <para id="127">
+            <sent id="0" cont="石油高度还会增长的。" />
+        </para>
+        <para id="128">
+            <sent id="0" cont="眼红啊？" />
+        </para>
+        <para id="129">
+            <sent id="0" cont="自己去赚钱嘛。" />
+        </para>
+        <para id="130">
+            <sent id="0" cont="中国要建一座5000米的高楼！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+        </para>
+        <para id="131">
+            <sent id="0" cont="抵三个克莱斯勒。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+        </para>
+        <para id="132">
+            <sent id="0" cont="中国别玩这个，我们建航母，抵三个尼米兹吧" />
+        </para>
+        <para id="133">
+            <sent id="0" cont="问题是石油总有挖完的那一天。" />
+            <sent id="1" cont="。" />
+            <sent id="2" cont="。" />
+        </para>
+        <para id="134">
+            <sent id="0" cont="石油是上帝给你们的，挖完了请来中国讨饭！" />
+        </para>
+        <para id="135">
+            <sent id="0" cont="最高的应时日本准备开始建的大楼1650米的" />
+        </para>
+        <para id="136">
+            <sent id="0" cont="最高的应时沙特准备开始建的大楼1600米" />
+        </para>
+        <para id="137">
+            <sent id="0" cont="国越小越好！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+        </para>
+        <para id="138">
+            <sent id="0" cont="越富越好！" />
+            <sent id="1" cont="！" />
+            <sent id="2" cont="！" />
+            <sent id="3" cont="！" />
+            <sent id="4" cont="！" />
+            <sent id="5" cont="！" />
+            <sent id="6" cont="！" />
+        </para>
+        <para id="139">
+            <sent id="0" cont="石油阔佬们，不费吹灰之力拿到数不尽的钞票，尽干些违反经济规律的事。" />
+        </para>
+        <para id="140">
+            <sent id="0" cont="迪拜，建筑师的天堂" />
+        </para>
+        <para id="141">
+            <sent id="0" cont="中国建个1万米的，" />
+        </para>
+        <para id="142">
+            <sent id="0" cont="是不是太高了点！" />
+            <sent id="1" cont="！" />
+        </para>
+        <para id="143">
+            <sent id="0" cont="楼建得再高，阿联酋永远也都只是个小国！" />
+        </para>
+        <para id="144">
+            <sent id="0" cont="不可思议！" />
+        </para>
+        <para id="145">
+            <sent id="0" cont="迪拜人就是NB！" />
+        </para>
+        <para id="146">
+            <sent id="0" cont="应该很快被中国某个小城市超过的！" />
+        </para>
+        <para id="147">
+            <sent id="0" cont="大家放心！" />
+        </para>
+        <para id="148">
+            <sent id="0" cont="纯属钱烧的。" />
+        </para>
+        <para id="149">
+            <sent id="0" cont="现在是在发子孙财，油抽干了，看得瑟不" />
+        </para>
+    </doc>
+</xml4nlp>

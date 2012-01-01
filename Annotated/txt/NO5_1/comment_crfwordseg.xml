@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<xml4nlp>
+    <note sent="y" word="y" pos="n" ne="n" parser="n" wsd="n" srl="n" />
+    <doc>
+        <para id="0">
+            <sent id="0" cont="我考，那楼没建好就给我晃倒了…">
+                <word id="0" cont="我" />
+                <word id="1" cont="考" />
+                <word id="2" cont="，" />
+                <word id="3" cont="那" />
+                <word id="4" cont="楼" />
+                <word id="5" cont="没" />
+                <word id="6" cont="建" />
+                <word id="7" cont="好" />
+                <word id="8" cont="就" />
+                <word id="9" cont="给" />
+                <word id="10" cont="我" />
+                <word id="11" cont="晃" />
+                <word id="12" cont="倒" />
+                <word id="13" cont="了" />
+                <word id="14" cont="…" />
+            </sent>
+        </para>
+        <para id="1">
+            <sent id="0" cont="这个国家不那么简单，并不像有些人想的那样只会挥霍石油.他们今年一直在对外投资，并致力于将迪拜建成经济中心，这才是他们未来的出路.将来很可能变成类似新加坡一样的新型发达国家.">
+                <word id="0" cont="这个" />
+                <word id="1" cont="国家" />
+                <word id="2" cont="不" />
+                <word id="3" cont="那么" />
+                <word id="4" cont="简单" />
+                <word id="5" cont="，" />
+                <word id="6" cont="并" />
+                <word id="7" cont="不" />
+                <word id="8" cont="像" />
+                <word id="9" cont="有些" />
+                <word id="10" cont="人" />
+                <word id="11" cont="想" />
+                <word id="12" cont="的" />
+                <word id="13" cont="那样" />
+                <word id="14" cont="只" />
+                <word id="15" cont="会" />
+                <word id="16" cont="挥霍" />
+                <word id="17" cont="石油." />
+                <word id="18" cont="他们" />
+                <word id="19" cont="今年" />
+                <word id="20" cont="一直" />
+                <word id="21" cont="在" />
+                <word id="22" cont="对外" />
+                <word id="23" cont="投资" />
+                <word id="24" cont="，" />
+                <word id="25" cont="并" />
+                <word id="26" cont="致力" />
+                <word id="27" cont="于" />
+                <word id="28" cont="将" />
+                <word id="29" cont="迪拜" />
+                <word id="30" cont="建成" />
+                <word id="31" cont="经济" />
+                <word id="32" cont="中心" />
+                <word id="33" cont="，" />
+                <word id="34" cont="这" />
+                <word id="35" cont="才" />
+                <word id="36" cont="是" />
+                <word id="37" cont="他们" />
+                <word id="38" cont="未来" />
+                <word id="39" cont="的" />
+                <word id="40" cont="出路." />
+                <word id="41" cont="将来" />
+                <word id="42" cont="很" />
+                <word id="43" cont="可能" />
+                <word id="44" cont="变成" />
+                <word id="45" cont="类似" />
+                <word id="46" cont="新加坡" />
+                <word id="47" cont="一样" />
+                <word id="48" cont="的" />
+                <word id="49" cont="新型" />
+                <word id="50" cont="发达国家." />
+            </sent>
+        </para>
+        <para id="2">
+            <sent id="0" cont="一场地震或者一架飞机就挂了。">
+                <word id="0" cont="一" />
+                <word id="1" cont="场" />
+                <word id="2" cont="地震" />
+                <word id="3" cont="或者" />
+                <word id="4" cont="一" />
+                <word id="5" cont="架" />
+                <word id="6" cont="飞机" />
+                <word id="7" cont="就" />
+                <word id="8" cont="挂" />
+                <word id="9" cont="了" />
+                <word id="10" cont="。" />
+            </sent>
+        </para>
+        <para id="3">
+            <sent id="0" cont="疯子行为！">
+                <word id="0" cont="疯子" />
+                <word id="1" cont="行为" />
+                <word id="2" cont="！" />
+            </sent>
+        </para>
+        <para id="4">
+            <sent id="0" cont="人家人少，石油多！">
+                <word id="0" cont="人家" />
+                <word id="1" cont="人" />
+                <word id="2" cont="少" />
+                <word id="3" cont="，" />
+                <word id="4" cont="石油" />
+                <word id="5" cont="多" />
+                <word id="6" cont="！" />
+            </sent>
+        </para>
+        <para id="5">
+            <sent id="0" cont="是担心美元花不出去啊！">
+                <word id="0" cont="是" />
+                <word id="1" cont="担心" />
+                <word id="2" cont="美元" />
+                <word id="3" cont="花" />
+                <word id="4" cont="不" />
+                <word id="5" cont="出去" />
+                <word id="6" cont="啊" />
+                <word id="7" cont="！" />
+            </sent>
+        </para>
+        <para id="6">
+            <sent id="0" cont="钱都是越放越不值钱！">
+                <word id="0" cont="钱" />
+                <word id="1" cont="都" />
+                <word id="2" cont="是" />
+                <word id="3" cont="越" />
+                <word id="4" cont="放" />
+                <word id="5" cont="越" />
+                <word id="6" cont="不" />
+                <word id="7" cont="值钱" />
+                <word id="8" cont="！" />
+            </sent>
+        </para>
+        <para id="7">
+            <sent id="0" cont="工期十年之久，工程质量肯定越往后越差">
+                <word id="0" cont="工期" />
+                <word id="1" cont="十" />
+                <word id="2" cont="年" />
+                <word id="3" cont="之" />
+                <word id="4" cont="久" />
+                <word id="5" cont="，" />
+                <word id="6" cont="工程" />
+                <word id="7" cont="质量" />
+                <word id="8" cont="肯定" />
+                <word id="9" cont="越" />
+                <word id="10" cont="往" />
+                <word id="11" cont="后" />
+                <word id="12" cont="越" />
+                <word id="13" cont="差" />
+            </sent>
+        </para>
+        <para id="8">
+            <sent id="0" cont="这么砸钱干吗，多…">
+                <word id="0" cont="这么" />
+                <word id="1" cont="砸" />
+                <word id="2" cont="钱" />
+                <word id="3" cont="干吗" />
+                <word id="4" cont="，" />
+                <word id="5" cont="多…" />
+            </sent>
+        </para>
+        <para id="9">
+            <sent id="0" cont="怎么总是觉得要是呆在这楼上不太稳当啊">
+                <word id="0" cont="怎么" />
+                <word id="1" cont="总是" />
+                <word id="2" cont="觉得" />
+                <word id="3" cont="要是" />
+                <word id="4" cont="呆" />
+                <word id="5" cont="在" />
+                <word id="6" cont="这" />
+                <word id="7" cont="楼" />
+                <word id="8" cont="上" />
+                <word id="9" cont="不" />
+                <word id="10" cont="太" />
+                <word id="11" cont="稳当" />
+                <word id="12" cont="啊" />
+            </sent>
+        </para>
+        <para id="10">
+            <sent id="0" cont="我看关心航天，还不如关心民生呢，现在朱门酒肉臭，路有冻死骨的例子也是挺多的啊">
+                <word id="0" cont="我" />
+                <word id="1" cont="看" />
+                <word id="2" cont="关心" />
+                <word id="3" cont="航天" />
+                <word id="4" cont="，" />
+                <word id="5" cont="还" />
+                <word id="6" cont="不" />
+                <word id="7" cont="如" />
+                <word id="8" cont="关心" />
+                <word id="9" cont="民生" />
+                <word id="10" cont="呢" />
+                <word id="11" cont="，" />
+                <word id="12" cont="现在" />
+                <word id="13" cont="朱门酒" />
+                <word id="14" cont="肉" />
+                <word id="15" cont="臭" />
+                <word id="16" cont="，" />
+                <word id="17" cont="路" />
+                <word id="18" cont="有" />
+                <word id="19" cont="冻死骨" />
+                <word id="20" cont="的" />
+                <word id="21" cont="例子" />
+                <word id="22" cont="也" />
+                <word id="23" cont="是" />
+                <word id="24" cont="挺" />
+                <word id="25" cont="多" />
+                <word id="26" cont="的" />
+                <word id="27" cont="啊" />
+            </sent>
+        </para>
+        <para id="11">
+            <sent id="0" cont="有本事，做个珠穆朗玛峰出来">
+                <word id="0" cont="有" />
+                <word id="1" cont="本事" />
+                <word id="2" cont="，" />
+                <word id="3" cont="做" />
+                <word id="4" cont="个" />
+                <word id="5" cont="珠穆朗玛峰" />
+                <word id="6" cont="出来" />
+            </sent>
+        </para>
+        <para id="12">
+            <sent id="0" cont="阿连球果然和球有联系，有喜好。">
+                <word id="0" cont="阿连球" />
+                <word id="1" cont="果然" />
+                <word id="2" cont="和" />
+                <word id="3" cont="球" />
+                <word id="4" cont="有" />
+                <word id="5" cont="联系" />
+                <word id="6" cont="，" />
+                <word id="7" cont="有" />
+                <word id="8" cont="喜好" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="13">
+            <sent id="0" cont="要建好大一个吊，一柱擎天呀">
+                <word id="0" cont="要" />
+                <word id="1" cont="建" />
+                <word id="2" cont="好" />
+                <word id="3" cont="大" />
+                <word id="4" cont="一个" />
+                <word id="5" cont="吊" />
+                <word id="6" cont="，" />
+                <word id="7" cont="一" />
+                <word id="8" cont="柱" />
+                <word id="9" cont="擎" />
+                <word id="10" cont="天" />
+                <word id="11" cont="呀" />
+            </sent>
+        </para>
+        <para id="14">
+            <sent id="0" cont="这个世界公平吗？">
+                <word id="0" cont="这个" />
+                <word id="1" cont="世界" />
+                <word id="2" cont="公平" />
+                <word id="3" cont="吗" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="15">
+            <sent id="0" cont="不公平！">
+                <word id="0" cont="不" />
+                <word id="1" cont="公平" />
+                <word id="2" cont="！" />
+            </sent>
+        </para>
+        <para id="16">
+            <sent id="0" cont="说到底还是文化不多">
+                <word id="0" cont="说到底" />
+                <word id="1" cont="还是" />
+                <word id="2" cont="文化" />
+                <word id="3" cont="不" />
+                <word id="4" cont="多" />
+            </sent>
+        </para>
+        <para id="17">
+            <sent id="0" cont="石油用完的那一天怎么办呢，唉这样的国家，就知道浪费。">
+                <word id="0" cont="石油" />
+                <word id="1" cont="用" />
+                <word id="2" cont="完" />
+                <word id="3" cont="的" />
+                <word id="4" cont="那" />
+                <word id="5" cont="一" />
+                <word id="6" cont="天" />
+                <word id="7" cont="怎么办" />
+                <word id="8" cont="呢" />
+                <word id="9" cont="，" />
+                <word id="10" cont="唉" />
+                <word id="11" cont="这样" />
+                <word id="12" cont="的" />
+                <word id="13" cont="国家" />
+                <word id="14" cont="，" />
+                <word id="15" cont="就" />
+                <word id="16" cont="知道" />
+                <word id="17" cont="浪费" />
+                <word id="18" cont="。" />
+            </sent>
+        </para>
+        <para id="18">
+            <sent id="0" cont="别TMD的一天到晚吹牛1000米以上的大楼了，我20多年前就开始看见说谁谁谁要盖1000米以上的大楼，结果呢？">
+                <word id="0" cont="别TMD" />
+                <word id="1" cont="的" />
+                <word id="2" cont="一" />
+                <word id="3" cont="天到晚" />
+                <word id="4" cont="吹牛" />
+                <word id="5" cont="1000" />
+                <word id="6" cont="米" />
+                <word id="7" cont="以上" />
+                <word id="8" cont="的" />
+                <word id="9" cont="大楼" />
+                <word id="10" cont="了" />
+                <word id="11" cont="，" />
+                <word id="12" cont="我" />
+                <word id="13" cont="20" />
+                <word id="14" cont="多" />
+                <word id="15" cont="年" />
+                <word id="16" cont="前" />
+                <word id="17" cont="就" />
+                <word id="18" cont="开始" />
+                <word id="19" cont="看见" />
+                <word id="20" cont="说" />
+                <word id="21" cont="谁" />
+                <word id="22" cont="谁" />
+                <word id="23" cont="谁" />
+                <word id="24" cont="要" />
+                <word id="25" cont="盖" />
+                <word id="26" cont="1000" />
+                <word id="27" cont="米" />
+                <word id="28" cont="以上" />
+                <word id="29" cont="的" />
+                <word id="30" cont="大楼" />
+                <word id="31" cont="，" />
+                <word id="32" cont="结果" />
+                <word id="33" cont="呢" />
+                <word id="34" cont="？" />
+            </sent>
+        </para>
+        <para id="19">
+            <sent id="0" cont="现在还在吹，盖出来了再说好吗？">
+                <word id="0" cont="现在" />
+                <word id="1" cont="还" />
+                <word id="2" cont="在" />
+                <word id="3" cont="吹" />
+                <word id="4" cont="，" />
+                <word id="5" cont="盖" />
+                <word id="6" cont="出来" />
+                <word id="7" cont="了" />
+                <word id="8" cont="再说" />
+                <word id="9" cont="好" />
+                <word id="10" cont="吗" />
+                <word id="11" cont="？" />
+            </sent>
+        </para>
+        <para id="20">
+            <sent id="0" cont="这些国际大骗子。">
+                <word id="0" cont="这些" />
+                <word id="1" cont="国际" />
+                <word id="2" cont="大" />
+                <word id="3" cont="骗子" />
+                <word id="4" cont="。" />
+            </sent>
+        </para>
+        <para id="21">
+            <sent id="0" cont="没准迪拜是第一个登录火星的国家，牛！">
+                <word id="0" cont="没准" />
+                <word id="1" cont="迪拜" />
+                <word id="2" cont="是" />
+                <word id="3" cont="第一" />
+                <word id="4" cont="个" />
+                <word id="5" cont="登录" />
+                <word id="6" cont="火星" />
+                <word id="7" cont="的" />
+                <word id="8" cont="国家" />
+                <word id="9" cont="，" />
+                <word id="10" cont="牛" />
+                <word id="11" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="22">
+            <sent id="0" cont="造结实点，以后地球不能住了，楼底下捆绑几个助推火箭直接发射了">
+                <word id="0" cont="造" />
+                <word id="1" cont="结实" />
+                <word id="2" cont="点" />
+                <word id="3" cont="，" />
+                <word id="4" cont="以后" />
+                <word id="5" cont="地球" />
+                <word id="6" cont="不" />
+                <word id="7" cont="能" />
+                <word id="8" cont="住" />
+                <word id="9" cont="了" />
+                <word id="10" cont="，" />
+                <word id="11" cont="楼" />
+                <word id="12" cont="底下" />
+                <word id="13" cont="捆绑" />
+                <word id="14" cont="几" />
+                <word id="15" cont="个" />
+                <word id="16" cont="助推" />
+                <word id="17" cont="火箭" />
+                <word id="18" cont="直接" />
+                <word id="19" cont="发射" />
+                <word id="20" cont="了" />
+            </sent>
+        </para>
+        <para id="23">
+            <sent id="0" cont="反正阿拉伯人和恐怖分子是一家，不怕飞机撞大楼。">
+                <word id="0" cont="反正" />
+                <word id="1" cont="阿拉伯" />
+                <word id="2" cont="人" />
+                <word id="3" cont="和" />
+                <word id="4" cont="恐怖" />
+                <word id="5" cont="分子" />
+                <word id="6" cont="是" />
+                <word id="7" cont="一" />
+                <word id="8" cont="家" />
+                <word id="9" cont="，" />
+                <word id="10" cont="不怕" />
+                <word id="11" cont="飞机" />
+                <word id="12" cont="撞" />
+                <word id="13" cont="大楼" />
+                <word id="14" cont="。" />
+            </sent>
+        </para>
+        <para id="24">
+            <sent id="0" cont="中国人，尤其是好虚荣的上海人，绝对不要学迪拜。">
+                <word id="0" cont="中国" />
+                <word id="1" cont="人" />
+                <word id="2" cont="，" />
+                <word id="3" cont="尤其" />
+                <word id="4" cont="是" />
+                <word id="5" cont="好" />
+                <word id="6" cont="虚荣" />
+                <word id="7" cont="的" />
+                <word id="8" cont="上海" />
+                <word id="9" cont="人" />
+                <word id="10" cont="，" />
+                <word id="11" cont="绝对" />
+                <word id="12" cont="不要" />
+                <word id="13" cont="学" />
+                <word id="14" cont="迪拜" />
+                <word id="15" cont="。" />
+            </sent>
+        </para>
+        <para id="25">
+            <sent id="0" cont="搞好航天，比那个二里地高的短棍子好一万倍。">
+                <word id="0" cont="搞好" />
+                <word id="1" cont="航天" />
+                <word id="2" cont="，" />
+                <word id="3" cont="比" />
+                <word id="4" cont="那个" />
+                <word id="5" cont="二里" />
+                <word id="6" cont="地" />
+                <word id="7" cont="高" />
+                <word id="8" cont="的" />
+                <word id="9" cont="短棍子" />
+                <word id="10" cont="好" />
+                <word id="11" cont="一万" />
+                <word id="12" cont="倍" />
+                <word id="13" cont="。" />
+            </sent>
+        </para>
+        <para id="26">
+            <sent id="0" cont="沙特阿拉伯那边真他妈富地流油！">
+                <word id="0" cont="沙特阿拉伯" />
+                <word id="1" cont="那边" />
+                <word id="2" cont="真" />
+                <word id="3" cont="他" />
+                <word id="4" cont="妈" />
+                <word id="5" cont="富" />
+                <word id="6" cont="地" />
+                <word id="7" cont="流油" />
+                <word id="8" cont="！" />
+            </sent>
+        </para>
+        <para id="27">
+            <sent id="0" cont="疯子">
+                <word id="0" cont="疯子" />
+            </sent>
+        </para>
+        <para id="28">
+            <sent id="0" cont="点起来就是烧火棍，，，，，，！">
+                <word id="0" cont="点" />
+                <word id="1" cont="起来" />
+                <word id="2" cont="就是" />
+                <word id="3" cont="烧火棍" />
+                <word id="4" cont="，" />
+                <word id="5" cont="，" />
+                <word id="6" cont="，" />
+                <word id="7" cont="，" />
+                <word id="8" cont="，" />
+                <word id="9" cont="，" />
+                <word id="10" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="4" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="5" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="6" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="7" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="8" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="9" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="10" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="11" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="12" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="13" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="29">
+            <sent id="0" cont="感觉是用汽油桶堆起来的">
+                <word id="0" cont="感觉" />
+                <word id="1" cont="是" />
+                <word id="2" cont="用" />
+                <word id="3" cont="汽油" />
+                <word id="4" cont="桶" />
+                <word id="5" cont="堆" />
+                <word id="6" cont="起来" />
+                <word id="7" cont="的" />
+            </sent>
+        </para>
+        <para id="30">
+            <sent id="0" cont="是啊，现在华尔街那帮家伙，都跑到迪拜去了。">
+                <word id="0" cont="是" />
+                <word id="1" cont="啊" />
+                <word id="2" cont="，" />
+                <word id="3" cont="现在" />
+                <word id="4" cont="华尔街" />
+                <word id="5" cont="那" />
+                <word id="6" cont="帮" />
+                <word id="7" cont="家伙" />
+                <word id="8" cont="，" />
+                <word id="9" cont="都" />
+                <word id="10" cont="跑" />
+                <word id="11" cont="到" />
+                <word id="12" cont="迪拜" />
+                <word id="13" cont="去" />
+                <word id="14" cont="了" />
+                <word id="15" cont="。" />
+            </sent>
+        </para>
+        <para id="31">
+            <sent id="0" cont="人才都跑到那里去后，第三产业收入就会远超卖石油收入。">
+                <word id="0" cont="人才" />
+                <word id="1" cont="都" />
+                <word id="2" cont="跑" />
+                <word id="3" cont="到" />
+                <word id="4" cont="那里" />
+                <word id="5" cont="去" />
+                <word id="6" cont="后" />
+                <word id="7" cont="，" />
+                <word id="8" cont="第三产业" />
+                <word id="9" cont="收入" />
+                <word id="10" cont="就" />
+                <word id="11" cont="会" />
+                <word id="12" cont="远" />
+                <word id="13" cont="超卖" />
+                <word id="14" cont="石油" />
+                <word id="15" cont="收入" />
+                <word id="16" cont="。" />
+            </sent>
+        </para>
+        <para id="32">
+            <sent id="0" cont="看了就有炸的冲动">
+                <word id="0" cont="看" />
+                <word id="1" cont="了" />
+                <word id="2" cont="就" />
+                <word id="3" cont="有" />
+                <word id="4" cont="炸" />
+                <word id="5" cont="的" />
+                <word id="6" cont="冲动" />
+            </sent>
+        </para>
+        <para id="33">
+            <sent id="0" cont="拉登有股份，不然谁敢弄那么高">
+                <word id="0" cont="拉登" />
+                <word id="1" cont="有" />
+                <word id="2" cont="股份" />
+                <word id="3" cont="，" />
+                <word id="4" cont="不然" />
+                <word id="5" cont="谁" />
+                <word id="6" cont="敢" />
+                <word id="7" cont="弄" />
+                <word id="8" cont="那么" />
+                <word id="9" cont="高" />
+            </sent>
+        </para>
+        <para id="34">
+            <sent id="0" cont="你有点傻啊！">
+                <word id="0" cont="你" />
+                <word id="1" cont="有" />
+                <word id="2" cont="点" />
+                <word id="3" cont="傻" />
+                <word id="4" cont="啊" />
+                <word id="5" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="35">
+            <sent id="0" cont="你以为中国在海湾那边真有那么大的购买力啊，傻子！">
+                <word id="0" cont="你" />
+                <word id="1" cont="以为" />
+                <word id="2" cont="中国" />
+                <word id="3" cont="在" />
+                <word id="4" cont="海湾" />
+                <word id="5" cont="那边" />
+                <word id="6" cont="真" />
+                <word id="7" cont="有" />
+                <word id="8" cont="那么" />
+                <word id="9" cont="大" />
+                <word id="10" cont="的" />
+                <word id="11" cont="购买力" />
+                <word id="12" cont="啊" />
+                <word id="13" cont="，" />
+                <word id="14" cont="傻子" />
+                <word id="15" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="36">
+            <sent id="0" cont="人家可没有希望小学">
+                <word id="0" cont="人家" />
+                <word id="1" cont="可" />
+                <word id="2" cont="没有" />
+                <word id="3" cont="希望" />
+                <word id="4" cont="小学" />
+            </sent>
+        </para>
+        <para id="37">
+            <sent id="0" cont="迪拜现在现在大力发展旅游和自由贸易，就是为将来石油挖完后做打算的。">
+                <word id="0" cont="迪拜" />
+                <word id="1" cont="现在" />
+                <word id="2" cont="现在" />
+                <word id="3" cont="大力" />
+                <word id="4" cont="发展" />
+                <word id="5" cont="旅游" />
+                <word id="6" cont="和" />
+                <word id="7" cont="自由" />
+                <word id="8" cont="贸易" />
+                <word id="9" cont="，" />
+                <word id="10" cont="就是" />
+                <word id="11" cont="为" />
+                <word id="12" cont="将来" />
+                <word id="13" cont="石油" />
+                <word id="14" cont="挖" />
+                <word id="15" cont="完" />
+                <word id="16" cont="后" />
+                <word id="17" cont="做" />
+                <word id="18" cont="打算" />
+                <word id="19" cont="的" />
+                <word id="20" cont="。" />
+            </sent>
+        </para>
+        <para id="38">
+            <sent id="0" cont="阿联酋是世界第三大石油和天然气储备国，但他现在的石油收入只占总收入的10%左右，是中东地区转型最好的国家。">
+                <word id="0" cont="阿联酋" />
+                <word id="1" cont="是" />
+                <word id="2" cont="世界" />
+                <word id="3" cont="第三" />
+                <word id="4" cont="大" />
+                <word id="5" cont="石油" />
+                <word id="6" cont="和" />
+                <word id="7" cont="天然气" />
+                <word id="8" cont="储备国" />
+                <word id="9" cont="，" />
+                <word id="10" cont="但" />
+                <word id="11" cont="他" />
+                <word id="12" cont="现在" />
+                <word id="13" cont="的" />
+                <word id="14" cont="石油" />
+                <word id="15" cont="收入" />
+                <word id="16" cont="只" />
+                <word id="17" cont="占" />
+                <word id="18" cont="总收入" />
+                <word id="19" cont="的" />
+                <word id="20" cont="10" />
+                <word id="21" cont="%" />
+                <word id="22" cont="左右" />
+                <word id="23" cont="，" />
+                <word id="24" cont="是" />
+                <word id="25" cont="中东" />
+                <word id="26" cont="地区" />
+                <word id="27" cont="转型" />
+                <word id="28" cont="最" />
+                <word id="29" cont="好" />
+                <word id="30" cont="的" />
+                <word id="31" cont="国家" />
+                <word id="32" cont="。" />
+            </sent>
+        </para>
+        <para id="39">
+            <sent id="0" cont="在迪拜你可以看到很多世界第一，世界奢侈品之都，富豪的天堂，在建的空港世界第一，港口吞吐量世界前十，中东最大的贸易自由港，最高的楼，最大的人工岛，月球都可以看到，最大的喷泉，等等。">
+                <word id="0" cont="在" />
+                <word id="1" cont="迪拜" />
+                <word id="2" cont="你" />
+                <word id="3" cont="可以" />
+                <word id="4" cont="看到" />
+                <word id="5" cont="很多" />
+                <word id="6" cont="世界" />
+                <word id="7" cont="第一" />
+                <word id="8" cont="，" />
+                <word id="9" cont="世界" />
+                <word id="10" cont="奢侈品" />
+                <word id="11" cont="之" />
+                <word id="12" cont="都" />
+                <word id="13" cont="，" />
+                <word id="14" cont="富豪" />
+                <word id="15" cont="的" />
+                <word id="16" cont="天堂" />
+                <word id="17" cont="，" />
+                <word id="18" cont="在建" />
+                <word id="19" cont="的" />
+                <word id="20" cont="空港" />
+                <word id="21" cont="世界" />
+                <word id="22" cont="第一" />
+                <word id="23" cont="，" />
+                <word id="24" cont="港口" />
+                <word id="25" cont="吞吐量" />
+                <word id="26" cont="世界" />
+                <word id="27" cont="前" />
+                <word id="28" cont="十" />
+                <word id="29" cont="，" />
+                <word id="30" cont="中东" />
+                <word id="31" cont="最" />
+                <word id="32" cont="大" />
+                <word id="33" cont="的" />
+                <word id="34" cont="贸易" />
+                <word id="35" cont="自由港" />
+                <word id="36" cont="，" />
+                <word id="37" cont="最高" />
+                <word id="38" cont="的" />
+                <word id="39" cont="楼" />
+                <word id="40" cont="，" />
+                <word id="41" cont="最" />
+                <word id="42" cont="大" />
+                <word id="43" cont="的" />
+                <word id="44" cont="人工岛" />
+                <word id="45" cont="，" />
+                <word id="46" cont="月球" />
+                <word id="47" cont="都" />
+                <word id="48" cont="可以" />
+                <word id="49" cont="看到" />
+                <word id="50" cont="，" />
+                <word id="51" cont="最" />
+                <word id="52" cont="大" />
+                <word id="53" cont="的" />
+                <word id="54" cont="喷泉" />
+                <word id="55" cont="，" />
+                <word id="56" cont="等等" />
+                <word id="57" cont="。" />
+            </sent>
+        </para>
+        <para id="40">
+            <sent id="0" cont="是一个非常有活力的城市。">
+                <word id="0" cont="是" />
+                <word id="1" cont="一个" />
+                <word id="2" cont="非常" />
+                <word id="3" cont="有" />
+                <word id="4" cont="活力" />
+                <word id="5" cont="的" />
+                <word id="6" cont="城市" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="41">
+            <sent id="0" cont="有十万华人在迪拜，以温州，福建，广东商人为主。">
+                <word id="0" cont="有" />
+                <word id="1" cont="十万" />
+                <word id="2" cont="华人" />
+                <word id="3" cont="在" />
+                <word id="4" cont="迪拜" />
+                <word id="5" cont="，" />
+                <word id="6" cont="以" />
+                <word id="7" cont="温州" />
+                <word id="8" cont="，" />
+                <word id="9" cont="福建" />
+                <word id="10" cont="，" />
+                <word id="11" cont="广东" />
+                <word id="12" cont="商人" />
+                <word id="13" cont="为主" />
+                <word id="14" cont="。" />
+            </sent>
+        </para>
+        <para id="42">
+            <sent id="0" cont="在迪拜你可以感受很多惊奇。">
+                <word id="0" cont="在" />
+                <word id="1" cont="迪拜" />
+                <word id="2" cont="你" />
+                <word id="3" cont="可以" />
+                <word id="4" cont="感受" />
+                <word id="5" cont="很多" />
+                <word id="6" cont="惊奇" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="43">
+            <sent id="0" cont="典型的钱多了不知怎么花。">
+                <word id="0" cont="典型" />
+                <word id="1" cont="的" />
+                <word id="2" cont="钱" />
+                <word id="3" cont="多" />
+                <word id="4" cont="了" />
+                <word id="5" cont="不知" />
+                <word id="6" cont="怎么" />
+                <word id="7" cont="花" />
+                <word id="8" cont="。" />
+            </sent>
+        </para>
+        <para id="44">
+            <sent id="0" cont="人类为了寻求刺激，什么事都可以干">
+                <word id="0" cont="人类" />
+                <word id="1" cont="为了" />
+                <word id="2" cont="寻求" />
+                <word id="3" cont="刺激" />
+                <word id="4" cont="，" />
+                <word id="5" cont="什么" />
+                <word id="6" cont="事" />
+                <word id="7" cont="都" />
+                <word id="8" cont="可以" />
+                <word id="9" cont="干" />
+            </sent>
+        </para>
+        <para id="45">
+            <sent id="0" cont="都是用我们的石油钱堆起来的高楼">
+                <word id="0" cont="都" />
+                <word id="1" cont="是" />
+                <word id="2" cont="用" />
+                <word id="3" cont="我们" />
+                <word id="4" cont="的" />
+                <word id="5" cont="石油" />
+                <word id="6" cont="钱" />
+                <word id="7" cont="堆" />
+                <word id="8" cont="起来" />
+                <word id="9" cont="的" />
+                <word id="10" cont="高楼" />
+            </sent>
+        </para>
+        <para id="46">
+            <sent id="0" cont="阿联酋发展原则：">
+                <word id="0" cont="阿联酋" />
+                <word id="1" cont="发展" />
+                <word id="2" cont="原则" />
+                <word id="3" cont="：" />
+            </sent>
+            <sent id="1" cont="油价多高，楼造多高">
+                <word id="0" cont="油价" />
+                <word id="1" cont="多" />
+                <word id="2" cont="高" />
+                <word id="3" cont="，" />
+                <word id="4" cont="楼造" />
+                <word id="5" cont="多" />
+                <word id="6" cont="高" />
+            </sent>
+        </para>
+        <para id="47">
+            <sent id="0" cont="兄弟迪拜是阿联酋的好吧~~~~">
+                <word id="0" cont="兄弟" />
+                <word id="1" cont="迪拜" />
+                <word id="2" cont="是" />
+                <word id="3" cont="阿联酋" />
+                <word id="4" cont="的" />
+                <word id="5" cont="好" />
+                <word id="6" cont="吧~" />
+                <word id="7" cont="~" />
+                <word id="8" cont="~~" />
+            </sent>
+        </para>
+        <para id="48">
+            <sent id="0" cont="又是一个那楼！">
+                <word id="0" cont="又" />
+                <word id="1" cont="是" />
+                <word id="2" cont="一个" />
+                <word id="3" cont="那" />
+                <word id="4" cont="楼" />
+                <word id="5" cont="！" />
+            </sent>
+        </para>
+        <para id="49">
+            <sent id="0" cont="沙特是亲美的！">
+                <word id="0" cont="沙特" />
+                <word id="1" cont="是" />
+                <word id="2" cont="亲美" />
+                <word id="3" cont="的" />
+                <word id="4" cont="！" />
+            </sent>
+        </para>
+        <para id="50">
+            <sent id="0" cont="人家国外的科技那可算得上：">
+                <word id="0" cont="人家" />
+                <word id="1" cont="国外" />
+                <word id="2" cont="的" />
+                <word id="3" cont="科技" />
+                <word id="4" cont="那" />
+                <word id="5" cont="可" />
+                <word id="6" cont="算" />
+                <word id="7" cont="得" />
+                <word id="8" cont="上" />
+                <word id="9" cont="：" />
+            </sent>
+            <sent id="1" cont="真强啊，随随便便即可开工，不吹牛B。">
+                <word id="0" cont="真强" />
+                <word id="1" cont="啊" />
+                <word id="2" cont="，" />
+                <word id="3" cont="随随便便" />
+                <word id="4" cont="即可" />
+                <word id="5" cont="开工" />
+                <word id="6" cont="，" />
+                <word id="7" cont="不" />
+                <word id="8" cont="吹牛B" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="51">
+            <sent id="0" cont="人家阿联酋再sb能和我们中国人比人家可没把毒奶粉喂自家孩子">
+                <word id="0" cont="人家" />
+                <word id="1" cont="阿联酋" />
+                <word id="2" cont="再" />
+                <word id="3" cont="sb能" />
+                <word id="4" cont="和" />
+                <word id="5" cont="我们" />
+                <word id="6" cont="中国" />
+                <word id="7" cont="人" />
+                <word id="8" cont="比" />
+                <word id="9" cont="人家" />
+                <word id="10" cont="可" />
+                <word id="11" cont="没" />
+                <word id="12" cont="把" />
+                <word id="13" cont="毒" />
+                <word id="14" cont="奶粉" />
+                <word id="15" cont="喂" />
+                <word id="16" cont="自家" />
+                <word id="17" cont="孩子" />
+            </sent>
+        </para>
+        <para id="52">
+            <sent id="0" cont="停电怎么下楼？">
+                <word id="0" cont="停电" />
+                <word id="1" cont="怎么" />
+                <word id="2" cont="下" />
+                <word id="3" cont="楼" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="53">
+            <sent id="0" cont="要是也地震的话，人都跑不了">
+                <word id="0" cont="要是" />
+                <word id="1" cont="也" />
+                <word id="2" cont="地震" />
+                <word id="3" cont="的话" />
+                <word id="4" cont="，" />
+                <word id="5" cont="人" />
+                <word id="6" cont="都" />
+                <word id="7" cont="跑" />
+                <word id="8" cont="不" />
+                <word id="9" cont="了" />
+            </sent>
+        </para>
+        <para id="54">
+            <sent id="0" cont="钱多，浪费">
+                <word id="0" cont="钱" />
+                <word id="1" cont="多" />
+                <word id="2" cont="，" />
+                <word id="3" cont="浪费" />
+            </sent>
+        </para>
+        <para id="55">
+            <sent id="0" cont="建航母干啥！">
+                <word id="0" cont="建" />
+                <word id="1" cont="航母" />
+                <word id="2" cont="干" />
+                <word id="3" cont="啥" />
+                <word id="4" cont="！" />
+            </sent>
+        </para>
+        <para id="56">
+            <sent id="0" cont="再办次更豪华的奥运多风光">
+                <word id="0" cont="再" />
+                <word id="1" cont="办" />
+                <word id="2" cont="次" />
+                <word id="3" cont="更" />
+                <word id="4" cont="豪华" />
+                <word id="5" cont="的" />
+                <word id="6" cont="奥运" />
+                <word id="7" cont="多" />
+                <word id="8" cont="风光" />
+            </sent>
+        </para>
+        <para id="57">
+            <sent id="0" cont="不采油给后代？">
+                <word id="0" cont="不" />
+                <word id="1" cont="采油" />
+                <word id="2" cont="给" />
+                <word id="3" cont="后代" />
+                <word id="4" cont="？" />
+            </sent>
+        </para>
+        <para id="58">
+            <sent id="0" cont="石油用完与否不是他一个阿联酋决定的，他不采油早晚石油作为主要能源还是要没落。">
+                <word id="0" cont="石油" />
+                <word id="1" cont="用" />
+                <word id="2" cont="完" />
+                <word id="3" cont="与否" />
+                <word id="4" cont="不" />
+                <word id="5" cont="是" />
+                <word id="6" cont="他" />
+                <word id="7" cont="一个" />
+                <word id="8" cont="阿联酋" />
+                <word id="9" cont="决定" />
+                <word id="10" cont="的" />
+                <word id="11" cont="，" />
+                <word id="12" cont="他" />
+                <word id="13" cont="不" />
+                <word id="14" cont="采油" />
+                <word id="15" cont="早晚" />
+                <word id="16" cont="石油" />
+                <word id="17" cont="作为" />
+                <word id="18" cont="主要" />
+                <word id="19" cont="能源" />
+                <word id="20" cont="还是" />
+                <word id="21" cont="要" />
+                <word id="22" cont="没落" />
+                <word id="23" cont="。" />
+            </sent>
+        </para>
+        <para id="59">
+            <sent id="0" cont="还不如趁现在油价高飚多赚一笔。">
+                <word id="0" cont="还" />
+                <word id="1" cont="不" />
+                <word id="2" cont="如" />
+                <word id="3" cont="趁" />
+                <word id="4" cont="现在" />
+                <word id="5" cont="油价" />
+                <word id="6" cont="高飚" />
+                <word id="7" cont="多" />
+                <word id="8" cont="赚" />
+                <word id="9" cont="一" />
+                <word id="10" cont="笔" />
+                <word id="11" cont="。" />
+            </sent>
+        </para>
+        <para id="60">
+            <sent id="0" cont="那你说钱留着干啥？">
+                <word id="0" cont="那" />
+                <word id="1" cont="你" />
+                <word id="2" cont="说" />
+                <word id="3" cont="钱" />
+                <word id="4" cont="留" />
+                <word id="5" cont="着" />
+                <word id="6" cont="干" />
+                <word id="7" cont="啥" />
+                <word id="8" cont="？" />
+            </sent>
+        </para>
+        <para id="61">
+            <sent id="0" cont="投入教育？">
+                <word id="0" cont="投入" />
+                <word id="1" cont="教育" />
+                <word id="2" cont="？" />
+            </sent>
+        </para>
+        <para id="62">
+            <sent id="0" cont="科技？">
+                <word id="0" cont="科技" />
+                <word id="1" cont="？" />
+            </sent>
+        </para>
+        <para id="63">
+            <sent id="0" cont="人已经投了够多的钱了。">
+                <word id="0" cont="人" />
+                <word id="1" cont="已经" />
+                <word id="2" cont="投" />
+                <word id="3" cont="了" />
+                <word id="4" cont="够" />
+                <word id="5" cont="多" />
+                <word id="6" cont="的" />
+                <word id="7" cont="钱" />
+                <word id="8" cont="了" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="64">
+            <sent id="0" cont="投入环境？">
+                <word id="0" cont="投入" />
+                <word id="1" cont="环境" />
+                <word id="2" cont="？" />
+            </sent>
+        </para>
+        <para id="65">
+            <sent id="0" cont="他们在这上面花的钱绝对令你咂舌。">
+                <word id="0" cont="他们" />
+                <word id="1" cont="在" />
+                <word id="2" cont="这" />
+                <word id="3" cont="上面" />
+                <word id="4" cont="花" />
+                <word id="5" cont="的" />
+                <word id="6" cont="钱" />
+                <word id="7" cont="绝对" />
+                <word id="8" cont="令" />
+                <word id="9" cont="你" />
+                <word id="10" cont="咂舌" />
+                <word id="11" cont="。" />
+            </sent>
+        </para>
+        <para id="66">
+            <sent id="0" cont="不要想当然的以为石油用完了别人就只能等死。">
+                <word id="0" cont="不要" />
+                <word id="1" cont="想当然" />
+                <word id="2" cont="的" />
+                <word id="3" cont="以为" />
+                <word id="4" cont="石油" />
+                <word id="5" cont="用" />
+                <word id="6" cont="完" />
+                <word id="7" cont="了" />
+                <word id="8" cont="别人" />
+                <word id="9" cont="就" />
+                <word id="10" cont="只能" />
+                <word id="11" cont="等" />
+                <word id="12" cont="死" />
+                <word id="13" cont="。" />
+            </sent>
+        </para>
+        <para id="67">
+            <sent id="0" cont="最后一滴石油将是他们的眼泪！">
+                <word id="0" cont="最后" />
+                <word id="1" cont="一" />
+                <word id="2" cont="滴" />
+                <word id="3" cont="石油" />
+                <word id="4" cont="将" />
+                <word id="5" cont="是" />
+                <word id="6" cont="他们" />
+                <word id="7" cont="的" />
+                <word id="8" cont="眼泪" />
+                <word id="9" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="68">
+            <sent id="0" cont="穷人乍富有了钱都不知道怎么折腾了">
+                <word id="0" cont="穷人" />
+                <word id="1" cont="乍" />
+                <word id="2" cont="富有" />
+                <word id="3" cont="了" />
+                <word id="4" cont="钱" />
+                <word id="5" cont="都" />
+                <word id="6" cont="不" />
+                <word id="7" cont="知道" />
+                <word id="8" cont="怎么" />
+                <word id="9" cont="折腾" />
+                <word id="10" cont="了" />
+            </sent>
+        </para>
+        <para id="69">
+            <sent id="0" cont="你多学点中文，别老打错别字">
+                <word id="0" cont="你" />
+                <word id="1" cont="多" />
+                <word id="2" cont="学" />
+                <word id="3" cont="点" />
+                <word id="4" cont="中文" />
+                <word id="5" cont="，" />
+                <word id="6" cont="别" />
+                <word id="7" cont="老" />
+                <word id="8" cont="打" />
+                <word id="9" cont="错别" />
+                <word id="10" cont="字" />
+            </sent>
+        </para>
+        <para id="70">
+            <sent id="0" cont="疯狂的阿联酋人">
+                <word id="0" cont="疯狂" />
+                <word id="1" cont="的" />
+                <word id="2" cont="阿联酋" />
+                <word id="3" cont="人" />
+            </sent>
+        </para>
+        <para id="71">
+            <sent id="0" cont="孤陋寡闻，杜拜已经成为世界最有活力的国际性大都市，考得绝不仅是石油。">
+                <word id="0" cont="孤陋寡闻" />
+                <word id="1" cont="，" />
+                <word id="2" cont="杜拜" />
+                <word id="3" cont="已经" />
+                <word id="4" cont="成为" />
+                <word id="5" cont="世界" />
+                <word id="6" cont="最" />
+                <word id="7" cont="有" />
+                <word id="8" cont="活力" />
+                <word id="9" cont="的" />
+                <word id="10" cont="国际性" />
+                <word id="11" cont="大都市" />
+                <word id="12" cont="，" />
+                <word id="13" cont="考" />
+                <word id="14" cont="得" />
+                <word id="15" cont="绝不" />
+                <word id="16" cont="仅" />
+                <word id="17" cont="是" />
+                <word id="18" cont="石油" />
+                <word id="19" cont="。" />
+            </sent>
+        </para>
+        <para id="72">
+            <sent id="0" cont="有机会学点英文，读多点非主旋律的书吧">
+                <word id="0" cont="有" />
+                <word id="1" cont="机会" />
+                <word id="2" cont="学" />
+                <word id="3" cont="点" />
+                <word id="4" cont="英文" />
+                <word id="5" cont="，" />
+                <word id="6" cont="读" />
+                <word id="7" cont="多" />
+                <word id="8" cont="点" />
+                <word id="9" cont="非" />
+                <word id="10" cont="主旋律" />
+                <word id="11" cont="的" />
+                <word id="12" cont="书" />
+                <word id="13" cont="吧" />
+            </sent>
+        </para>
+        <para id="73">
+            <sent id="0" cont="上面要备降落伞才行">
+                <word id="0" cont="上面" />
+                <word id="1" cont="要" />
+                <word id="2" cont="备" />
+                <word id="3" cont="降落" />
+                <word id="4" cont="伞" />
+                <word id="5" cont="才" />
+                <word id="6" cont="行" />
+            </sent>
+        </para>
+        <para id="74">
+            <sent id="0" cont="像世贸大楼那样被飞机撞了起火，人就直接跳下去吧，几百层跑不来的。">
+                <word id="0" cont="像" />
+                <word id="1" cont="世贸" />
+                <word id="2" cont="大楼" />
+                <word id="3" cont="那样" />
+                <word id="4" cont="被" />
+                <word id="5" cont="飞机" />
+                <word id="6" cont="撞" />
+                <word id="7" cont="了" />
+                <word id="8" cont="起火" />
+                <word id="9" cont="，" />
+                <word id="10" cont="人" />
+                <word id="11" cont="就" />
+                <word id="12" cont="直接" />
+                <word id="13" cont="跳" />
+                <word id="14" cont="下去" />
+                <word id="15" cont="吧" />
+                <word id="16" cont="，" />
+                <word id="17" cont="几百" />
+                <word id="18" cont="层" />
+                <word id="19" cont="跑" />
+                <word id="20" cont="不" />
+                <word id="21" cont="来" />
+                <word id="22" cont="的" />
+                <word id="23" cont="。" />
+            </sent>
+        </para>
+        <para id="75">
+            <sent id="0" cont="就是因为油要光了所以才大力搞旅游啊！">
+                <word id="0" cont="就" />
+                <word id="1" cont="是" />
+                <word id="2" cont="因为" />
+                <word id="3" cont="油" />
+                <word id="4" cont="要" />
+                <word id="5" cont="光" />
+                <word id="6" cont="了" />
+                <word id="7" cont="所以" />
+                <word id="8" cont="才" />
+                <word id="9" cont="大力" />
+                <word id="10" cont="搞" />
+                <word id="11" cont="旅游" />
+                <word id="12" cont="啊" />
+                <word id="13" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="76">
+            <sent id="0" cont="什么都是世界第一不吸引眼球才怪">
+                <word id="0" cont="什么" />
+                <word id="1" cont="都" />
+                <word id="2" cont="是" />
+                <word id="3" cont="世界" />
+                <word id="4" cont="第一" />
+                <word id="5" cont="不" />
+                <word id="6" cont="吸引" />
+                <word id="7" cont="眼球" />
+                <word id="8" cont="才" />
+                <word id="9" cont="怪" />
+            </sent>
+        </para>
+        <para id="77">
+            <sent id="0" cont="他们花的都是子孙后代的钱，真不知道哪天石油抽完了，那里会变成一个什么样子">
+                <word id="0" cont="他们" />
+                <word id="1" cont="花" />
+                <word id="2" cont="的" />
+                <word id="3" cont="都" />
+                <word id="4" cont="是" />
+                <word id="5" cont="子孙后代" />
+                <word id="6" cont="的" />
+                <word id="7" cont="钱" />
+                <word id="8" cont="，" />
+                <word id="9" cont="真" />
+                <word id="10" cont="不" />
+                <word id="11" cont="知道" />
+                <word id="12" cont="哪" />
+                <word id="13" cont="天" />
+                <word id="14" cont="石油" />
+                <word id="15" cont="抽" />
+                <word id="16" cont="完" />
+                <word id="17" cont="了" />
+                <word id="18" cont="，" />
+                <word id="19" cont="那里" />
+                <word id="20" cont="会" />
+                <word id="21" cont="变成" />
+                <word id="22" cont="一个" />
+                <word id="23" cont="什么" />
+                <word id="24" cont="样子" />
+            </sent>
+        </para>
+        <para id="78">
+            <sent id="0" cont="上海人，你们别愣在那呀。">
+                <word id="0" cont="上海" />
+                <word id="1" cont="人" />
+                <word id="2" cont="，" />
+                <word id="3" cont="你们" />
+                <word id="4" cont="别" />
+                <word id="5" cont="愣" />
+                <word id="6" cont="在" />
+                <word id="7" cont="那" />
+                <word id="8" cont="呀" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="79">
+            <sent id="0" cont="还不赶紧追赶。">
+                <word id="0" cont="还" />
+                <word id="1" cont="不" />
+                <word id="2" cont="赶紧" />
+                <word id="3" cont="追赶" />
+                <word id="4" cont="。" />
+            </sent>
+        </para>
+        <para id="80">
+            <sent id="0" cont="你们上海应该建一座一万米高的大楼，那才叫大上海呢。">
+                <word id="0" cont="你们" />
+                <word id="1" cont="上海" />
+                <word id="2" cont="应该" />
+                <word id="3" cont="建" />
+                <word id="4" cont="一" />
+                <word id="5" cont="座" />
+                <word id="6" cont="一万" />
+                <word id="7" cont="米" />
+                <word id="8" cont="高" />
+                <word id="9" cont="的" />
+                <word id="10" cont="大楼" />
+                <word id="11" cont="，" />
+                <word id="12" cont="那" />
+                <word id="13" cont="才" />
+                <word id="14" cont="叫" />
+                <word id="15" cont="大" />
+                <word id="16" cont="上海" />
+                <word id="17" cont="呢" />
+                <word id="18" cont="。" />
+            </sent>
+        </para>
+        <para id="81">
+            <sent id="0" cont="让全国和全世界看看你们上海是最牛的是最城市化的。">
+                <word id="0" cont="让" />
+                <word id="1" cont="全国" />
+                <word id="2" cont="和" />
+                <word id="3" cont="全世界" />
+                <word id="4" cont="看看" />
+                <word id="5" cont="你们" />
+                <word id="6" cont="上海" />
+                <word id="7" cont="是" />
+                <word id="8" cont="最" />
+                <word id="9" cont="牛" />
+                <word id="10" cont="的" />
+                <word id="11" cont="是" />
+                <word id="12" cont="最" />
+                <word id="13" cont="城市化" />
+                <word id="14" cont="的" />
+                <word id="15" cont="。" />
+            </sent>
+        </para>
+        <para id="82">
+            <sent id="0" cont="能不能干点正事">
+                <word id="0" cont="能" />
+                <word id="1" cont="不" />
+                <word id="2" cont="能" />
+                <word id="3" cont="干" />
+                <word id="4" cont="点" />
+                <word id="5" cont="正事" />
+            </sent>
+        </para>
+        <para id="83">
+            <sent id="0" cont="希望不要成为第一张多米诺骨牌。">
+                <word id="0" cont="希望" />
+                <word id="1" cont="不要" />
+                <word id="2" cont="成为" />
+                <word id="3" cont="第一" />
+                <word id="4" cont="张" />
+                <word id="5" cont="多米" />
+                <word id="6" cont="诺骨牌" />
+                <word id="7" cont="。" />
+            </sent>
+        </para>
+        <para id="84">
+            <sent id="0" cont="垃圾国家">
+                <word id="0" cont="垃圾" />
+                <word id="1" cont="国家" />
+            </sent>
+        </para>
+        <para id="85">
+            <sent id="0" cont="待在老美，脑子都待秀逗了">
+                <word id="0" cont="待" />
+                <word id="1" cont="在" />
+                <word id="2" cont="老美" />
+                <word id="3" cont="，" />
+                <word id="4" cont="脑子" />
+                <word id="5" cont="都" />
+                <word id="6" cont="待秀" />
+                <word id="7" cont="逗" />
+                <word id="8" cont="了" />
+            </sent>
+        </para>
+        <para id="86">
+            <sent id="0" cont="可恶的阿拉伯人靠高油价赚了全世界人民的血汗钱，然后自己挥霍。">
+                <word id="0" cont="可恶" />
+                <word id="1" cont="的" />
+                <word id="2" cont="阿拉伯" />
+                <word id="3" cont="人" />
+                <word id="4" cont="靠" />
+                <word id="5" cont="高" />
+                <word id="6" cont="油价" />
+                <word id="7" cont="赚" />
+                <word id="8" cont="了" />
+                <word id="9" cont="全世界" />
+                <word id="10" cont="人民" />
+                <word id="11" cont="的" />
+                <word id="12" cont="血汗钱" />
+                <word id="13" cont="，" />
+                <word id="14" cont="然后" />
+                <word id="15" cont="自己" />
+                <word id="16" cont="挥霍" />
+                <word id="17" cont="。" />
+            </sent>
+        </para>
+        <para id="87">
+            <sent id="0" cont="世界为什么这么不公平呢？">
+                <word id="0" cont="世界" />
+                <word id="1" cont="为什么" />
+                <word id="2" cont="这么" />
+                <word id="3" cont="不" />
+                <word id="4" cont="公平" />
+                <word id="5" cont="呢" />
+                <word id="6" cont="？" />
+            </sent>
+        </para>
+        <para id="88">
+            <sent id="0" cont="迪拜有远见！">
+                <word id="0" cont="迪拜" />
+                <word id="1" cont="有" />
+                <word id="2" cont="远见" />
+                <word id="3" cont="！" />
+            </sent>
+        </para>
+        <para id="89">
+            <sent id="0" cont="这叫铺后路！">
+                <word id="0" cont="这" />
+                <word id="1" cont="叫" />
+                <word id="2" cont="铺" />
+                <word id="3" cont="后" />
+                <word id="4" cont="路" />
+                <word id="5" cont="！" />
+            </sent>
+        </para>
+        <para id="90">
+            <sent id="0" cont="这个国家很富有的！">
+                <word id="0" cont="这个" />
+                <word id="1" cont="国家" />
+                <word id="2" cont="很" />
+                <word id="3" cont="富有" />
+                <word id="4" cont="的" />
+                <word id="5" cont="！" />
+            </sent>
+        </para>
+        <para id="91">
+            <sent id="0" cont="贝克汉姆和克林顿都有在那里置房产！">
+                <word id="0" cont="贝克汉姆" />
+                <word id="1" cont="和" />
+                <word id="2" cont="克林顿" />
+                <word id="3" cont="都" />
+                <word id="4" cont="有" />
+                <word id="5" cont="在" />
+                <word id="6" cont="那里" />
+                <word id="7" cont="置" />
+                <word id="8" cont="房产" />
+                <word id="9" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="4" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="92">
+            <sent id="0" cont="你看那个酒店不知有多火，也许就是因为她的世界第一！">
+                <word id="0" cont="你" />
+                <word id="1" cont="看" />
+                <word id="2" cont="那个" />
+                <word id="3" cont="酒店" />
+                <word id="4" cont="不知" />
+                <word id="5" cont="有" />
+                <word id="6" cont="多" />
+                <word id="7" cont="火" />
+                <word id="8" cont="，" />
+                <word id="9" cont="也许" />
+                <word id="10" cont="就" />
+                <word id="11" cont="是" />
+                <word id="12" cont="因为" />
+                <word id="13" cont="她" />
+                <word id="14" cont="的" />
+                <word id="15" cont="世界" />
+                <word id="16" cont="第一" />
+                <word id="17" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="93">
+            <sent id="0" cont="油抽光了，他们的子孙们怎么办呢，现在如此疯狂，没有好下场。">
+                <word id="0" cont="油" />
+                <word id="1" cont="抽" />
+                <word id="2" cont="光" />
+                <word id="3" cont="了" />
+                <word id="4" cont="，" />
+                <word id="5" cont="他们" />
+                <word id="6" cont="的" />
+                <word id="7" cont="子孙" />
+                <word id="8" cont="们" />
+                <word id="9" cont="怎么办" />
+                <word id="10" cont="呢" />
+                <word id="11" cont="，" />
+                <word id="12" cont="现在" />
+                <word id="13" cont="如此" />
+                <word id="14" cont="疯狂" />
+                <word id="15" cont="，" />
+                <word id="16" cont="没有" />
+                <word id="17" cont="好" />
+                <word id="18" cont="下场" />
+                <word id="19" cont="。" />
+            </sent>
+        </para>
+        <para id="94">
+            <sent id="0" cont="小心别倒了">
+                <word id="0" cont="小心" />
+                <word id="1" cont="别" />
+                <word id="2" cont="倒" />
+                <word id="3" cont="了" />
+            </sent>
+        </para>
+        <para id="95">
+            <sent id="0" cont="未来建筑的楷模！">
+                <word id="0" cont="未来" />
+                <word id="1" cont="建筑" />
+                <word id="2" cont="的" />
+                <word id="3" cont="楷模" />
+                <word id="4" cont="！" />
+            </sent>
+        </para>
+        <para id="96">
+            <sent id="0" cont="将来的考古对象。">
+                <word id="0" cont="将来" />
+                <word id="1" cont="的" />
+                <word id="2" cont="考古" />
+                <word id="3" cont="对象" />
+                <word id="4" cont="。" />
+            </sent>
+        </para>
+        <para id="97">
+            <sent id="0" cont="还是背降落伞吧小心停电">
+                <word id="0" cont="还是" />
+                <word id="1" cont="背" />
+                <word id="2" cont="降落" />
+                <word id="3" cont="伞" />
+                <word id="4" cont="吧" />
+                <word id="5" cont="小心" />
+                <word id="6" cont="停电" />
+            </sent>
+        </para>
+        <para id="98">
+            <sent id="0" cont="放心，超过500的建筑估计都是开玩笑的时候说着玩的">
+                <word id="0" cont="放心" />
+                <word id="1" cont="，" />
+                <word id="2" cont="超过" />
+                <word id="3" cont="500" />
+                <word id="4" cont="的" />
+                <word id="5" cont="建筑" />
+                <word id="6" cont="估计" />
+                <word id="7" cont="都" />
+                <word id="8" cont="是" />
+                <word id="9" cont="开玩笑" />
+                <word id="10" cont="的" />
+                <word id="11" cont="时候" />
+                <word id="12" cont="说" />
+                <word id="13" cont="着" />
+                <word id="14" cont="玩" />
+                <word id="15" cont="的" />
+            </sent>
+        </para>
+        <para id="99">
+            <sent id="0" cont="那个广东广州的家伙（特指，非泛指，非地域攻击）彻底疯了。">
+                <word id="0" cont="那个" />
+                <word id="1" cont="广东" />
+                <word id="2" cont="广州" />
+                <word id="3" cont="的" />
+                <word id="4" cont="家伙" />
+                <word id="5" cont="（" />
+                <word id="6" cont="特指" />
+                <word id="7" cont="，" />
+                <word id="8" cont="非泛指" />
+                <word id="9" cont="，" />
+                <word id="10" cont="非" />
+                <word id="11" cont="地域" />
+                <word id="12" cont="攻击" />
+                <word id="13" cont="）" />
+                <word id="14" cont="彻底" />
+                <word id="15" cont="疯" />
+                <word id="16" cont="了" />
+                <word id="17" cont="。" />
+            </sent>
+        </para>
+        <para id="100">
+            <sent id="0" cont="数钱数到手抽筋">
+                <word id="0" cont="数" />
+                <word id="1" cont="钱" />
+                <word id="2" cont="数" />
+                <word id="3" cont="到手" />
+                <word id="4" cont="抽筋" />
+            </sent>
+        </para>
+        <para id="101">
+            <sent id="0" cont="如果着火了怎么办？">
+                <word id="0" cont="如果" />
+                <word id="1" cont="着火" />
+                <word id="2" cont="了" />
+                <word id="3" cont="怎么办" />
+                <word id="4" cont="？" />
+            </sent>
+            <sent id="1" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="2" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="3" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="4" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="5" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="6" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="7" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="8" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+            <sent id="9" cont="？">
+                <word id="0" cont="？" />
+            </sent>
+        </para>
+        <para id="102">
+            <sent id="0" cont="真的很高，起到什么作用呢？">
+                <word id="0" cont="真的" />
+                <word id="1" cont="很" />
+                <word id="2" cont="高" />
+                <word id="3" cont="，" />
+                <word id="4" cont="起" />
+                <word id="5" cont="到" />
+                <word id="6" cont="什么" />
+                <word id="7" cont="作用" />
+                <word id="8" cont="呢" />
+                <word id="9" cont="？" />
+            </sent>
+        </para>
+        <para id="103">
+            <sent id="0" cont="就是个世界第一吗？">
+                <word id="0" cont="就" />
+                <word id="1" cont="是" />
+                <word id="2" cont="个" />
+                <word id="3" cont="世界" />
+                <word id="4" cont="第一" />
+                <word id="5" cont="吗" />
+                <word id="6" cont="？" />
+            </sent>
+        </para>
+        <para id="104">
+            <sent id="0" cont="没得法，人家是有钱了烧得慌！">
+                <word id="0" cont="没" />
+                <word id="1" cont="得" />
+                <word id="2" cont="法" />
+                <word id="3" cont="，" />
+                <word id="4" cont="人家" />
+                <word id="5" cont="是" />
+                <word id="6" cont="有" />
+                <word id="7" cont="钱" />
+                <word id="8" cont="了" />
+                <word id="9" cont="烧" />
+                <word id="10" cont="得" />
+                <word id="11" cont="慌" />
+                <word id="12" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="105">
+            <sent id="0" cont="迪拜此法也算比较高明，把迪拜建成一个金融中心，油抽干了又可以搞旅游。">
+                <word id="0" cont="迪拜" />
+                <word id="1" cont="此法" />
+                <word id="2" cont="也" />
+                <word id="3" cont="算" />
+                <word id="4" cont="比较" />
+                <word id="5" cont="高明" />
+                <word id="6" cont="，" />
+                <word id="7" cont="把" />
+                <word id="8" cont="迪拜" />
+                <word id="9" cont="建成" />
+                <word id="10" cont="一个" />
+                <word id="11" cont="金融" />
+                <word id="12" cont="中心" />
+                <word id="13" cont="，" />
+                <word id="14" cont="油" />
+                <word id="15" cont="抽" />
+                <word id="16" cont="干" />
+                <word id="17" cont="了" />
+                <word id="18" cont="又" />
+                <word id="19" cont="可以" />
+                <word id="20" cont="搞" />
+                <word id="21" cont="旅游" />
+                <word id="22" cont="。" />
+            </sent>
+        </para>
+        <para id="106">
+            <sent id="0" cont="不错，不错。">
+                <word id="0" cont="不错" />
+                <word id="1" cont="，" />
+                <word id="2" cont="不错" />
+                <word id="3" cont="。" />
+            </sent>
+        </para>
+        <para id="107">
+            <sent id="0" cont="油抽光了，就把这个世界第一高楼卖给上海，免得丢了我们国际金融中心的面子">
+                <word id="0" cont="油" />
+                <word id="1" cont="抽" />
+                <word id="2" cont="光" />
+                <word id="3" cont="了" />
+                <word id="4" cont="，" />
+                <word id="5" cont="就" />
+                <word id="6" cont="把" />
+                <word id="7" cont="这个" />
+                <word id="8" cont="世界" />
+                <word id="9" cont="第一" />
+                <word id="10" cont="高楼" />
+                <word id="11" cont="卖" />
+                <word id="12" cont="给" />
+                <word id="13" cont="上海" />
+                <word id="14" cont="，" />
+                <word id="15" cont="免得" />
+                <word id="16" cont="丢" />
+                <word id="17" cont="了" />
+                <word id="18" cont="我们" />
+                <word id="19" cont="国际" />
+                <word id="20" cont="金融" />
+                <word id="21" cont="中心" />
+                <word id="22" cont="的" />
+                <word id="23" cont="面子" />
+            </sent>
+        </para>
+        <para id="108">
+            <sent id="0" cont="迪拜＝第二个圆明园。">
+                <word id="0" cont="迪拜" />
+                <word id="1" cont="＝" />
+                <word id="2" cont="第二" />
+                <word id="3" cont="个" />
+                <word id="4" cont="圆明园" />
+                <word id="5" cont="。" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="3" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="4" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="5" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+        </para>
+        <para id="109">
+            <sent id="0" cont="疯狂的迪拜肯定要为疯狂付出沉重的代价！">
+                <word id="0" cont="疯狂" />
+                <word id="1" cont="的" />
+                <word id="2" cont="迪拜" />
+                <word id="3" cont="肯定" />
+                <word id="4" cont="要" />
+                <word id="5" cont="为" />
+                <word id="6" cont="疯狂" />
+                <word id="7" cont="付出" />
+                <word id="8" cont="沉重" />
+                <word id="9" cont="的" />
+                <word id="10" cont="代价" />
+                <word id="11" cont="！" />
+            </sent>
+        </para>
+        <para id="110">
+            <sent id="0" cont="钱来的容易去得快，阿哄没事干了。">
+                <word id="0" cont="钱" />
+                <word id="1" cont="来" />
+                <word id="2" cont="的" />
+                <word id="3" cont="容易" />
+                <word id="4" cont="去" />
+                <word id="5" cont="得" />
+                <word id="6" cont="快" />
+                <word id="7" cont="，" />
+                <word id="8" cont="阿哄" />
+                <word id="9" cont="没事" />
+                <word id="10" cont="干" />
+                <word id="11" cont="了" />
+                <word id="12" cont="。" />
+            </sent>
+        </para>
+        <para id="111">
+            <sent id="0" cont="暴发户的心态和中国一样">
+                <word id="0" cont="暴发户" />
+                <word id="1" cont="的" />
+                <word id="2" cont="心态" />
+                <word id="3" cont="和" />
+                <word id="4" cont="中国" />
+                <word id="5" cont="一样" />
+            </sent>
+        </para>
+        <para id="112">
+            <sent id="0" cont="DISCOVERY作过迪拜人工棕榈岛的节目……很夸张你们就造把……&amp;gt;">
+                <word id="0" cont="DISCOVERY" />
+                <word id="1" cont="作" />
+                <word id="2" cont="过" />
+                <word id="3" cont="迪拜" />
+                <word id="4" cont="人工" />
+                <word id="5" cont="棕榈岛" />
+                <word id="6" cont="的" />
+                <word id="7" cont="节目" />
+                <word id="8" cont="……" />
+                <word id="9" cont="很" />
+                <word id="10" cont="夸张" />
+                <word id="11" cont="你们" />
+                <word id="12" cont="就" />
+                <word id="13" cont="造" />
+                <word id="14" cont="把" />
+                <word id="15" cont="……" />
+                <word id="16" cont="&amp;gt;" />
+            </sent>
+            <sent id="1" cont="_&amp;lt;">
+                <word id="0" cont="_&amp;lt;" />
+            </sent>
+        </para>
+        <para id="113">
+            <sent id="0" cont="据说地基要一直打到美国才行?">
+                <word id="0" cont="据说" />
+                <word id="1" cont="地基" />
+                <word id="2" cont="要" />
+                <word id="3" cont="一直" />
+                <word id="4" cont="打" />
+                <word id="5" cont="到" />
+                <word id="6" cont="美国" />
+                <word id="7" cont="才" />
+                <word id="8" cont="行?" />
+            </sent>
+            <sent id="1" cont="?">
+                <word id="0" cont="?" />
+            </sent>
+            <sent id="2" cont="这才是最大的阴谋你们挣天我钻地">
+                <word id="0" cont="这" />
+                <word id="1" cont="才" />
+                <word id="2" cont="是" />
+                <word id="3" cont="最" />
+                <word id="4" cont="大" />
+                <word id="5" cont="的" />
+                <word id="6" cont="阴谋" />
+                <word id="7" cont="你们" />
+                <word id="8" cont="挣" />
+                <word id="9" cont="天" />
+                <word id="10" cont="我" />
+                <word id="11" cont="钻地" />
+            </sent>
+        </para>
+        <para id="114">
+            <sent id="0" cont="果然是财大气粗啊！">
+                <word id="0" cont="果然" />
+                <word id="1" cont="是" />
+                <word id="2" cont="财大气粗" />
+                <word id="3" cont="啊" />
+                <word id="4" cont="！" />
+            </sent>
+        </para>
+        <para id="115">
+            <sent id="0" cont="你们就不用这么酸葡萄心理了，石油每桶40刀都非常赚，何况现在100刀左右，人家超额利润的零头都够盖一百座这样的大楼了。">
+                <word id="0" cont="你们" />
+                <word id="1" cont="就" />
+                <word id="2" cont="不" />
+                <word id="3" cont="用" />
+                <word id="4" cont="这么" />
+                <word id="5" cont="酸" />
+                <word id="6" cont="葡萄" />
+                <word id="7" cont="心理" />
+                <word id="8" cont="了" />
+                <word id="9" cont="，" />
+                <word id="10" cont="石油" />
+                <word id="11" cont="每桶" />
+                <word id="12" cont="40" />
+                <word id="13" cont="刀" />
+                <word id="14" cont="都" />
+                <word id="15" cont="非常" />
+                <word id="16" cont="赚" />
+                <word id="17" cont="，" />
+                <word id="18" cont="何况" />
+                <word id="19" cont="现在" />
+                <word id="20" cont="100" />
+                <word id="21" cont="刀" />
+                <word id="22" cont="左右" />
+                <word id="23" cont="，" />
+                <word id="24" cont="人家" />
+                <word id="25" cont="超额" />
+                <word id="26" cont="利润" />
+                <word id="27" cont="的" />
+                <word id="28" cont="零头" />
+                <word id="29" cont="都" />
+                <word id="30" cont="够" />
+                <word id="31" cont="盖" />
+                <word id="32" cont="一百" />
+                <word id="33" cont="座" />
+                <word id="34" cont="这样" />
+                <word id="35" cont="的" />
+                <word id="36" cont="大楼" />
+                <word id="37" cont="了" />
+                <word id="38" cont="。" />
+            </sent>
+        </para>
+        <para id="116">
+            <sent id="0" cont="没办法，中国人就是穷命，天生的干活命，人家不干活照样好吃好喝好穿好住，一句话：">
+                <word id="0" cont="没" />
+                <word id="1" cont="办法" />
+                <word id="2" cont="，" />
+                <word id="3" cont="中国" />
+                <word id="4" cont="人" />
+                <word id="5" cont="就" />
+                <word id="6" cont="是" />
+                <word id="7" cont="穷命" />
+                <word id="8" cont="，" />
+                <word id="9" cont="天生" />
+                <word id="10" cont="的" />
+                <word id="11" cont="干活命" />
+                <word id="12" cont="，" />
+                <word id="13" cont="人家" />
+                <word id="14" cont="不" />
+                <word id="15" cont="干活" />
+                <word id="16" cont="照样" />
+                <word id="17" cont="好" />
+                <word id="18" cont="吃" />
+                <word id="19" cont="好" />
+                <word id="20" cont="喝" />
+                <word id="21" cont="好" />
+                <word id="22" cont="穿" />
+                <word id="23" cont="好" />
+                <word id="24" cont="住" />
+                <word id="25" cont="，" />
+                <word id="26" cont="一句" />
+                <word id="27" cont="话" />
+                <word id="28" cont="：" />
+            </sent>
+            <sent id="1" cont="咱RP不行。">
+                <word id="0" cont="咱RP" />
+                <word id="1" cont="不行" />
+                <word id="2" cont="。" />
+            </sent>
+        </para>
+        <para id="117">
+            <sent id="0" cont="造的再好，不过是我的度假村罢了">
+                <word id="0" cont="造" />
+                <word id="1" cont="的" />
+                <word id="2" cont="再" />
+                <word id="3" cont="好" />
+                <word id="4" cont="，" />
+                <word id="5" cont="不过" />
+                <word id="6" cont="是" />
+                <word id="7" cont="我" />
+                <word id="8" cont="的" />
+                <word id="9" cont="度假村" />
+                <word id="10" cont="罢了" />
+            </sent>
+        </para>
+        <para id="118">
+            <sent id="0" cont="使劲折腾吧，快完了，可怜阿联酋人的后代了">
+                <word id="0" cont="使劲" />
+                <word id="1" cont="折腾" />
+                <word id="2" cont="吧" />
+                <word id="3" cont="，" />
+                <word id="4" cont="快" />
+                <word id="5" cont="完" />
+                <word id="6" cont="了" />
+                <word id="7" cont="，" />
+                <word id="8" cont="可怜" />
+                <word id="9" cont="阿联酋人" />
+                <word id="10" cont="的" />
+                <word id="11" cont="后代" />
+                <word id="12" cont="了" />
+            </sent>
+        </para>
+        <para id="119">
+            <sent id="0" cont="这么有钱让他们搞航天，估计他们多么富有也玩不起，航天比这些高楼烧钱多去了，要怎么烧怎么烧，烧得你割肉的痛">
+                <word id="0" cont="这么" />
+                <word id="1" cont="有" />
+                <word id="2" cont="钱" />
+                <word id="3" cont="让" />
+                <word id="4" cont="他们" />
+                <word id="5" cont="搞" />
+                <word id="6" cont="航天" />
+                <word id="7" cont="，" />
+                <word id="8" cont="估计" />
+                <word id="9" cont="他们" />
+                <word id="10" cont="多么" />
+                <word id="11" cont="富有" />
+                <word id="12" cont="也" />
+                <word id="13" cont="玩" />
+                <word id="14" cont="不" />
+                <word id="15" cont="起" />
+                <word id="16" cont="，" />
+                <word id="17" cont="航天" />
+                <word id="18" cont="比" />
+                <word id="19" cont="这些" />
+                <word id="20" cont="高楼" />
+                <word id="21" cont="烧" />
+                <word id="22" cont="钱" />
+                <word id="23" cont="多" />
+                <word id="24" cont="去" />
+                <word id="25" cont="了" />
+                <word id="26" cont="，" />
+                <word id="27" cont="要" />
+                <word id="28" cont="怎么" />
+                <word id="29" cont="烧" />
+                <word id="30" cont="怎么" />
+                <word id="31" cont="烧" />
+                <word id="32" cont="，" />
+                <word id="33" cont="烧" />
+                <word id="34" cont="得" />
+                <word id="35" cont="你" />
+                <word id="36" cont="割" />
+                <word id="37" cont="肉" />
+                <word id="38" cont="的" />
+                <word id="39" cont="痛" />
+            </sent>
+        </para>
+        <para id="120">
+            <sent id="0" cont="哪天不用石油了，这些楼就得卖给其它国家了">
+                <word id="0" cont="哪" />
+                <word id="1" cont="天" />
+                <word id="2" cont="不" />
+                <word id="3" cont="用" />
+                <word id="4" cont="石油" />
+                <word id="5" cont="了" />
+                <word id="6" cont="，" />
+                <word id="7" cont="这些" />
+                <word id="8" cont="楼" />
+                <word id="9" cont="就" />
+                <word id="10" cont="得" />
+                <word id="11" cont="卖" />
+                <word id="12" cont="给" />
+                <word id="13" cont="其它" />
+                <word id="14" cont="国家" />
+                <word id="15" cont="了" />
+            </sent>
+        </para>
+        <para id="121">
+            <sent id="0" cont="下一个911目标">
+                <word id="0" cont="下" />
+                <word id="1" cont="一个" />
+                <word id="2" cont="911" />
+                <word id="3" cont="目标" />
+            </sent>
+        </para>
+        <para id="122">
+            <sent id="0" cont="油价只有88美元了...">
+                <word id="0" cont="油价" />
+                <word id="1" cont="只" />
+                <word id="2" cont="有" />
+                <word id="3" cont="88" />
+                <word id="4" cont="美元" />
+                <word id="5" cont="了..." />
+            </sent>
+        </para>
+        <para id="123">
+            <sent id="0" cont="那么高，对地球的压力那么大，不会把地球钻个洞吧，哈哈，正好钻透美国">
+                <word id="0" cont="那么" />
+                <word id="1" cont="高" />
+                <word id="2" cont="，" />
+                <word id="3" cont="对" />
+                <word id="4" cont="地球" />
+                <word id="5" cont="的" />
+                <word id="6" cont="压力" />
+                <word id="7" cont="那么" />
+                <word id="8" cont="大" />
+                <word id="9" cont="，" />
+                <word id="10" cont="不" />
+                <word id="11" cont="会" />
+                <word id="12" cont="把" />
+                <word id="13" cont="地球" />
+                <word id="14" cont="钻" />
+                <word id="15" cont="个" />
+                <word id="16" cont="洞" />
+                <word id="17" cont="吧" />
+                <word id="18" cont="，" />
+                <word id="19" cont="哈哈" />
+                <word id="20" cont="，" />
+                <word id="21" cont="正好" />
+                <word id="22" cont="钻" />
+                <word id="23" cont="透" />
+                <word id="24" cont="美国" />
+            </sent>
+        </para>
+        <para id="124">
+            <sent id="0" cont="石油的威力，还有至少一两个世纪。">
+                <word id="0" cont="石油" />
+                <word id="1" cont="的" />
+                <word id="2" cont="威力" />
+                <word id="3" cont="，" />
+                <word id="4" cont="还有" />
+                <word id="5" cont="至少" />
+                <word id="6" cont="一两" />
+                <word id="7" cont="个" />
+                <word id="8" cont="世纪" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="125">
+            <sent id="0" cont="人家有钱，爱怎么花都行。">
+                <word id="0" cont="人家" />
+                <word id="1" cont="有" />
+                <word id="2" cont="钱" />
+                <word id="3" cont="，" />
+                <word id="4" cont="爱" />
+                <word id="5" cont="怎么" />
+                <word id="6" cont="花" />
+                <word id="7" cont="都" />
+                <word id="8" cont="行" />
+                <word id="9" cont="。" />
+            </sent>
+        </para>
+        <para id="126">
+            <sent id="0" cont="这是空前的，但决不是绝后的。">
+                <word id="0" cont="这" />
+                <word id="1" cont="是" />
+                <word id="2" cont="空前" />
+                <word id="3" cont="的" />
+                <word id="4" cont="，" />
+                <word id="5" cont="但" />
+                <word id="6" cont="决不" />
+                <word id="7" cont="是" />
+                <word id="8" cont="绝后" />
+                <word id="9" cont="的" />
+                <word id="10" cont="。" />
+            </sent>
+        </para>
+        <para id="127">
+            <sent id="0" cont="石油高度还会增长的。">
+                <word id="0" cont="石油" />
+                <word id="1" cont="高度" />
+                <word id="2" cont="还" />
+                <word id="3" cont="会" />
+                <word id="4" cont="增长" />
+                <word id="5" cont="的" />
+                <word id="6" cont="。" />
+            </sent>
+        </para>
+        <para id="128">
+            <sent id="0" cont="眼红啊？">
+                <word id="0" cont="眼红" />
+                <word id="1" cont="啊" />
+                <word id="2" cont="？" />
+            </sent>
+        </para>
+        <para id="129">
+            <sent id="0" cont="自己去赚钱嘛。">
+                <word id="0" cont="自己" />
+                <word id="1" cont="去" />
+                <word id="2" cont="赚钱" />
+                <word id="3" cont="嘛" />
+                <word id="4" cont="。" />
+            </sent>
+        </para>
+        <para id="130">
+            <sent id="0" cont="中国要建一座5000米的高楼！">
+                <word id="0" cont="中国" />
+                <word id="1" cont="要" />
+                <word id="2" cont="建" />
+                <word id="3" cont="一" />
+                <word id="4" cont="座" />
+                <word id="5" cont="5000" />
+                <word id="6" cont="米" />
+                <word id="7" cont="的" />
+                <word id="8" cont="高楼" />
+                <word id="9" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="131">
+            <sent id="0" cont="抵三个克莱斯勒。">
+                <word id="0" cont="抵" />
+                <word id="1" cont="三" />
+                <word id="2" cont="个" />
+                <word id="3" cont="克莱斯勒" />
+                <word id="4" cont="。" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+        </para>
+        <para id="132">
+            <sent id="0" cont="中国别玩这个，我们建航母，抵三个尼米兹吧">
+                <word id="0" cont="中国别" />
+                <word id="1" cont="玩" />
+                <word id="2" cont="这个" />
+                <word id="3" cont="，" />
+                <word id="4" cont="我们" />
+                <word id="5" cont="建" />
+                <word id="6" cont="航母" />
+                <word id="7" cont="，" />
+                <word id="8" cont="抵" />
+                <word id="9" cont="三" />
+                <word id="10" cont="个" />
+                <word id="11" cont="尼米兹" />
+                <word id="12" cont="吧" />
+            </sent>
+        </para>
+        <para id="133">
+            <sent id="0" cont="问题是石油总有挖完的那一天。">
+                <word id="0" cont="问题" />
+                <word id="1" cont="是" />
+                <word id="2" cont="石油" />
+                <word id="3" cont="总" />
+                <word id="4" cont="有" />
+                <word id="5" cont="挖" />
+                <word id="6" cont="完" />
+                <word id="7" cont="的" />
+                <word id="8" cont="那" />
+                <word id="9" cont="一" />
+                <word id="10" cont="天" />
+                <word id="11" cont="。" />
+            </sent>
+            <sent id="1" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+            <sent id="2" cont="。">
+                <word id="0" cont="。" />
+            </sent>
+        </para>
+        <para id="134">
+            <sent id="0" cont="石油是上帝给你们的，挖完了请来中国讨饭！">
+                <word id="0" cont="石油" />
+                <word id="1" cont="是" />
+                <word id="2" cont="上帝" />
+                <word id="3" cont="给" />
+                <word id="4" cont="你们" />
+                <word id="5" cont="的" />
+                <word id="6" cont="，" />
+                <word id="7" cont="挖" />
+                <word id="8" cont="完" />
+                <word id="9" cont="了" />
+                <word id="10" cont="请" />
+                <word id="11" cont="来" />
+                <word id="12" cont="中国" />
+                <word id="13" cont="讨饭" />
+                <word id="14" cont="！" />
+            </sent>
+        </para>
+        <para id="135">
+            <sent id="0" cont="最高的应时日本准备开始建的大楼1650米的">
+                <word id="0" cont="最高" />
+                <word id="1" cont="的" />
+                <word id="2" cont="应时" />
+                <word id="3" cont="日本" />
+                <word id="4" cont="准备" />
+                <word id="5" cont="开始建" />
+                <word id="6" cont="的" />
+                <word id="7" cont="大楼" />
+                <word id="8" cont="1650" />
+                <word id="9" cont="米" />
+                <word id="10" cont="的" />
+            </sent>
+        </para>
+        <para id="136">
+            <sent id="0" cont="最高的应时沙特准备开始建的大楼1600米">
+                <word id="0" cont="最高" />
+                <word id="1" cont="的" />
+                <word id="2" cont="应时" />
+                <word id="3" cont="沙特" />
+                <word id="4" cont="准备" />
+                <word id="5" cont="开始建" />
+                <word id="6" cont="的" />
+                <word id="7" cont="大楼" />
+                <word id="8" cont="1600" />
+                <word id="9" cont="米" />
+            </sent>
+        </para>
+        <para id="137">
+            <sent id="0" cont="国越小越好！">
+                <word id="0" cont="国" />
+                <word id="1" cont="越" />
+                <word id="2" cont="小" />
+                <word id="3" cont="越" />
+                <word id="4" cont="好" />
+                <word id="5" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="4" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="5" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="138">
+            <sent id="0" cont="越富越好！">
+                <word id="0" cont="越" />
+                <word id="1" cont="富" />
+                <word id="2" cont="越" />
+                <word id="3" cont="好" />
+                <word id="4" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="2" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="3" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="4" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="5" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+            <sent id="6" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="139">
+            <sent id="0" cont="石油阔佬们，不费吹灰之力拿到数不尽的钞票，尽干些违反经济规律的事。">
+                <word id="0" cont="石油阔佬" />
+                <word id="1" cont="们" />
+                <word id="2" cont="，" />
+                <word id="3" cont="不" />
+                <word id="4" cont="费" />
+                <word id="5" cont="吹灰" />
+                <word id="6" cont="之" />
+                <word id="7" cont="力" />
+                <word id="8" cont="拿" />
+                <word id="9" cont="到" />
+                <word id="10" cont="数" />
+                <word id="11" cont="不" />
+                <word id="12" cont="尽" />
+                <word id="13" cont="的" />
+                <word id="14" cont="钞票" />
+                <word id="15" cont="，" />
+                <word id="16" cont="尽" />
+                <word id="17" cont="干" />
+                <word id="18" cont="些" />
+                <word id="19" cont="违反" />
+                <word id="20" cont="经济" />
+                <word id="21" cont="规律" />
+                <word id="22" cont="的" />
+                <word id="23" cont="事" />
+                <word id="24" cont="。" />
+            </sent>
+        </para>
+        <para id="140">
+            <sent id="0" cont="迪拜，建筑师的天堂">
+                <word id="0" cont="迪拜" />
+                <word id="1" cont="，" />
+                <word id="2" cont="建筑师" />
+                <word id="3" cont="的" />
+                <word id="4" cont="天堂" />
+            </sent>
+        </para>
+        <para id="141">
+            <sent id="0" cont="中国建个1万米的，">
+                <word id="0" cont="中国" />
+                <word id="1" cont="建" />
+                <word id="2" cont="个" />
+                <word id="3" cont="1万" />
+                <word id="4" cont="米" />
+                <word id="5" cont="的" />
+                <word id="6" cont="，" />
+            </sent>
+        </para>
+        <para id="142">
+            <sent id="0" cont="是不是太高了点！">
+                <word id="0" cont="是" />
+                <word id="1" cont="不" />
+                <word id="2" cont="是" />
+                <word id="3" cont="太" />
+                <word id="4" cont="高" />
+                <word id="5" cont="了" />
+                <word id="6" cont="点" />
+                <word id="7" cont="！" />
+            </sent>
+            <sent id="1" cont="！">
+                <word id="0" cont="！" />
+            </sent>
+        </para>
+        <para id="143">
+            <sent id="0" cont="楼建得再高，阿联酋永远也都只是个小国！">
+                <word id="0" cont="楼" />
+                <word id="1" cont="建" />
+                <word id="2" cont="得" />
+                <word id="3" cont="再" />
+                <word id="4" cont="高" />
+                <word id="5" cont="，" />
+                <word id="6" cont="阿联酋" />
+                <word id="7" cont="永远" />
+                <word id="8" cont="也" />
+                <word id="9" cont="都" />
+                <word id="10" cont="只" />
+                <word id="11" cont="是" />
+                <word id="12" cont="个" />
+                <word id="13" cont="小国" />
+                <word id="14" cont="！" />
+            </sent>
+        </para>
+        <para id="144">
+            <sent id="0" cont="不可思议！">
+                <word id="0" cont="不可思议" />
+                <word id="1" cont="！" />
+            </sent>
+        </para>
+        <para id="145">
+            <sent id="0" cont="迪拜人就是NB！">
+                <word id="0" cont="迪拜人" />
+                <word id="1" cont="就" />
+                <word id="2" cont="是" />
+                <word id="3" cont="NB" />
+                <word id="4" cont="！" />
+            </sent>
+        </para>
+        <para id="146">
+            <sent id="0" cont="应该很快被中国某个小城市超过的！">
+                <word id="0" cont="应该" />
+                <word id="1" cont="很快" />
+                <word id="2" cont="被" />
+                <word id="3" cont="中国" />
+                <word id="4" cont="某个" />
+                <word id="5" cont="小" />
+                <word id="6" cont="城市" />
+                <word id="7" cont="超过" />
+                <word id="8" cont="的" />
+                <word id="9" cont="！" />
+            </sent>
+        </para>
+        <para id="147">
+            <sent id="0" cont="大家放心！">
+                <word id="0" cont="大家" />
+                <word id="1" cont="放心" />
+                <word id="2" cont="！" />
+            </sent>
+        </para>
+        <para id="148">
+            <sent id="0" cont="纯属钱烧的。">
+                <word id="0" cont="纯属" />
+                <word id="1" cont="钱" />
+                <word id="2" cont="烧" />
+                <word id="3" cont="的" />
+                <word id="4" cont="。" />
+            </sent>
+        </para>
+        <para id="149">
+            <sent id="0" cont="现在是在发子孙财，油抽干了，看得瑟不">
+                <word id="0" cont="现在" />
+                <word id="1" cont="是" />
+                <word id="2" cont="在" />
+                <word id="3" cont="发" />
+                <word id="4" cont="子孙财" />
+                <word id="5" cont="，" />
+                <word id="6" cont="油" />
+                <word id="7" cont="抽" />
+                <word id="8" cont="干" />
+                <word id="9" cont="了" />
+                <word id="10" cont="，" />
+                <word id="11" cont="看" />
+                <word id="12" cont="得" />
+                <word id="13" cont="瑟不" />
+            </sent>
+        </para>
+    </doc>
+</xml4nlp>
